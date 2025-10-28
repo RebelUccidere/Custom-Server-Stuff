@@ -112,8 +112,8 @@
 			<name>Ammo: Subsonic (Caseless)</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
-			<source>HT</source>
-			<page>189</page>
+			<source>SR5</source>
+			<page>5</page>
 			<avail>12F</avail>
 			<cost>40</cost>
 			<costfor>10</costfor>
@@ -124,6 +124,7 @@
 		</gear>
 	</gears>
 </chummer>
+
 
 
 

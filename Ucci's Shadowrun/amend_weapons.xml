@@ -1695,6 +1695,7 @@
 			<cost>5000</cost>
 			<source>SR5</source>
 			<page>430</page>
+			<hide/>
 			<accessorymounts>
 				<mount>Top</mount>
 				<mount>Under</mount>
@@ -1770,6 +1771,14 @@
 			<name>Ranger Arms SM-5</name>
 			<hide/>
 		</weapon>
+		<weapon>
+			<name>Vibro Knife</name>
+			<hide/>
+		</weapon>
+		<weapon>
+			<name>Vibro Sword</name>
+			<hide/>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>
@@ -1843,3 +1852,4 @@
 		</accessory>
 	</accessories>
 </chummer>
+

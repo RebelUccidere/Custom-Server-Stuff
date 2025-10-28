@@ -1,5 +1,8 @@
 <chummer>
 	<cyberwares>
+		<cyberware  xpathfilter="source = 'CF'>
+			<hide addifnotfound="True" />
+		</cyberware>
 		<cyberware>
 			<name>Aztechnology Cuanmiztli A</name>
 			<hide/>
@@ -90,3 +93,4 @@
 		</cyberware>
 	</cyberwares>
 </chummer>
+

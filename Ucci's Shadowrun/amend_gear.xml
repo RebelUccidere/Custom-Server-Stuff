@@ -6,6 +6,15 @@
 		<gear  xpathfilter="source = 'SR5' and category ='Drugs'">
 			<hide addifnotfound="True" />
 		</gear>
+		<gear  xpathfilter="source = 'SS' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'TVG' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'DTR' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
 		<gear  xpathfilter="source = 'KC' and category ='Commlinks'">
 			<hide addifnotfound="True" />
 		</gear>
@@ -229,6 +238,7 @@
 		</gear>
 	</gears>
 </chummer>
+
 
 
 

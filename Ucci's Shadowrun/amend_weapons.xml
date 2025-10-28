@@ -1850,6 +1850,11 @@
 			<name>Safe Target System, Base</name>
 			<hide/>
 		</accessory>
+		<accessory>
+			<name>Ammo Skip</name>
+			<hide/>
+		</accessory>
 	</accessories>
 </chummer>
+
 

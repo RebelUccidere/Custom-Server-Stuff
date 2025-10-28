@@ -7,13 +7,13 @@
 			<rating>0</rating>
 			<source>SR5</source>
 			<page>5</page>
-			<avail>12F</avail>
+			<avail>8F</avail>
 			<cost>40</cost>
 			<costfor>10</costfor>
 			<weaponbonus>
 				<damage>-1</damage>
 			</weaponbonus>
-			<ammoforweapontype>caseless</ammoforweapontype>
+			<ammoforweapontype>guns</ammoforweapontype>
 		</gear>
 	</gears>
 </chummer>

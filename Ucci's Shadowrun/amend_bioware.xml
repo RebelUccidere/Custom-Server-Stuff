@@ -1,8 +1,12 @@
 <chummer>
   <biowares>
+    <bioware  xpathfilter="source = 'CF'>
+			<hide addifnotfound="True" />
+		</bioware>
     <bioware>
       <id>b5af679d-e70d-43f3-9aa4-f3638796e948</id>
       <name>BioLink</name>
     </bioware>
   </biowares>
 </chummer>
+

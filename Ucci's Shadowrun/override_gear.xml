@@ -1,0 +1,19 @@
+<chummer>
+  <gears>
+    <gear>
+			<id>372649e9-9810-43fa-b709-450d2d7c203a</id>
+			<name>Ammo: Subsonic (HT 189)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>12F</avail>
+			<cost>40</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<damage>-1</damage>
+			</weaponbonus>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
+	</gears>
+</chummer>

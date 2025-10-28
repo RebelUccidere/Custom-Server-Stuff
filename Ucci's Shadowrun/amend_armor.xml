@@ -224,6 +224,26 @@
 			<id>1c5f484a-996c-4518-bf23-677a506b2ea5</id>
 			<name>Modular Armor: Forearms Kit</name>
 		</armor>
+		<armor>
+			<name>Snake Mesh Socks</name>
+			<hide/>
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Heavy</name>
+			<hide/>
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Helmet</name>
+			<hide/>
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Medium</name>
+			<hide/>
+		</armor>
+		<armor>
+			<name>Hardened Mil-Spec Battle Armor: Light</name>
+			<hide/>
+		</armor>
 	</armors>
 	<mods>
 		<mod>
@@ -240,3 +260,4 @@
 		</mod>
 	</mods>
 </chummer>
+

@@ -90,6 +90,9 @@
 		<gear  xpathfilter="source = 'KC' and category ='PI-Tac Programs'">
 			<hide addifnotfound="True" />
 		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Nanogear'">
+			<hide addifnotfound="True" />
+		</gear>
 		<gear>
 			<name>Meta Link</name>
 			<hide/>
@@ -240,8 +243,25 @@
 			<name>Ammo: APDS</name>
 			<hide/>
 		</gear>
+		<gear>
+			<name>KE-V</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>KEV Ammunition</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ares PED Mark III</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Urban Explorer Daedalus Replacement Parachute</name>
+			<hide/>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

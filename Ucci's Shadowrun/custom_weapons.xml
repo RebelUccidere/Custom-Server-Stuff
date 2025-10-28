@@ -53,6 +53,7 @@
         </accessory>
       </accessories>
       <spec>Revolvers</spec>
+      <spec2>Semi-Automatics</spec2>
    </weapon> 
    <weapon>
       <id>108e135d-6805-4b07-b78e-aa8fccd9b494</id>

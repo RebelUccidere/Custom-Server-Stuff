@@ -1,5 +1,5 @@
 <manifest xmlns=""xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ../manifest.xsd">
-	<guid>f552df77-8de0-4a2b-b1e1-8c28fb7399bf</guid>
+	<guid>20103e7e-a32a-4f59-8260-1551c5bc7f80</guid>
 	<version>1</version>
 	<authors>
 		<author>
@@ -9,9 +9,10 @@
 	</authors>
 	<descriptions>
 		<description>
-			<text>This is a modification that disables all Shadowrun setting items. Some items have been renamed, and generally should be of use to those looking to make their own world in the system.</text>
+			<text>Where all the basics are given for this little thing.</text>
 			<lang>en-us</lang>
 		</description>
 	</descriptions>
 </manifest>
+
 

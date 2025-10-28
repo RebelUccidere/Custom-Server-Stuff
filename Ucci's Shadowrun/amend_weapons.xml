@@ -1794,8 +1794,52 @@
 			<name>Krime Keeper</name>
 			<hide/>
 		</accessory>
+		<accessory>
+			<name>Maker Mag</name>
+			<avail>99F</avail>
+			<cost>999999</cost>
+		</accessory>
+		<accessory>
+			<name>Standard Maker Mag</name>
+			<avail>99F</avail>
+			<cost>999999</cost>
+		</accessory>
+		<accessory>
+			<name>Extended Maker Mag</name>
+			<avail>99F</avail>
+			<cost>999999</cost>
+		</accessory>
+		<accessory>
+			<name>Easy Breakdown (Powered)</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Chameleon Coating (Rifle)</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Chameleon Coating (Pistol)</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Smartgun System, Internal</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Trigger Removal</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Underbarrel Laser</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Smart Firing Platform</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Safe Target System, Base</name>
+			<hide/>
+		</accessory>
 	</accessories>
 </chummer>
-
-
-

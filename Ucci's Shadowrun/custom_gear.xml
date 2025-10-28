@@ -67,6 +67,63 @@
 			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
 			<devicerating>6</devicerating>
 		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badde9</id>
+			<name>Ammo: Regular Ammo (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>434</page>
+			<avail>6F</avail>
+			<cost>20</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>91d199b2-571d-426d-b609-c75a6bca9eb2</id>
+			<name>Ammo: Tracer (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>434</page>
+			<avail>10F</avail>
+			<cost>60</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>75a7ffdd-bc2b-4aeb-8bed-f64bc2b05e82</id>
+			<name>Ammo: AP Rounds (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>RG</source>
+			<page>55</page>
+			<avail>16F</avail>
+			<cost>175</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<ap>-1</ap>
+			</weaponbonus>
+			<ammoforweapontype>caseless</ammoforweapontype>
+			<notes>This give AP-1 to all targets and AP-3 to vehicles.</notes>
+		</gear>
+		<gear>
+			<id>372649e9-9810-43fa-b709-450d2d7c203a</id>
+			<name>Ammo: Subsonic (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>HT</source>
+			<page>189</page>
+			<avail>12F</avail>
+			<cost>40</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<damage>-1</damage>
+			</weaponbonus>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
 	</gears>
 </chummer>
+
+
 

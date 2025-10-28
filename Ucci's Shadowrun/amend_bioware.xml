@@ -1,6 +1,6 @@
 <chummer>
   <biowares>
-    <bioware  xpathfilter="source = 'CF'>
+    <bioware  xpathfilter="source = 'CF'">
 		<hide addifnotfound="True"/>
 	</bioware>
     <bioware>
@@ -9,3 +9,4 @@
     </bioware>
   </biowares>
 </chummer>
+

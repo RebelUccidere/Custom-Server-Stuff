@@ -259,8 +259,21 @@
 			<name>Urban Explorer Daedalus Replacement Parachute</name>
 			<hide/>
 		</gear>
+		<gear>
+			<name>Grenade: Halloweener Molotov Cocktail</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Grenade: Halloweener Molotov Cocktail, Aerodynamic</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Horizon BoomerEye</name>
+			<hide/>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

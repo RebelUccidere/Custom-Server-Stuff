@@ -202,5 +202,27 @@
 			<name>HMHVV II Inhibitor</name>
 			<hide/>
 		</gear>
+		<gear>
+			<name>Ammo: Stick-n-Shock</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: EX-Explosive Rounds</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Gauss</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Gauss</name>
+			<hide/>
+		</gear>
+		<gear>
+			<id>8C9AE7B4-EF1F-4983-9008-795D3592B417</id>
+			<name>Ammo: AP Rounds</name>
+			<notes>This give AP-1 to all targets and AP-3 to vehicles.</notes>
+		</gear>
 	</gears>
 </chummer>
+

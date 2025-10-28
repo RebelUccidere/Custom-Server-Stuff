@@ -236,8 +236,13 @@
 			<avail>12R</avail>
 			<notes>This give AP-1 to all targets and AP-3 to vehicles.</notes>
 		</gear>
+		<gear>
+			<name>Ammo: APDS</name>
+			<hide/>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

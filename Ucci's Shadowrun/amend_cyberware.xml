@@ -1,6 +1,6 @@
 <chummer>
 	<cyberwares>
-		<cyberware  xpathfilter="source = 'CF'>
+		<cyberware  xpathfilter="source = 'CF'">
 			<hide addifnotfound="True" />
 		</cyberware>
 		<cyberware>
@@ -93,4 +93,5 @@
 		</cyberware>
 	</cyberwares>
 </chummer>
+
 

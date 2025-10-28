@@ -75,7 +75,7 @@
         <mount>Barrel</mount>
         <mount>Top</mount>
       </accessorymounts>
-     <accessories>
+      <accessories>
         <accessory>
           <name>Electronic Firing</name>
         </accessory>

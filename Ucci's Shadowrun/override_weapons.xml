@@ -24,6 +24,7 @@
 				<mount>Stock</mount>
 				<mount>Side</mount>
 			</accessorymounts>
+			<notes>Do whatever you want, this is still shit.</notes>
 			<addweapon>Scrap Revolver: Bayonet (SL: 29)</addweapon>
 			<spec>Revolvers</spec>
 		</weapon>

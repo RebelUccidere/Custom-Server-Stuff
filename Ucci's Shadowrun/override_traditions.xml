@@ -1,0 +1,47 @@
+<chummer>
+    <traditions>
+        <tradition>
+            <id>a5c6f673-bd53-4e70-a574-af2f5a1c2e60</id>
+            <name>Red Magic (FA 88)</name>
+            <drain>{WIL} + {INT}</drain>
+            <source>SR5</source>
+            <page>5</page>
+            <spirits>
+                <spiritcombat>Spirit of Beasts</spiritcombat>
+                <spiritdetection>Spirit of Air</spiritdetection>
+                <spirithealth>Spirit of Water</spirithealth>
+                <spiritillusion>Spirit of Earth</spiritillusion>
+                <spiritmanipulation>Spirit of Man</spiritmanipulation>
+            </spirits>
+        </tradition>
+        <tradition>
+            <id>61819d3f-2ca6-4e1e-9d66-5d94c1560733</id>
+            <name>Green Magic (FA 80)</name>
+            <drain>{WIL} + {CHA}</drain>
+            <source>SR5</source>
+            <page>5</page>
+            <spirits>
+                <spiritcombat>Plant Spirit</spiritcombat>
+                <spiritdetection>Spirit of Earth</spiritdetection>
+                <spirithealth>Spirit of Water</spirithealth>
+                <spiritillusion>Spirit of Air</spiritillusion>
+                <spiritmanipulation>Spirit of Fire</spiritmanipulation>
+            </spirits>
+        </tradition>
+        <tradition>
+            <id>cc9f9b43-ef41-4581-8f9c-e1000e5a1578</id>
+            <name>Psionic (SSP 5)</name>
+            <drain>{WIL} + {INT}</drain>
+            <source>SR5</source>
+            <page>5</page>
+            <spiritform>Possession</spiritform>
+            <spirits>
+                <spiritcombat>Spirit of Fire</spiritcombat>
+                <spiritdetection>Spirit of Air</spiritdetection>
+                <spirithealth>Spirit of Man</spirithealth>
+                <spiritillusion>Guidance Spirit</spiritillusion>
+                <spiritmanipulation>Task Spirit</spiritmanipulation>
+            </spirits>
+        </tradition>
+    </traditions>
+</chummer>

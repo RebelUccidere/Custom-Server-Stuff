@@ -1,0 +1,206 @@
+<chummer>
+	<gears>
+		<gear  xpathfilter="source = 'DT' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'LCD' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'DT' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'LCD' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Rigger Command Consoles'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'RF' and category ='Currency'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'LCD' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'BB' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'BB' and category ='Biotech'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'BB' and category ='Toxins'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'SS' and category ='Toxins'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'HT' and category ='Toxins'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KK' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'HT' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'SL' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CA' and category ='Contracts/Upkeep'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CA' and category ='Tailored Perfume/Cologne'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='PI-Tac'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'RG' and category ='PI-Tac'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='PI-Tac Programs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear>
+			<name>Meta Link</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Sony Emperor</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Hermes Ikon</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Transys Avalon</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Spinrad Industries Trompe L'Oeil</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Fairlight Caliban</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Renraku Sensei</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Shiawase Jishi</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Erika Elite</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Crystal Leviathan Shatterstar</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Erika MCD-1</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Fairlight Excalibur</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Hermes Chariot</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Microdeck Summit</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Microtrónica Azteca 200</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Novatech Navigator</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Renraku Tsurugi</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Shiawase Cyber-5</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Sony CIY-720</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>CompuForce TaskMaster</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Essy Motors DroneMaster</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Lone Star Remote Commander</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Maersk Spider</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Maser Industrial Electronics</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>MCT Drone Web</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Proteus Poseidon</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Radio Shack Remote Controller</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Triox UberMensch</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Vulcan Liegelord</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Taurus Omni-6 Heavy</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>HMHVV II Inhibitor</name>
+			<hide/>
+		</gear>
+	</gears>
+</chummer>

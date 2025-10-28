@@ -1,0 +1,72 @@
+<chummer>
+	<gears>
+		<gear>
+			<id>c8cd6218-e826-41ee-bd26-fdaccce4020b</id>
+			<name>Junk Deck (DT, Page 64)</name>
+			<category>Cyberdecks</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>2</avail>
+			<capacity>0</capacity>
+			<cost>21000</cost>
+			<devicerating>1</devicerating>
+			<attributearray>2,2,1,1</attributearray>
+			<programs>1</programs>
+			<canformpersona>Self</canformpersona>
+			<gears>
+				<usegear>
+					<name>Sim Module, Hot</name>
+					<category>Commlink Accessories</category>
+				</usegear>
+				<usegear>
+					<name>Universal Connector Cord</name>
+					<category>Tools</category>
+					<rating>1</rating>
+				</usegear>
+				<usegear>
+					<name>Commlink Functionality</name>
+					<category>Electronics Accessories</category>
+				</usegear>
+				<notes>This is functionally identical to the Radio Shack Cyberdeck listed in Deta Trails, Page 64. This deck is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+			</gears>
+		</gear>
+		<gear>
+			<id>91b492a5-3112-4c30-82b1-00921302f974</id>
+			<name>PI-Tac Level I (RG, 105)</name>
+			<category>PI-Tac</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>12R</avail>
+			<cost>115000</cost>
+			<devicerating>4</devicerating>
+			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+		</gear>
+		<gear>
+			<id>5e3ac83d-c9ed-45b0-a6f9-c92365d6f712</id>
+			<name>PI-Tac Level II (RG, 105)</name>
+			<category>PI-Tac</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>18R</avail>
+			<cost>325000</cost>
+			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+			<devicerating>5</devicerating>
+		</gear>
+		<gear>
+			<id>c30cb477-0615-4cad-8d79-d281aad98dea</id>
+			<name>PI-Tac Level III (RG, 105)</name>
+			<category>PI-Tac</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>18F</avail>
+			<cost>855000</cost>
+			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+			<devicerating>6</devicerating>
+		</gear>
+	</gears>
+</chummer>
+

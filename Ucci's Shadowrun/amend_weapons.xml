@@ -1,0 +1,1801 @@
+<chummer>
+	<weapons>
+		<weapon xpathfilter="source = 'HT' or source='RG' or source='GH3' or source='KK' or source='TSG' or source='AP' or source='SL' or source='LCD' or source='CA'">
+			<hide amendoperation="addnode" />
+		</weapon>
+		<weapon>
+			<id>e5ac06f4-3755-42a7-9da9-88de4b3b2ad8</id>
+			<name>Ares Thunderstruck Gauss Rifle</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>15P</damage>
+			<ap>-8</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>10(c) + energy</ammo>
+			<avail>24F</avail>
+			<cost>26000</cost>
+			<source>RG</source>
+			<page>45</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>4a4810ca-4d11-49ee-8705-0411edc4d523</id>
+			<name>Krime Bomb</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>16P</damage>
+			<ap>-6</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>4(m)</ammo>
+			<avail>20F</avail>
+			<cost>23000</cost>
+			<source>GH3</source>
+			<page>35</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>3320c670-23ae-4cce-9c2c-e59d2554ddd7</id>
+			<name>Krime Cannon</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>16P</damage>
+			<ap>-6</ap>
+			<mode>SA</mode>
+			<rc>1</rc>
+			<ammo>6(m)</ammo>
+			<avail>20F</avail>
+			<cost>21000</cost>
+			<source>SR5</source>
+			<page>431</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>7fffffff-f8d7-4f99-8c9d-7fffffff7d80</id>
+			<name>Krime Confederate</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>17P</damage>
+			<ap>-6</ap>
+			<mode>SS</mode>
+			<rc>-</rc>
+			<ammo>2(b)</ammo>
+			<avail>20R</avail>
+			<cost>3500</cost>
+			<source>KK</source>
+			<page>16</page>
+			<accessories>
+				<accessory>
+					<name>Metahuman Adaptation</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>35d3e76d-f3a6-495c-8d9d-0cc32aa54ee4</id>
+			<name>Krime T-Shirt Cannon</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>0S</damage>
+			<ap>-</ap>
+			<mode>SS</mode>
+			<rc>-</rc>
+			<ammo>5(m)</ammo>
+			<avail>8</avail>
+			<cost>500</cost>
+			<source>KK</source>
+			<page>17</page>
+			<accessories>
+				<accessory>
+					<name>Metahuman Adaptation</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>8b7cce7a-6e85-4e37-b953-9f79a0ae77fe</id>
+			<name>Panther XXL</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>17P</damage>
+			<ap>-6</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>15(c)</ammo>
+			<avail>20F</avail>
+			<cost>43000</cost>
+			<source>SR5</source>
+			<page>431</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>e27e14ac-01bb-46e0-8d63-62994052d92c</id>
+			<name>Colt M23</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>40(c)</ammo>
+			<avail>4R</avail>
+			<cost>550</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>e39c445a-9657-4e71-949e-a1ea093c3504</id>
+			<name>FN HAR</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-2</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>35(c)</ammo>
+			<avail>8R</avail>
+			<cost>1500</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 2 System</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>6d99b7b6-7610-4ba0-833b-ecda09d83366</id>
+			<name>Colt Inception</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF</mode>
+			<rc>1</rc>
+			<ammo>35(c)</ammo>
+			<avail>11R</avail>
+			<cost>2250</cost>
+			<source>GH3</source>
+			<page>14</page>
+			<accessories>
+				<accessory>
+					<name>Bipod</name>
+				</accessory>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Melee Hardening</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>3a7a90ce-fbb5-4599-a857-b9849eb9769c</id>
+			<name>Ares Alpha</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>2</rc>
+			<ammo>42(c)</ammo>
+			<avail>11F</avail>
+			<cost>2650</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<underbarrels>
+				<underbarrel>Ares Alpha Grenade Launcher</underbarrel>
+			</underbarrels>
+		</weapon>
+		<weapon>
+			<id>b625833a-88bc-4047-b3fc-bc432d96744b</id>
+			<name>AK-97</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-2</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>38(c)</ammo>
+			<avail>4R</avail>
+			<cost>950</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>01e0eee7-452b-4fd5-abe1-29145da4a5e6</id>
+			<name>Yamaha Raiden</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>60(c)</ammo>
+			<avail>14F</avail>
+			<cost>2600</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Sound Suppressor</name>
+				</accessory>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>504cba24-2141-4879-8062-782332e83386</id>
+			<name>Ares Antioch-2</name>
+			<category>Grenade Launchers</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>Grenade</damage>
+			<ap>-</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>8(m)</ammo>
+			<avail>8F</avail>
+			<cost>3200</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>5b98b55d-c87c-453a-ad87-9b34c8cbf04b</id>
+			<name>ArmTech MGL-12</name>
+			<category>Grenade Launchers</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>Grenade</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>12(c)</ammo>
+			<avail>10F</avail>
+			<cost>5000</cost>
+			<source>SR5</source>
+			<page>431</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>bcaa065e-3a38-4c14-9839-a24d3aef2cc3</id>
+			<name>RPK HMG</name>
+			<category>Heavy Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-4</ap>
+			<mode>FA</mode>
+			<rc>0</rc>
+			<ammo>50(c)</ammo>
+			<avail>16F</avail>
+			<cost>16300</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<accessories>
+				<accessory>
+					<name>Tripod</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Medium/Heavy Machinegun</range>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>971c711b-db32-4339-9203-865ef38f350e</id>
+			<name>Ares Predator V</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>15(c)</ammo>
+			<avail>5R</avail>
+			<cost>725</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>3a91672e-0588-45a6-b225-149624e813ac</id>
+			<name>Ares Predator III</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>15(c)</ammo>
+			<avail>6R</avail>
+			<cost>600</cost>
+			<source>SASS</source>
+			<page>31</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>b6078372-786c-4aa0-9d16-38541b403730</id>
+			<name>Ares Viper Slivergun</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>9P(f)</damage>
+			<ap>+4</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>8F</avail>
+			<cost>380</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<accessories>
+				<accessory>
+					<name>Sound Suppressor</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>6fb39402-3ae3-4a21-9ed1-50b2c2e1b2c8</id>
+			<name>Browning Ultra-Power</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>10(c)</ammo>
+			<avail>4R</avail>
+			<cost>640</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>6366691e-c1e0-4d5e-b7a6-1c0371708714</id>
+			<name>Colt Government 2066</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>14(c)</ammo>
+			<avail>7R</avail>
+			<cost>425</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>581fed02-2312-4a75-95ba-25215b12ab5f</id>
+			<name>Colt Manhunter</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>16(c)</ammo>
+			<avail>5R</avail>
+			<cost>700</cost>
+			<source>SFM</source>
+			<page>18</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>c6c02391-12b5-4361-bc24-e1b5afc1ec6e</id>
+			<name>Remington Roomsweeper</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>8(m)</ammo>
+			<avail>6R</avail>
+			<cost>250</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>61c59a89-3c51-46b7-880a-933b29394315</id>
+			<name>Ruger Super Warhawk</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>6(cy)</ammo>
+			<avail>4R</avail>
+			<cost>400</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Revolvers</spec>
+		</weapon>
+		<weapon>
+			<id>71655ecf-6cb5-4adb-ac96-583b57fa6e9a</id>
+			<name>Fichetti Tiffani Needler</name>
+			<category>Holdouts</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>8P(f)</damage>
+			<ap>+5</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>4(c)</ammo>
+			<avail>5R</avail>
+			<cost>1000</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<hide/>
+		</weapon>
+		<weapon>
+			<id>f5497ad2-f4aa-4b84-9d1d-a9d2dfe90bfc</id>
+			<name>Streetline Special</name>
+			<category>Holdouts</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>6(c)</ammo>
+			<avail>4R</avail>
+			<cost>120</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<hide/>
+		</weapon>
+		<weapon>
+			<id>0b4c00be-d7bb-4480-b9f4-6300abde27c4</id>
+			<name>Walther Palm Pistol</name>
+			<category>Holdouts</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SS/BF</mode>
+			<rc>0</rc>
+			<ammo>2(b)</ammo>
+			<avail>4R</avail>
+			<cost>180</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<hide/>
+		</weapon>
+		<weapon>
+			<id>cb04b4c1-97ff-4984-9bc8-943e5f3ac557</id>
+			<name>Ingram Valiant</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>50(c)</ammo>
+			<avail>12F</avail>
+			<cost>5800</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<accessories>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 2 System</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>cbff618e-6a12-4bab-aaeb-2453706bf42e</id>
+			<name>Beretta 201T</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>21(c)</ammo>
+			<avail>7R</avail>
+			<cost>210</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<accessories>
+				<accessory>
+					<name>Stock</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>93722378-dcb6-4988-ba4e-54ce545644fe</id>
+			<name>Ares Light Fire 75</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>16(c)</ammo>
+			<avail>6F</avail>
+			<cost>1250</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+				<accessory>
+					<name>Silencer, Ares Light Fire 75</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>67474de7-d29b-4b31-a6ae-1e2e981fa5d2</id>
+			<name>Ares Light Fire 70</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>16(c)</ammo>
+			<avail>3R</avail>
+			<cost>200</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>676660a2-3320-4b4a-acaf-f645f2ba6cd7</id>
+			<name>Colt America L36</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>11(c)</ammo>
+			<avail>4R</avail>
+			<cost>320</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>7dff8ab0-c659-4901-ac3b-cb8b4f3839bf</id>
+			<name>Fichetti Security 600</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>6R</avail>
+			<cost>350</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>66955e6e-0b77-4ce0-9e24-6bb637a36541</id>
+			<name>Taurus Omni-6</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>6(cy)</ammo>
+			<avail>3R</avail>
+			<cost>300</cost>
+			<source>SR5</source>
+			<page>426</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+			<spec2>Revolvers</spec2>
+		</weapon>
+		<weapon>
+			<id>cb2afbcc-a1bf-465b-9fc2-c91e1ddfb100</id>
+			<name>Ares Crusader II</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>40(c)</ammo>
+			<avail>9R</avail>
+			<cost>830</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 2 System</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>0c8076a9-97e3-4583-8385-c32266c25190</id>
+			<name>Ceska Black Scorpion</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>35(c)</ammo>
+			<avail>6R</avail>
+			<cost>270</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>c8e3d921-45df-4850-8619-7fcca279d774</id>
+			<name>Steyr TMP</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>8R</avail>
+			<cost>350</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>a95df82f-4c48-43b1-8cfe-58d9aedb0b07</id>
+			<name>Stoner-Ares M202</name>
+			<category>Medium Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-3</ap>
+			<mode>FA</mode>
+			<rc>0</rc>
+			<ammo>50(c)</ammo>
+			<avail>12F</avail>
+			<cost>7000</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Medium/Heavy Machinegun</range>
+			<spec>Machine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>c6410d5f-def3-4dc6-b5d6-68fff704f7f2</id>
+			<name>Aztechnology Striker</name>
+			<category>Missile Launchers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>Missile</damage>
+			<ap>Missile</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(ml)</ammo>
+			<avail>10F</avail>
+			<cost>1200</cost>
+			<source>SR5</source>
+			<page>431</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>6753f5f1-72c5-41fb-beb6-6c1a37b82f5e</id>
+			<name>Onotari Interceptor</name>
+			<category>Missile Launchers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>Missile</damage>
+			<ap>Missile</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>2(ml)</ammo>
+			<avail>18F</avail>
+			<cost>14000</cost>
+			<source>SR5</source>
+			<page>431</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>c2c0e756-a099-4f9d-b6bb-18f412d670a3</id>
+			<name>Defiance T-250</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SS/SA</mode>
+			<rc>0</rc>
+			<ammo>5(m)</ammo>
+			<avail>4R</avail>
+			<cost>450</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
+			<id>5011b79e-8594-4dbe-9768-0db4d11ead2b</id>
+			<name>Defiance T-250, Short-Barrel</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>4</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-1</ap>
+			<mode>SS/SA</mode>
+			<rc>0</rc>
+			<ammo>5(m)</ammo>
+			<avail>3R</avail>
+			<cost>475</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<range>Heavy Pistols</range>
+		</weapon>
+		<weapon>
+			<id>622bd915-0e0c-431b-9da5-e0c0c31e2122</id>
+			<name>Enfield AS-7</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>13P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>10(c)</ammo>
+			<avail>12F</avail>
+			<cost>1100</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
+			<id>62221199-7958-4a76-a538-0c8e0a516608</id>
+			<name>PJSS Model 55</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-1</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>2(b)</ammo>
+			<avail>9R</avail>
+			<cost>1000</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<accessories>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<alternaterange>Shotguns (flechette)</alternaterange>
+		</weapon>
+		<weapon>
+			<id>50cec60d-a421-4edd-9baa-d10bfbc08e70</id>
+			<name>Ares Desert Strike</name>
+			<category>Sniper Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>13P</damage>
+			<ap>-4</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>14(c)</ammo>
+			<avail>10F</avail>
+			<cost>17500</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>8c22582e-56ff-4a44-9358-487d8a594833</id>
+			<name>Cavalier Arms Crockett EBR</name>
+			<category>Sniper Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-3</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>20(c)</ammo>
+			<avail>12F</avail>
+			<cost>10300</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>01d7b203-e57e-4cbd-9f68-a2134683e178</id>
+			<name>Remington 950</name>
+			<category>Sniper Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-4</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>5(m)</ammo>
+			<avail>4R</avail>
+			<cost>2100</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<accessories>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<hide/>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>6098fea5-3069-42b8-9405-80d07578b660</id>
+			<name>Ruger 101</name>
+			<category>Sniper Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-3</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>8(m)</ammo>
+			<avail>4R</avail>
+			<cost>1300</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<accessories>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>b2eefb04-0e33-4faa-8e92-5c4bcbfc3f16</id>
+			<name>Colt Cobra TZ-120</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>32(c)</ammo>
+			<avail>5R</avail>
+			<cost>660</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 2 System</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>de333a81-b997-4b17-ae0d-c221d22a28c7</id>
+			<name>FN P93 Praetor</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>1</rc>
+			<ammo>50(c)</ammo>
+			<avail>11F</avail>
+			<cost>900</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Stock</name>
+				</accessory>
+				<accessory>
+					<name>Flashlight, Standard</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>017d8327-3bce-420a-af24-a2bed3ab0e83</id>
+			<name>Ingram Smartgun X</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>32(c)</ammo>
+			<avail>6R</avail>
+			<cost>800</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+				<accessory>
+					<name>Sound Suppressor</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 2 System</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>be17251c-109c-4fbb-93e6-b59226592536</id>
+			<name>SCK Model 100</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>6R</avail>
+			<cost>875</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>e80cca4e-3210-4e38-b333-6c1cd42d6b54</id>
+			<name>Uzi IV</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>BF</mode>
+			<rc>0</rc>
+			<ammo>24(c)</ammo>
+			<avail>4R</avail>
+			<cost>400</cost>
+			<source>SR5</source>
+			<page>428</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>7d5bcc0b-9ec2-4c87-aaa7-a4d531d7974e</id>
+			<name>Defiance EX Shocker</name>
+			<category>Tasers</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>9S(e)</damage>
+			<ap>-5</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>4(m)</ammo>
+			<avail>0</avail>
+			<cost>250</cost>
+			<source>SR5</source>
+			<page>424</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<underbarrels>
+				<underbarrel>Defiance EX Shocker (Melee Contacts)</underbarrel>
+			</underbarrels>
+		</weapon>
+		<weapon>
+			<id>21628e04-95d0-4ba4-bc66-fcbed5a1bf8e</id>
+			<name>Yamaha Pulsar</name>
+			<category>Tasers</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7S(e)</damage>
+			<ap>-5</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>4(m)</ammo>
+			<avail>0</avail>
+			<cost>180</cost>
+			<source>SR5</source>
+			<page>425</page>
+			<hide/>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>f9ff7bf6-3ed4-41bd-b934-34e751ecf266</id>
+			<name>HK 227</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>0</rc>
+			<ammo>28(c)</ammo>
+			<avail>8R</avail>
+			<cost>730</cost>
+			<source>SR5</source>
+			<page>427</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Smartgun System, Internal</name>
+				</accessory>
+				<accessory>
+					<name>Sound Suppressor</name>
+				</accessory>
+			</accessories>
+			<hide/>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>15ec7fbb-4c22-4cae-a7cd-d2c580a6b447</id>
+			<name>Chem Spray Gun</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>Chemical</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>20(c)</ammo>
+			<avail>7R</avail>
+			<cost>950</cost>
+			<source>SR5</source>
+			<page>429</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Under</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<range>Light Pistols</range>
+			<sizecategory>Assault Rifles</sizecategory>
+			<useskill>Exotic Ranged Weapon</useskill>
+			<weapontype>squirtgun</weapontype>
+		</weapon>
+		<weapon>
+			<id>c884cf55-9a96-459d-a764-f223e1853149</id>
+			<name>Microwave Gun</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>Special</damage>
+			<ap>-</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>10</ammo>
+			<avail>11R</avail>
+			<cost>5000</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Under</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<range>Submachine Guns</range>
+			<sizecategory>Submachine Guns</sizecategory>
+			<useskill>Exotic Ranged Weapon</useskill>
+			<requireammo>False</requireammo>
+		</weapon>
+		<weapon>
+			<id>9c3d9b2e-336e-4c37-b05d-07bea9ae9c3f</id>
+			<name>Dart Pistol</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>As Drug/Toxin</damage>
+			<ap>0</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>5(c)</ammo>
+			<avail>4R</avail>
+			<cost>600</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<range>Heavy Pistols</range>
+			<sizecategory>Heavy Pistols</sizecategory>
+			<useskill>Exotic Ranged Weapon</useskill>
+			<weapontype>dartgun</weapontype>
+		</weapon>
+		<weapon>
+			<id>8432b006-0496-4930-b966-25ab56feb7e2</id>
+			<name>Dart Rifle</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>As Drug/Toxin</damage>
+			<ap>0</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>6(m)</ammo>
+			<avail>6R</avail>
+			<cost>1200</cost>
+			<source>SR5</source>
+			<page>430</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Under</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<range>Sporting Rifles</range>
+			<sizecategory>Sporting Rifles</sizecategory>
+			<useskill>Exotic Ranged Weapon</useskill>
+			<weapontype>dartgun</weapontype>
+		</weapon>
+		<weapon>
+			<id>01d7b203-e57e-4cbd-9f68-a2134683e178</id>
+			<name>Remington 950</name>
+			<hide/>
+		</weapon>
+		<weapon>
+			<name>Ranger Arms SM-5</name>
+			<hide/>
+		</weapon>
+	</weapons>
+	<accessories>
+		<accessory>
+			<id>3e048d18-3011-4e43-a557-0696c4c09042</id>
+			<name>Muzzle Break</name>
+		</accessory>
+		<accessory>
+			<id>aefc5dd2-4b2d-4662-99d6-3bddc8db026e</id>
+			<name>Dual-Mode External Smartgun Link</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<id>502c319a-68a9-4e89-8521-e4e535738890</id>
+			<name>Explosive Securing Tripod</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Krime Offline Support Solutions</name>
+			<hide/>
+		</accessory>
+		<accessory>
+			<name>Krime Keeper</name>
+			<hide/>
+		</accessory>
+	</accessories>
+</chummer>
+
+
+

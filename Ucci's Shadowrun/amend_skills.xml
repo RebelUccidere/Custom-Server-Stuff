@@ -1,0 +1,904 @@
+<chummer>
+	<knowledgeskills>
+		<skill>
+			<id>40d28f1b-2171-4a3b-a640-6b097a4dea95</id>
+			<name>Alcohol</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Beers</spec>
+				<spec>Coolers</spec>
+				<spec>Hard Liquor</spec>
+				<spec>Wines</spec>
+			</specs>
+		</skill>
+		<skill>
+			<name>Anishinaabe</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Arabic</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Atlanta</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Cheyenne</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Denver</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: FDC</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Hong Kong</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: LA</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Manhattan</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Neo-Tokyo</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Portland</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<name>Area Knowledge: Seattle</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>3f7935ef-dc5d-4b53-88ef-cb7db7cbe1a9</id>
+			<name>Art</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>15f89f34-cdbd-4523-a1eb-4d8043252389</id>
+			<name>Athabaskan</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>bee29957-affb-4593-a4fe-002f6dd5be9c</id>
+			<name>Bars and Clubs</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Awakened</spec>
+				<spec>Biker</spec>
+				<spec>Corporate</spec>
+				<spec>Dwarf</spec>
+				<spec>Elf</spec>
+				<spec>Gay</spec>
+				<spec>High-Class</spec>
+				<spec>Hotel</spec>
+				<spec>Jazz</spec>
+				<spec>Low-Class</spec>
+				<spec>Mafia</spec>
+				<spec>Matrix</spec>
+				<spec>Ork</spec>
+				<spec>Piano</spec>
+				<spec>Pubs</spec>
+				<spec>Rock</spec>
+				<spec>Seattle</spec>
+				<spec>Sports</spec>
+				<spec>Surge</spec>
+				<spec>Triad</spec>
+				<spec>Troll</spec>
+				<spec>Yakuza</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>d6e4efdd-d0a2-4727-8425-b43e480b3256</id>
+			<name>Bengali</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>6331a44a-ad26-4b08-8b7a-2dbe3c2d0584</id>
+			<name>Black Markets</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>a621ba8f-92e9-4032-b506-c1b2408dfa4e</id>
+			<name>Bulgarian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>dcf38896-6054-4ece-90e1-901352eb0201</id>
+			<name>Cantonese</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>d5412408-46a4-4871-945e-7983ad43857e</id>
+			<name>Charity Shelters</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>17c50e74-f009-4794-9dda-19062abb1d90</id>
+			<name>Croatian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>48bd3a3e-9ea8-425a-b2cd-c764479e9565</id>
+			<name>Crook Hangouts</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>High-Class</spec>
+				<spec>Low-Class</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>878181d4-2f54-4993-ae30-06c9bf1ee11b</id>
+			<name>Danish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>4fa93586-b5b4-4bf7-ad18-aacecc3a6894</id>
+			<name>Data Havens</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Hacking</spec>
+				<spec>Magic</spec>
+				<spec>Matrix</spec>
+				<spec>Shadows</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>b1d33738-a93a-46f3-a64a-0fc329ab1740</id>
+			<name>Economics</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Micro-economics</spec>
+				<spec>Corporate</spec>
+				<spec>Tribal</spec>
+				<spec>Underworld</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>907a3a8f-2c40-4543-a5a9-891bcde41f6b</id>
+			<name>English</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>f5a57bc4-8131-4a73-9c9a-03276d24a513</id>
+			<name>Eskimo-Aleut</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>b21c9f0f-9db0-4de1-b901-2a911d9abd62</id>
+			<name>Fashion</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>cee3de6f-4947-4947-b2e1-75fde02a5d78</id>
+			<name>Fashion Design</name>
+			<attribute>LOG</attribute>
+			<category>Professional</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>026062e0-9bdd-4a06-9cca-c3640c634cfd</id>
+			<name>French</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>7e1204ab-fc99-4453-9ec2-cc3f60ec2349</id>
+			<name>Gaming</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>a1c95207-1864-4723-b26f-b0a8c5b6290d</id>
+			<name>Gangs</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>b4d3d48a-bff1-4303-ac69-4dd9269d1b2c</id>
+			<name>Hebrew</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>406ddc53-6635-4cd7-8ad0-90024b683492</id>
+			<name>Hindi-Urdu</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>a68b4d38-9e7b-4f0d-be04-d28d2bec3803</id>
+			<name>History</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Ancient</spec>
+				<spec>Medieval</spec>
+				<spec>Modern</spec>
+				<spec>Art</spec>
+				<spec>Corporate</spec>
+				<spec>Military</spec>
+				<spec>Political</spec>
+				<spec>Religion</spec>
+				<spec>Social</spec>
+				<spec>Tribal</spec>
+				<spec>Underworld</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>a03b153c-1f16-484c-b229-1090e61c1f92</id>
+			<name>Indonesian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>71407a60-c753-40d9-9d5b-416c43b51fef</id>
+			<name>Infected</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs/>
+		</skill>
+		<skill>
+			<id>c66aff30-b99b-47c3-94df-e5b4cc4e06d2</id>
+			<name>Iroquoian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>87627536-a185-427a-bb14-54a4ff89901c</id>
+			<name>Italian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>f876953e-a14e-4ca5-b454-b0090907da28</id>
+			<name>Japanese</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>0ecbddff-4e99-485b-b54a-6c087c03f07b</id>
+			<name>Korean</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>bcf6bfe5-a454-43b3-9de0-bbdc7e18b5a5</id>
+			<name>Latin</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>cca8e4dc-4c67-45d2-bee6-57366d277206</id>
+			<name>Literature</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>7f7fea00-e656-4c7c-afd3-03f34aafa9f4</id>
+			<name>Mandarin</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>95730d81-d189-4cbe-8ee7-23b62f6efdb6</id>
+			<name>Matrix Games</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>8feeb71f-8864-4ece-88b2-52f77eb1851f</id>
+			<name>NAN Military</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>a068c0d8-5c87-46f2-a13d-f981fda80a06</id>
+			<name>Tir Military Vehicles</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>516713c4-8022-46ea-b1d1-f843922731d4</id>
+			<name>National Threats</name>
+			<attribute>LOG</attribute>
+			<category>Professional</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>5ea73805-1e96-4770-afef-647322f1eeff</id>
+			<name>News</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Business</spec>
+				<spec>Entertainment</spec>
+				<spec>Health</spec>
+				<spec>Science/Environment</spec>
+				<spec>Sports</spec>
+				<spec>Technology</spec>
+				<spec>Underworld</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>3057f850-d7d8-4c5d-9315-556ebb12f0e1</id>
+			<name>Or'zet</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>0b90b4b9-2290-45ad-9827-82fd0c6454be</id>
+			<name>Parazoology</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Spirits</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>004ef112-3f24-4ca1-bc9c-b0e4229fc3b6</id>
+			<name>Persian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>5fc15c3f-7b1c-4b87-a469-ccefb7d60820</id>
+			<name>Polish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>57090b04-5d4c-47ec-9cf3-9b414c40cb09</id>
+			<name>Politics</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Corporate</spec>
+				<spec>Military</spec>
+				<spec>Social</spec>
+				<spec>Tribal</spec>
+				<spec>Underworld</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>d11e8181-215e-41b3-8775-521b1d629123</id>
+			<name>Portuguese</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>a8187f25-74d6-43f5-9a43-8d03cef04a6e</id>
+			<name>Punjabi</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>bce7ec73-39ef-43bf-a74f-8fa7627753ab</id>
+			<name>Religion</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>7ba1f555-f6b5-4d3a-b0f6-38f9a030b661</id>
+			<name>Russian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>09ae5c16-0b45-4ab9-9634-cab22ad781c4</id>
+			<name>Security Companies</name>
+			<attribute>LOG</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>083e28e0-885a-4123-a8db-847c3509d14a</id>
+			<name>Sioux</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>b6aa3faa-64e0-4323-9617-49add784064a</id>
+			<name>Spanish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>a364caab-f0bd-49b8-859e-1fa0d73c3c53</id>
+			<name>Sperethiel</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>219d4e62-a378-480d-ba6a-9278490e4539</id>
+			<name>Sports</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Baseball</spec>
+				<spec>Basketball</spec>
+				<spec>Boxing</spec>
+				<spec>Combat Biking</spec>
+				<spec>Court Ball</spec>
+				<spec>Drone Racing</spec>
+				<spec>E-Sports</spec>
+				<spec>Football</spec>
+				<spec>Hockey</spec>
+				<spec>Hoverball</spec>
+				<spec>Hurling</spec>
+				<spec>Piloted Racing</spec>
+				<spec>Soccer</spec>
+				<spec>Underground Fighting</spec>
+				<spec>Wrestling</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>d0f7dabe-667a-45b1-ab51-a17f463b1bb1</id>
+			<name>Smuggler Routes</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>4a046ac0-b5fe-40d8-9ec6-305ffbac189c</id>
+			<name>Smuggler Safe Houses</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>51ea095a-2f1f-4090-afcb-d2cbb88c8f91</id>
+			<name>Street Drugs</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>BTLs</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>19a3925e-7ae7-4037-9d59-de63a7ab7a92</id>
+			<name>Syndicates</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Personalities</spec>
+				<spec>Ghost Cartels</spec>
+				<spec>Mafia</spec>
+				<spec>Triad</spec>
+				<spec>Yakuza</spec>
+				<spec>Vory</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>f1714745-01ae-4d17-95a8-68c94cc48d58</id>
+			<name>Tamazight</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>bb231493-bc95-4783-8ad9-e66078ee31ef</id>
+			<name>Thai</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>2ffc7361-466a-4f9e-a09c-f6c56046f2ef</id>
+			<name>Trideo Shows</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Action</spec>
+				<spec>Comedy</spec>
+				<spec>Cop</spec>
+				<spec>Documentary</spec>
+				<spec>Drama</spec>
+				<spec>Fantasy</spec>
+				<spec>Game Shows</spec>
+				<spec>Horror</spec>
+				<spec>Reality Shows</spec>
+				<spec>Rom-Com</spec>
+				<spec>Sci-fi</spec>
+				<spec>Thriller</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>dad44f50-efc1-4dc9-a1ac-ca7d89a18218</id>
+			<name>Turkish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>5c3ebb6f-d075-4486-8900-d7a19bae958f</id>
+			<name>Underworld</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Arson</spec>
+				<spec>Black Magic</spec>
+				<spec>Black Market Pipeline</spec>
+				<spec>Blackmail</spec>
+				<spec>Counterfeiting</spec>
+				<spec>Drugs</spec>
+				<spec>Drug Dealers</spec>
+				<spec>Fencing</spec>
+				<spec>Financial Crime</spec>
+				<spec>Fixing</spec>
+				<spec>Forgery</spec>
+				<spec>Gambling</spec>
+				<spec>Grifting</spec>
+				<spec>Hijacking</spec>
+				<spec>Illegal Goods</spec>
+				<spec>Kidnapping</spec>
+				<spec>Loansharking</spec>
+				<spec>Local Runners</spec>
+				<spec>Medicine</spec>
+				<spec>Matrix Crime</spec>
+				<spec>Money Laundering</spec>
+				<spec>Organleggers</spec>
+				<spec>Pornography</spec>
+				<spec>Prostitution</spec>
+				<spec>Protection</spec>
+				<spec>Robbery</spec>
+				<spec>Smugglers</spec>
+				<spec>Smuggling</spec>
+				<spec>Talislegger</spec>
+				<spec>Tamanous groups</spec>
+				<spec>White Collar</spec>
+				<spec>Wetwork</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>250f080a-9a79-4e8b-8980-d19bef402852</id>
+			<name>Vory</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Turf</spec>
+				<spec>Politics</spec>
+				<spec>Signs</spec>
+				<spec>History</spec>
+				<spec>Organizations</spec>
+				<spec>Safe Houses</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>20041f7e-7725-403e-8771-0904090bdfd1</id>
+			<name>Wu</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>ea024ba4-dabf-4da5-be96-a1bccfead27e</id>
+			<name>Xiang</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>37013018-70bd-4016-827c-c366949622f5</id>
+			<name>Awakened Hangouts</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>678da16f-6446-4e0c-8bef-cc1d619e1d1a</id>
+			<name>Connoisseur</name>
+			<attribute>INT</attribute>
+			<category>Interest</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>Fine Arts</spec>
+				<spec>Beers</spec>
+				<spec>Cuisines</spec>
+				<spec>Teas</spec>
+				<spec>Wines</spec>
+				<spec>Wine (Elven)</spec>
+				<spec>[Cuisine, Wine]</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>d9c2e7c4-b9c6-4904-b4a4-56ecca7c9530</id>
+			<name>Corporation: Ares Macrotechnology</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>50a4cbd7-a0f7-474a-97ae-a781320d6780</id>
+			<name>Corporation: Aztechnology</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>987d7063-73ec-4170-beb2-1851c0dd7cee</id>
+			<name>Corporation: Evo</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>6a3bd597-09e5-45ba-8719-d4eda627e780</id>
+			<name>Corporation: Horizon Group</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>dd4779db-4c54-4fa3-b56c-7caf0ba6926b</id>
+			<name>Corporation: Mitsuhama Computer Technologies</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>ee28a346-d0a8-476e-93a9-6db56ae4b298</id>
+			<name>Corporation: NeoNET</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>603f7245-62ef-477e-923e-f8a4681dec35</id>
+			<name>Corporation: Renraku Computer Systems</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>8db5cc64-5dc4-4ae9-a56b-e0c54a6e2413</id>
+			<name>Corporation: Saeder-Krupp</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>03707f22-bebe-469a-817b-f6dfd4d7d6a1</id>
+			<name>Corporation: Shiawase</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>c9826bde-bb0b-4e45-9348-aa77546dfc7c</id>
+			<name>Corporation: Wuxing, Inc.</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>44181f85-9472-4ab6-8da7-d4d2aeb38a96</id>
+			<name>Corporation: Brackhaven Investments</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>7592dc37-0d4f-4790-a1a8-188601b0d137</id>
+			<name>Corporation: DocWagon</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>0346bd5b-4a87-47b9-86de-9b322ef0a2c7</id>
+			<name>Corporation: Federated-Boeing</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>7d76f579-eec5-4521-a7bb-c4dedfd85af4</id>
+			<name>Corporation: Gaeatronics</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>dc767e9a-796a-494a-b200-d018efd4fa49</id>
+			<name>Corporation: Global Technologies</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>23efe0de-0830-40f4-ab54-ee5e324b31e9</id>
+			<name>Corporation: Knight Errant</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>d62f9a9e-9614-4421-a70c-b20b0f60641e</id>
+			<name>Corporation: Kong-Walmart</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>43378bcc-7ca9-4f26-9ee5-8bbc69953628</id>
+			<name>Corporation: Lone Star Security Services</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>183d5e40-4c27-4068-a30d-e75176f4da67</id>
+			<name>Corporation: Regency MegaMedia</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>a142e6ff-b97c-4cf6-9fbc-caebe1c3ba9f</id>
+			<name>Corporation: Stuffer Shack</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>eb92764d-5dff-4454-88a0-f7c8233c9016</id>
+			<name>Corporation: Telestrian Industries Corporation</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>0b1dfbba-c787-4455-95e0-0b87b885011b</id>
+			<name>Corporation: Universal Omnitech</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>cb35837e-09bd-4c53-96de-6fbd92b3d99f</id>
+			<name>Corporation: Zurich-Orbit Gemeinschaft Bank (ZOG)</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>decebd3c-5fb0-426e-8e9c-431e0fa3b880</id>
+			<name>Creole</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>2d74b337-f0c4-465c-a03a-23af8d93082b</id>
+			<name>Fight Clubs</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>cd7444d3-8eb4-41f7-a8a9-753df5958d0c</id>
+			<name>Foster System</name>
+			<attribute>LOG</attribute>
+			<category>Professional</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>[Jurisdiction]</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>a69c0dc0-891d-4d06-8fd4-0312b1288c0c</id>
+			<name>Philosophy</name>
+			<attribute>LOG</attribute>
+			<category>Academic</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>d232a676-7550-4e5a-8b5a-57417bb8038d</id>
+			<name>Organized Crime: Chicago</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>1d68ed58-91ff-495a-a456-2bc04d82a3b7</id>
+			<name>Lone Star Procedures</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>c345b536-1406-4d32-9ae1-0fc5002cd9c5</id>
+			<name>Politics: UCAS</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>06c125c8-01cc-40ba-9a11-2fdad092398f</id>
+			<name>Radical Groups</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace">
+				<spec>[group]</spec>
+			</specs>
+		</skill>
+		<skill>
+			<id>85a3fe58-b638-4272-949e-bd7549e32e00</id>
+			<name>Runner Hangouts</name>
+			<attribute>INT</attribute>
+			<category>Street</category>
+			<default>False</default>
+			<skillgroup/>
+			<specs amendoperation="replace"></specs>
+		</skill>
+		<skill>
+			<id>79a0069c-4517-4698-91b5-3d24b928c5ee</id>
+			<name>Salish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>1708eff8-a7fe-491f-b349-a6130c83e8d0</id>
+			<name>Serbo-Croatian</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>4c0b7b81-5dd4-4247-82da-88161992a374</id>
+			<name>Aztlaner Spanish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>39f7b0cb-dd7c-4196-808b-8910119ea884</id>
+			<name>Street Gangs: Seattle</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>ea016ac9-8000-4cb3-ae84-102e9c989667</id>
+			<name>Telesma</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>9d03c940-d018-40eb-8273-c33215de3948</id>
+			<name>Tlingit</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>ca63887a-1cee-4364-8fb9-126aa3526908</id>
+			<name>Triads: Hong Kong</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>7dd3d095-fdfb-4d95-b910-205f6e980434</id>
+			<name>Tsimshianic</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>3fcfdd55-03f6-4e08-aaa6-6c98f15b1cd3</id>
+			<name>Uto-Aztecan</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>53b99129-39d5-4bc4-9815-6bab79144c7c</id>
+			<name>Yiddish</name>
+			<hide addifnotfound="True" />
+		</skill>
+		<skill>
+			<id>037f8de4-9485-4efe-8e93-d7b929c62b29</id>
+			<name>Zuni</name>
+			<hide addifnotfound="True" />
+		</skill>
+	</knowledgeskills>
+</chummer>

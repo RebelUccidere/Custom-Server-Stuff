@@ -3,6 +3,21 @@
 		<cyberware  xpathfilter="source = 'CF'">
 			<hide addifnotfound="True" />
 		</cyberware>
+		<cyberware  xpathfilter="source = 'KC'">
+			<hide addifnotfound="True" />
+		</cyberware>
+		<cyberware  xpathfilter="source = 'HT'">
+			<hide addifnotfound="True" />
+		</cyberware>
+		<cyberware  xpathfilter="source = 'TCT'">
+			<hide addifnotfound="True" />
+		</cyberware>
+		<cyberware  xpathfilter="source = 'NF'">
+			<hide addifnotfound="True" />
+		</cyberware>
+		<cyberware  xpathfilter="source = 'HS'">
+			<hide addifnotfound="True" />
+		</cyberware>
 		<cyberware>
 			<name>Aztechnology Cuanmiztli A</name>
 			<hide/>
@@ -93,5 +108,6 @@
 		</cyberware>
 	</cyberwares>
 </chummer>
+
 
 

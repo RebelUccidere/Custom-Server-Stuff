@@ -1,88 +1,244 @@
 <chummer>
-  <weapons>
-    <weapon>
-      <id>a8ad48f0-3062-48fa-a688-2955ad51a9e1</id>
-      <name>MagnaPul PDP-9mm</name>
-      <category>Light Pistols</category>
-      <type>Ranged</type>
-      <conceal>-2</conceal>
-      <accuracy>5</accuracy>
-      <reach>0</reach>
-      <damage>6P</damage>
-      <ap>-</ap>
-      <mode>SA</mode>
-      <rc>0</rc>
-      <ammo>12(c)</ammo>
-      <avail>4R</avail>
-      <cost>350</cost>
-      <source>BASE</source>
-      <page>1</page>
-      <accessorymounts>
-        <mount>Barrel</mount>
-        <mount>Top</mount>
-      </accessorymounts>
-      <accessories>
-      </accessories>
-      <spec>Semi-Automatics</spec>
-    </weapon>
-    <weapon>
-      <id>4d8d13c4-5c97-4db9-bd05-3eb26847f7fe</id>
-      <name>MagnaPul 357 Police Special</name>
-      <category>Light Pistols</category>
-      <type>Ranged</type>
-      <conceal>-2</conceal>
-      <accuracy>7</accuracy>
-      <reach>0</reach>
-      <damage>7P</damage>
-      <ap>-</ap>
-      <mode>SA</mode>
-      <rc>-1</rc>
-      <ammo>6(cy)</ammo>
-      <avail>6R</avail>
-      <cost>650</cost>
-      <source>BASE</source>
-      <page>1</page>
-      <accessorymounts>
-        <mount>Barrel</mount>
-        <mount>Top</mount>
-      </accessorymounts>
-      <accessories>
+	<weapons>
+		<weapon>
+			<id>bae8a6bb-2176-44fb-a7dd-5cb16d8e316f</id>
+			<name>Exarch Covert Protector</name>
+			<category>Holdouts</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>8</accuracy>
+			<reach>0</reach>
+			<damage>2P</damage>
+			<ap>-10</ap>
+			<mode>SS</mode>
+			<rc>1</rc>
+			<ammo>50(M)</ammo>
+			<avail>25F</avail>
+			<cost>30,000</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessorymounts></accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System</name>
+				</accessory>
         <accessory>
-          <name>Extreme Environment Modification</name>
-          <rating>1</rating>
-        </accessory>
-      </accessories>
-      <spec>Revolvers</spec>
-      <spec2>Semi-Automatics</spec2>
-   </weapon> 
-   <weapon>
-      <id>108e135d-6805-4b07-b78e-aa8fccd9b494</id>
-      <name>USI Federal Standard 2011</name>
-      <category>Light Pistols</category>
-      <type>Ranged</type>
-      <conceal>-2</conceal>
-      <accuracy>6</accuracy>
-      <reach>0</reach>
-      <damage>7P</damage>
-      <ap>-1</ap>
-      <mode>SA</mode>
-      <rc>0</rc>
-      <ammo>10(c)</ammo>
-      <avail>16F</avail>
-      <cost>3000</cost>
-      <source>BASE</source>
-      <page>1</page>
-      <accessorymounts>
-        <mount>Barrel</mount>
-        <mount>Top</mount>
+					<name>Silencer/Suppressor</name>
+				</accessory>
+			</accessories>
+			<ammocategory>exarch</ammocategory>
+			<range>Light Pistols</range>
+			<spec>Holdouts</spec>
+		</weapon>
+    <weapon>
+			<id>35122b2f-bf31-4764-b5a9-5ea08a714737</id>
+			<name>Exarch Plasma Pistol</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-5</ap>
+			<mode>SS</mode>
+			<rc>-</rc>
+			<ammo>1(m)</ammo>
+			<avail>24F</avail>
+			<cost>50,000</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<accessorymounts>
       </accessorymounts>
-      <accessories>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System</name>
+				</accessory>
+			</accessories>
+			<ammocategory>exarch plasma</ammocategory>
+			<spec>Revolvers</spec>
+		</weapon>
+    <weapon>
+			<id>a807b6cc-72dd-4a63-af06-594d672d1b4f</id>
+			<name>Exarch Personal Defender</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>+4</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>5S(e)</damage>
+			<ap>-5</ap>
+			<mode>FA</mode>
+			<rc>10</rc>
+			<ammo>20(d)</ammo>
+			<avail>20F</avail>
+			<cost>20,000</cost>
+			<source>BASE</source>
+			<page>4</page>
+			<accessorymounts>
+      </accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System</name>
+				</accessory>
         <accessory>
-          <name>Electronic Firing</name>
-        </accessory>
+					<name>Holographic Sight</name>
+				</accessory>
+			</accessories>
+			<ammocategory>shotguns</ammocategory>
+			<spec>Submachine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>a8ad48f0-3062-48fa-a688-2955ad51a9e1</id>
+			<name>MagnaPul PDP-9mm</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>12(c)</ammo>
+			<avail>4R</avail>
+			<cost>350</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<accessories>
       </accessories>
-      <weapontype>caseless</weapontype>
-      <spec>Semi-Automatics</spec>
-    </weapon> 
-  </weapons>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>4d8d13c4-5c97-4db9-bd05-3eb26847f7fe</id>
+			<name>MagnaPul 357 Police Special</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-</ap>
+			<mode>SA</mode>
+			<rc>-1</rc>
+			<ammo>6(cy)</ammo>
+			<avail>6R</avail>
+			<cost>650</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Extreme Environment Modification</name>
+					<rating>1</rating>
+				</accessory>
+			</accessories>
+			<spec>Revolvers</spec>
+			<spec2>Semi-Automatics</spec2>
+		</weapon>
+		<weapon>
+			<id>108e135d-6805-4b07-b78e-aa8fccd9b494</id>
+			<name>USI Federal Standard 2011</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>10(c)</ammo>
+			<avail>16F</avail>
+			<cost>3000</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+			</accessories>
+			<weapontype>caseless</weapontype>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+	</weapons>
+	<accessories>
+		<accessory>
+			<id>83dc4e15-9160-4ea7-b21a-a21a07cf47aa</id>
+			<name>Exarch Smartlink System</name>
+			<mount/>
+			<avail>+10F</avail>
+			<cost>Weapon Cost</cost>
+			<source>BASE</source>
+			<page>7</page>
+			<accuracy>2</accuracy>
+			<hide/>
+			<forbidden>
+				<oneof>
+					<accessory>Ceramic/Plasteel Components</accessory>
+					<accessory>Collapsible Traditional Bow</accessory>
+					<accessory>Vintage</accessory>
+				</oneof>
+				<weapondetails>
+					<OR>
+						<type>Melee</type>
+					</OR>
+				</weapondetails>
+			</forbidden>
+			<gears>
+				<usegear>
+					<name>Laser Range Finder</name>
+					<category>Sensor Functions</category>
+				</usegear>
+				<usegear>
+					<name>Camera, Micro</name>
+					<category>Vision Devices</category>
+				</usegear>
+			</gears>
+			<rating>0</rating>
+		</accessory>
+		<accessory>
+			<id>2686b326-ef33-4099-8d76-eb1d502ec458</id>
+			<name>Exarch Smartlink System</name>
+			<mount/>
+			<avail>+10F</avail>
+			<cost>Weapon Cost * 4</cost>
+			<source>BASE</source>
+			<page>7</page>
+			<accuracy>3</accuracy>
+			<forbidden>
+				<oneof>
+					<accessory>Ceramic/Plasteel Components</accessory>
+					<accessory>Collapsible Traditional Bow</accessory>
+					<accessory>Vintage</accessory>
+				</oneof>
+				<weapondetails>
+					<OR>
+						<type>Melee</type>
+					</OR>
+				</weapondetails>
+			</forbidden>
+			<gears>
+				<usegear>
+					<name>Laser Range Finder</name>
+					<category>Sensor Functions</category>
+				</usegear>
+				<usegear>
+					<name>Camera, Micro</name>
+					<category>Vision Devices</category>
+				</usegear>
+			</gears>
+			<rating>0</rating>
+		</accessory>
+	</accessories>
 </chummer>

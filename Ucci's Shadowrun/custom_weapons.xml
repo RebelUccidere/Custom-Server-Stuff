@@ -1,6 +1,25 @@
 <chummer>
 	<weapons>
 		<weapon>
+			<id>1d5b7ff2-03aa-43f5-b753-85db0d31d388</id>
+			<name>Exarch Prototype Vibro Sword</name>
+			<category>Blades</category>
+			<type>Melee</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>1</reach>
+			<damage>(AGI*0.5)+3P</damage>
+			<ap>-</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>0</ammo>
+			<avail>99F</avail>
+			<cost>999999</cost>
+			<source>BASE</source>
+			<page>5</page>
+			<spec>Swords</spec>
+		</weapon>
+		<weapon>
 			<id>bae8a6bb-2176-44fb-a7dd-5cb16d8e316f</id>
 			<name>Exarch Covert Protector</name>
 			<category>Holdouts</category>
@@ -12,7 +31,7 @@
 			<ap>-10</ap>
 			<mode>SS</mode>
 			<rc>1</rc>
-			<ammo>50(M)</ammo>
+			<ammo>50(m)</ammo>
 			<avail>25F</avail>
 			<cost>30,000</cost>
 			<source>BASE</source>
@@ -20,9 +39,9 @@
 			<accessorymounts></accessorymounts>
 			<accessories>
 				<accessory>
-					<name>Exarch Smartlink System</name>
+					<name>Exarch Smartlink System*</name>
 				</accessory>
-        <accessory>
+        		<accessory>
 					<name>Silencer/Suppressor</name>
 				</accessory>
 			</accessories>
@@ -30,7 +49,33 @@
 			<range>Light Pistols</range>
 			<spec>Holdouts</spec>
 		</weapon>
-    <weapon>
+		<weapon>
+			<id>4a2de859-3128-46c2-a400-05fe4eb7da1a</id>
+			<name>Exarch Fuzzy Rifle</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>0</accuracy>
+			<reach>0</reach>
+			<damage>0P</damage>
+			<ap>0</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>5(m)</ammo>
+			<avail>30F</avail>
+			<cost>45,000</cost>
+			<source>BASE</source>
+			<page>6</page>
+			<accessorymounts></accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+			</accessories>
+			<ammocategory>exarch fuzzy</ammocategory>
+			<range>Heavy Pistols</range>
+		</weapon>
+    	<weapon>
 			<id>35122b2f-bf31-4764-b5a9-5ea08a714737</id>
 			<name>Exarch Plasma Pistol</name>
 			<category>Heavy Pistols</category>
@@ -51,7 +96,7 @@
       </accessorymounts>
 			<accessories>
 				<accessory>
-					<name>Exarch Smartlink System</name>
+					<name>Exarch Smartlink System*</name>
 				</accessory>
 			</accessories>
 			<ammocategory>exarch plasma</ammocategory>
@@ -78,7 +123,7 @@
       </accessorymounts>
 			<accessories>
 				<accessory>
-					<name>Exarch Smartlink System</name>
+					<name>Exarch Smartlink System*</name>
 				</accessory>
         <accessory>
 					<name>Holographic Sight</name>
@@ -175,7 +220,7 @@
 	<accessories>
 		<accessory>
 			<id>83dc4e15-9160-4ea7-b21a-a21a07cf47aa</id>
-			<name>Exarch Smartlink System</name>
+			<name>Exarch Smartlink System*</name>
 			<mount/>
 			<avail>+10F</avail>
 			<cost>Weapon Cost</cost>

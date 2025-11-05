@@ -211,8 +211,24 @@
 			<hide/>
 		</armor>
 		<armor>
-			<id>0997c43e-d59b-433f-b213-4de1cc5ab83a</id>
-			<name>Modular Armor: Shoulders Kit</name>
+			<armor>
+				<id>0997c43e-d59b-433f-b213-4de1cc5ab83a</id>
+				<name>Modular Armor: Shoulders Kit</name>
+				<category>Specialty Armor</category>
+				<armor>+1</armor>
+				<armorcapacity>3</armorcapacity>
+				<avail>6</avail>
+				<cost>250</cost>
+				<bonus>
+					<limitmodifier>
+						<limit>Social</limit>
+						<value>-1</value>
+						<condition>LimitCondition_Visible</condition>
+					</limitmodifier>
+				</bonus>
+				<source>RG</source>
+				<page>70</page>
+			</armor>
 		</armor>
 		<armor>
 			<id>f3e262d5-c6ec-4e2e-9081-21d160d8c21b</id>
@@ -276,6 +292,7 @@
 		</mod>
 	</mods>
 </chummer>
+
 
 
 

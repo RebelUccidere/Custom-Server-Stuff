@@ -1,0 +1,51 @@
+<chummer>
+	<armors>
+		<armor>
+			<id>4ad1eeab-daf3-4495-a73d-fbb0ce89be5b</id>
+			<name>Combat Vest</name>
+			<category>Armor</category>
+			<armor>14</armor>
+			<armorcapacity>9</armorcapacity>
+			<avail>10</avail>
+			<cost>1500</cost>
+			<mods>
+				<name>Vital Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<source>SR5</source>
+			<page>437</page>
+		</armor>
+		<armor>
+			<id>36a4cd30-c32c-44d0-847a-0c15fb51072a</id>
+			<name>Armor Jacket</name>
+			<category>Armor</category>
+			<armor>12</armor>
+			<armorcapacity>12</armorcapacity>
+			<avail>2</avail>
+			<cost>1000</cost>
+			<mods>
+				<name>Shoulder Armor</name>
+			</mods>
+			<source>SR5</source>
+			<page>437</page>
+		</armor>
+		<armor>
+			<id>9ee80c97-9197-4dd5-baed-f77cfd2cee17</id>
+			<name>Full Body Armor</name>
+			<category>Armor</category>
+			<armor>16</armor>
+			<armorcapacity>16</armorcapacity>
+			<avail>14R</avail>
+			<cost>2000</cost>
+			<addmodcategory>Full Body Armor Mods</addmodcategory>
+			<mods>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<source>SR5</source>
+			<page>437</page>
+		</armor>
+	</armors>
+</chummer>

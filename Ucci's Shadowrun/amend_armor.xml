@@ -151,6 +151,7 @@
 		<armor>
 			<id>40cf0da9-29d7-4a7b-8ef0-822ba05917b7</id>
 			<name>Mil-Spec Combat Armor</name>
+			<hide/>
 		</armor>
 		<armor>
 			<name>Rockblood Old School Line</name>
@@ -191,6 +192,7 @@
 		<armor>
 			<id>1b1c717f-740a-41e0-b0fc-605e38575c91</id>
 			<name>Artic Chameleon Suit</name>
+			<hide/>
 		</armor>
 		<armor>
 			<id>81fdc8a3-7106-4b08-a1f4-c72140bc90fc</id>
@@ -244,6 +246,11 @@
 			<name>Hardened Mil-Spec Battle Armor: Light</name>
 			<hide/>
 		</armor>
+		<armor>
+			<id>678353a1-b697-442a-aa3a-6e34b9178c4b</id>
+			<name>Ruthenium Polymer Cloak</name>
+			<hide/>
+		</armor>
 	</armors>
 	<mods>
 		<mod>
@@ -258,6 +265,12 @@
 			<id>9a1a569f-4c0c-4291-af5b-89e1334e95b4</id>
 			<name>Exclusive Quality Lining</name>
 		</mod>
+		<mod>
+			<id>63f94362-9778-47a6-8317-f306b199277e</id>
+			<name>Ruthenium Polymer Coating</name>
+			<hide/>
+		</mod>
 	</mods>
 </chummer>
+
 

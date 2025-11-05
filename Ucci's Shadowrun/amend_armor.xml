@@ -198,7 +198,6 @@
 			<name>Shiawase Arms Simoom</name>
 			<hide/>
 		</armor>
-		<armor>
 			<armor>
 				<id>0997c43e-d59b-433f-b213-4de1cc5ab83a</id>
 				<name>Modular Armor: Shoulders Kit</name>
@@ -217,7 +216,6 @@
 				<source>RG</source>
 				<page>70</page>
 			</armor>
-		</armor>
 		<armor>
 			<id>f3e262d5-c6ec-4e2e-9081-21d160d8c21b</id>
 			<name>Modular Armor: Vitals Kit</name>
@@ -280,6 +278,7 @@
 		</mod>
 	</mods>
 </chummer>
+
 
 
 

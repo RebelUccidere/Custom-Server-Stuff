@@ -200,7 +200,7 @@
 		</armor>
 		<armor>
 			<id>8c47595f-b22c-44b7-8191-a5fd04f6a07a</id>
-			<name>Armored Self-Sealing Spacesuit</name>
+			<hide/>
 		</armor>
 		<armor>
 			<id>c9861472-4784-44bf-ab25-8d71c03954e6</id>
@@ -251,6 +251,10 @@
 			<name>Ruthenium Polymer Cloak</name>
 			<hide/>
 		</armor>
+		<armor>
+			<name>Security Spacesuit</name>
+			<hide/>
+		</armor>
 	</armors>
 	<mods>
 		<mod>
@@ -272,5 +276,6 @@
 		</mod>
 	</mods>
 </chummer>
+
 
 

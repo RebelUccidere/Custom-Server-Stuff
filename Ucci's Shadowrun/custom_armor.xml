@@ -3,5 +3,61 @@
   
   </armors>
   <mods>
+	  <mod>
+		<id>80313cc0-4b57-4e29-b4ac-8ff287e7b86c</id>
+		<name>Shoulder Armor</name>
+		<category>General</category>
+		<armor>0</armor>
+		<maxrating>1</maxrating>
+		<armorcapacity>[0]</armorcapacity>
+		<gearcapacity>3</gearcapacity>
+		<hide/>
+		<avail>0</avail>
+		<cost>0</cost>
+		<source>SR5</source>
+		<page>437</page>
+	 </mod>
+	 <mod>
+		<id>2a733010-0fec-4f25-8fc9-a9bb0ee556ad</id>
+		<name>Vital Armor</name>
+		<category>General</category>
+		<armor>0</armor>
+		<maxrating>1</maxrating>
+		<armorcapacity>[0]</armorcapacity>
+		<gearcapacity>1</gearcapacity>
+		<hide/>
+		<avail>0</avail>
+		<cost>0</cost>
+		<source>SR5</source>
+		<page>437</page>
+	 </mod>
+	 <mod>
+		<id>80313cc0-4b57-4e29-b4ac-8ff287e7b86c</id>
+		<name>Forearm Armor</name>
+		<category>General</category>
+		<armor>0</armor>
+		<maxrating>1</maxrating>
+		<armorcapacity>[0]</armorcapacity>
+		<gearcapacity>3</gearcapacity>
+		<hide/>
+		<avail>0</avail>
+		<cost>0</cost>
+		<source>SR5</source>
+		<page>437</page>
+	 </mod>
+	 <mod>
+		<id>80313cc0-4b57-4e29-b4ac-8ff287e7b86c</id>
+		<name>Leg Armor</name>
+		<category>General</category>
+		<armor>0</armor>
+		<maxrating>1</maxrating>
+		<armorcapacity>[0]</armorcapacity>
+		<gearcapacity>3</gearcapacity>
+		<hide/>
+		<avail>0</avail>
+		<cost>0</cost>
+		<source>SR5</source>
+		<page>437</page>
+	 </mod>
   </mods>
 </chummer>

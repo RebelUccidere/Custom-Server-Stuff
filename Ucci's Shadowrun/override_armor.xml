@@ -47,5 +47,81 @@
 			<source>SR5</source>
 			<page>437</page>
 		</armor>
+		<armor>
+			<id>90b0ab96-661b-417c-9933-8113ab6d52d2</id>
+			<name>Specialist Armor Jacket</name>
+			<category>High-Fashion Armor Clothing</category>
+			<armor>12</armor>
+			<armorcapacity>10</armorcapacity>
+			<avail>10</avail>
+			<cost>1300</cost>
+			<selectmodsfromcategory>
+				<category>Custom Liners (Rating 4)</category>
+			</selectmodsfromcategory>
+			<gears>
+				<usegear>Holster</usegear>
+			</gears>
+			<mods>
+				<name>Shoulder Armor</name>
+			</mods>
+			<wirelessbonus>
+				<specificskill>
+					<name>Survival</name>
+					<bonus>1</bonus>
+				</specificskill>
+			</wirelessbonus>
+			<source>RG</source>
+			<page>63</page>
+		</armor>
+		<armor>
+			<id>21c8ae9d-3d08-4908-814f-ae195e4ea03d</id>
+			<name>Specialist Combat Vest</name>
+			<category>High-Fashion Armor Clothing</category>
+			<armor>14</armor>
+			<armorcapacity>10</armorcapacity>
+			<avail>7</avail>
+			<cost>900</cost>
+			<selectmodsfromcategory>
+				<category>Custom Liners (Rating 4)</category>
+			</selectmodsfromcategory>
+			<gears>
+				<usegear>Holster</usegear>
+			</gears>
+			<mods>
+				<name>Vital Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<wirelessbonus>
+				<specificskill>
+					<name>Survival</name>
+					<bonus>1</bonus>
+				</specificskill>
+			</wirelessbonus>
+			<source>RG</source>
+			<page>63</page>
+		</armor>
+		<armor>
+			<id>2de9a781-0b44-43a4-bfdf-2ca3c1e90bc0</id>
+			<name>Specialist Armor Clothing</name>
+			<category>High-Fashion Armor Clothing</category>
+			<armor>7</armor>
+			<armorcapacity>10</armorcapacity>
+			<avail>6</avail>
+			<cost>600</cost>
+			<selectmodsfromcategory>
+				<category>Custom Liners (Rating 2)</category>
+			</selectmodsfromcategory>
+			<mods>
+				<name>Gear Access</name>
+			</mods>
+			<wirelessbonus>
+				<specificskill>
+					<name>Survival</name>
+					<bonus>1</bonus>
+				</specificskill>
+			</wirelessbonus>
+			<source>RG</source>
+			<page>63</page>
+		</armor>
 	</armors>
 </chummer>

@@ -41,7 +41,7 @@
 				<accessory>
 					<name>Exarch Smartlink System*</name>
 				</accessory>
-        		<accessory>
+				<accessory>
 					<name>Silencer/Suppressor</name>
 				</accessory>
 			</accessories>
@@ -75,7 +75,7 @@
 			<ammocategory>exarch fuzzy</ammocategory>
 			<range>Heavy Pistols</range>
 		</weapon>
-    	<weapon>
+		<weapon>
 			<id>35122b2f-bf31-4764-b5a9-5ea08a714737</id>
 			<name>Exarch Plasma Pistol</name>
 			<category>Heavy Pistols</category>
@@ -92,8 +92,7 @@
 			<cost>50,000</cost>
 			<source>BASE</source>
 			<page>3</page>
-			<accessorymounts>
-      </accessorymounts>
+			<accessorymounts></accessorymounts>
 			<accessories>
 				<accessory>
 					<name>Exarch Smartlink System*</name>
@@ -102,7 +101,7 @@
 			<ammocategory>exarch plasma</ammocategory>
 			<spec>Revolvers</spec>
 		</weapon>
-    <weapon>
+		<weapon>
 			<id>a807b6cc-72dd-4a63-af06-594d672d1b4f</id>
 			<name>Exarch Personal Defender</name>
 			<category>Submachine Guns</category>
@@ -119,13 +118,12 @@
 			<cost>20,000</cost>
 			<source>BASE</source>
 			<page>4</page>
-			<accessorymounts>
-      </accessorymounts>
+			<accessorymounts></accessorymounts>
 			<accessories>
 				<accessory>
 					<name>Exarch Smartlink System*</name>
 				</accessory>
-        <accessory>
+				<accessory>
 					<name>Holographic Sight</name>
 				</accessory>
 			</accessories>
@@ -153,8 +151,7 @@
 				<mount>Barrel</mount>
 				<mount>Top</mount>
 			</accessorymounts>
-			<accessories>
-      </accessories>
+			<accessories></accessories>
 			<spec>Semi-Automatics</spec>
 		</weapon>
 		<weapon>
@@ -248,6 +245,55 @@
 				</accessory>
 			</accessories>
 			<spec>Submachine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>2b94c35f-0327-4baf-bfdd-f6b5f119b883</id>
+			<name>CMG</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>+2</conceal>
+			<accuracy>2</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>0</ap>
+			<mode>FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>4R</avail>
+			<cost>300</cost>
+			<source>BASE</source>
+			<page>4</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Submachine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>e5daaae7-21b7-494d-b10a-a0529ee0f2fe</id>
+			<name>Magna ARMS CQP-45</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>-2</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>9(c)</ammo>
+			<avail>10R</avail>
+			<cost>800</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
 		</weapon>
 	</weapons>
 	<accessories>

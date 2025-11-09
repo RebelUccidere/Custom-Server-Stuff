@@ -122,8 +122,33 @@
 			</weaponbonus>
 			<ammoforweapontype>caseless</ammoforweapontype>
 		</gear>
+		<gear>
+			<id>d4744ecf-bf44-480c-bf3c-f82464fe093f</id>
+			<name>Ammo: Exarch Plasma Cartridge</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>20F</avail>
+			<cost>200</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>exarch plasma</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>77558462-3fff-4145-9e3d-505ed417a7b8</id>
+			<name>Ammo: Exarch Quench Charge/name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>16F</avail>
+			<cost>100</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>exarch</ammoforweapontype>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

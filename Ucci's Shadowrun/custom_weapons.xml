@@ -224,7 +224,7 @@
 			<damage>7P</damage>
 			<ap>-1</ap>
 			<mode>SA/BF/FA</mode>
-			<rc>1</rc>
+			<rc>2</rc>
 			<ammo>30(c) or 45(d)</ammo>
 			<avail>8R</avail>
 			<cost>1050</cost>
@@ -291,7 +291,64 @@
 			<accessorymounts>
 				<mount>Barrel</mount>
 				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>195ca7e4-fa43-46d2-8376-02462c5910b9</id>
+			<name>CMGA2-SD</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>+2</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>8P</damage>
+			<ap>0</ap>
+			<mode>FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>10F</avail>
+			<cost>550</cost>
+			<source>BASE</source>
+			<page>4</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
 				<mount>Side</mount>
+			</accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Silencer/Suppressor</name>
+				</accessory>
+			</accessories>
+			<spec>Submachine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>e9259e38-be14-4943-836a-8f151e211b12</id>
+			<name>Nv. C4000</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>+2</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-3</ap>
+			<mode>SS</mode>
+			<rc>-2</rc>
+			<ammo>1(m)</ammo>
+			<avail>6R</avail>
+			<cost>1,000</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<ammocategory>Sporting Rifles</ammocategory>
+			<range>Submachine Guns</range>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
 			</accessorymounts>
 			<spec>Semi-Automatics</spec>
 		</weapon>

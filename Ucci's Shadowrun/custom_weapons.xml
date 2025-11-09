@@ -259,8 +259,8 @@
 			<mode>FA</mode>
 			<rc>0</rc>
 			<ammo>30(c)</ammo>
-			<avail>4R</avail>
-			<cost>300</cost>
+			<avail>6R</avail>
+			<cost>550</cost>
 			<source>BASE</source>
 			<page>4</page>
 			<accessorymounts>
@@ -351,6 +351,57 @@
 				<mount>Top</mount>
 			</accessorymounts>
 			<spec>Revolvers</spec>
+		</weapon>
+		<weapon>
+			<id>cf8e300e-7c07-41ec-be9e-d2f0f33c3b8d</id>
+			<name>Vk. 26S-MP</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>+1</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>0</ap>
+			<mode>SA/FA</mode>
+			<rc>1</rc>
+			<ammo>20(c)</ammo>
+			<avail>4R</avail>
+			<cost>350</cost>
+			<source>BASE</source>
+			<page>4</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+			<spec>Submachine Guns</spec>
+		</weapon>
+		<weapon>
+			<id>66c72e68-0a68-4ff5-8d4a-0457726efd42</id>
+			<name>Nv. 4000</name>
+			<category>Sporting Rifles</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>SS</mode>
+			<rc>-1</rc>
+			<ammo>1(m)</ammo>
+			<avail>3R</avail>
+			<cost>750</cost>
+			<source>BASE</source>
+			<page>6</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Sporting Rifles</spec>
 		</weapon>
 	</weapons>
 	<accessories>

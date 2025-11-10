@@ -126,7 +126,7 @@
 		</armor>
 		<armor>
 			<id>2c5b1217-c36a-4386-8f98-6657518ba91d</id>
-			<name>Security Armor: Light</name>
+			<name>Combat Armor</name>
 			<category>Specialty Armor</category>
 			<armor>16</armor>
 			<armorcapacity>13</armorcapacity>
@@ -155,7 +155,7 @@
 		</armor>
 		<armor>
 			<id>20606e03-592a-4bb8-938b-3985054505fa</id>
-			<name>Security Armor: Medium</name>
+			<name>Heavy Combat Armor</name>
 			<category>Specialty Armor</category>
 			<armor>20</armor>
 			<armorcapacity>16</armorcapacity>

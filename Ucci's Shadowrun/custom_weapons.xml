@@ -336,7 +336,7 @@
 			<accuracy>4</accuracy>
 			<reach>0</reach>
 			<damage>10P</damage>
-			<ap>-3</ap>
+			<ap>-2</ap>
 			<mode>SS</mode>
 			<rc>-2</rc>
 			<ammo>1(m)</ammo>

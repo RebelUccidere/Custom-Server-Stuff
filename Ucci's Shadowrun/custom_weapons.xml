@@ -463,6 +463,38 @@
 			<spec>Revolvers</spec>
 			<spec2>Semi-Automatic</spec2>
 		</weapon>
+		<weapon>
+			<id>81f2cae0-f3e2-473d-8c9b-1bed530ca14d</id>
+			<name>Exarch Export Arms Assault Rifle</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>5</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>BF/FA</mode>
+			<rc>3</rc>
+			<ammo>30(c)</ammo>
+			<avail>20F</avail>
+			<cost>8000</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+				<accessory>
+					<name>Hyper Burst Function</name>
+				</accessory>
+				<name>Ceramic/Plasteel Components</name>
+				<rating>6</rating>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>
@@ -531,6 +563,17 @@
 				</usegear>
 			</gears>
 			<rating>0</rating>
+		</accessory>
+		<accessory>
+			<id>9ecb0c13-f8be-4bce-90c1-9f6c57c30241</id>
+			<name>Exarch Smartlink System</name>
+			<mount/>
+			<hide/>
+			<avail>10R</avail>
+			<cost>Weapon Cost</cost>
+			<source>BASE</source>
+			<page>11</page>
+			<notes>This mainly is used by experimental weapons for firing a small burst of rounds at immensely fast rates of fire. When using this function, your weapon may only use the BF firerate. When you do so, increase the accuracy of the weapon during the attack by 2.</notes>
 		</accessory>
 	</accessories>
 </chummer>

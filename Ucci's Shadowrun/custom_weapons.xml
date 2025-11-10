@@ -516,7 +516,41 @@
 			<page>8</page>
 			<accessories>
 				<accessory>
-					<name>Hyper Burst Function</name>
+					<name>Extreme Environment Modification</name>
+					<rating>1</rating>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>04c44713-b722-4016-b6f8-8a63ae030a74</id>
+			<name>Lux Cruncher</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-4</ap>
+			<mode>BF/FA</mode>
+			<rc>1</rc>
+			<ammo>21(d)</ammo>
+			<avail>8R</avail>
+			<cost>2250</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, External</name>
+				</accessory>
+				<accessory>
+					<name>Improved Range Finder</name>
 				</accessory>
 				<accessory>
 					<name>Extreme Environment Modification</name>
@@ -528,7 +562,6 @@
 				<mount>Side</mount>
 				<mount>Barrel</mount>
 				<mount>Top</mount>
-				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
 	</weapons>

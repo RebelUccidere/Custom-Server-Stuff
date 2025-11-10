@@ -48,4 +48,56 @@
 			<hide/>
 		</weapon>
 	</weapons>
+	<accessories>
+		<accessory>
+			<id>d5abeadd-fba4-47f9-ac35-bfbb31ce34be</id>
+			<name>Long Barrel</name>
+			<mount/>
+			<avail>8R</avail>
+			<cost>Weapon Cost</cost>
+			<source>HT</source>
+			<page>181</page>
+			<accuracy>1</accuracy>
+			<conceal>+1</conceal>
+			<rating>0</rating>
+		</accessory>
+		<accessory>
+			<id>225d5411-953e-4537-9e97-40bced059bd3</id>
+			<name>Sawed Off/Shortbarrel</name>
+			<mount/>
+			<avail>4R</avail>
+			<cost>20</cost>
+			<source>HT</source>
+			<page>182</page>
+			<conceal>-1</conceal>
+			<accuracy>-1</accuracy>
+			<forbidden>
+				<oneof>
+					<accessory>Stock Removal</accessory>
+					<accessory>Sawed Off/Shortbarrel and Stock Removal</accessory>
+				</oneof>
+			</forbidden>
+			<rating>0</rating>
+			<required>
+				<weapondetails>
+					<OR>
+						<category>Heavy Pistols</category>
+						<category>Assault Rifles</category>
+						<category>Shotguns</category>
+						<category>Sniper Rifles</category>
+						<category>Sporting Rifles</category>
+						<useskill>Longarms</useskill>
+						<AND>
+							<useskill NOT="" operation="exists"/>
+							<OR>
+								<category>Shotguns</category>
+								<category>Sporting Rifles</category>
+								<category>Sniper Rifles</category>
+							</OR>
+						</AND>
+					</OR>
+				</weapondetails>
+			</required>
+		</accessory>
+	</accessories>
 </chummer>

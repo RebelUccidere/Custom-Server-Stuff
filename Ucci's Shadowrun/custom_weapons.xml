@@ -438,6 +438,31 @@
 			</accessories>
 			<spec>Submachine Guns</spec>
 		</weapon>
+		<weapon>
+			<id>2d4cf0a4-f8b5-45a8-b811-51f9253b940c</id>
+			<name>Moose Stopper</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>+1</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>-2</rc>
+			<ammo>6(cy)</ammo>
+			<avail>12R</avail>
+			<cost>1,500</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<ammocategory>Sporting Rifles</ammocategory>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Revolvers</spec>
+			<spec2>Semi-Automatic</spec2>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

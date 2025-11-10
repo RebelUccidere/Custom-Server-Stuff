@@ -170,10 +170,6 @@
 			<hide/>
 		</armor>
 		<armor>
-			<id>28c1d806-5db7-4d22-8ce2-66bc8778a29b</id>
-			<name>Artic Combat Suit</name>
-		</armor>
-		<armor>
 			<id>e76e2b43-e81e-49df-90a6-6f1a466a4009</id>
 			<name>Armored Coldsuit</name>
 		</armor>
@@ -278,6 +274,7 @@
 		</mod>
 	</mods>
 </chummer>
+
 
 
 

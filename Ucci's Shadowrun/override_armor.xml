@@ -124,5 +124,214 @@
 			<source>RG</source>
 			<page>63</page>
 		</armor>
+		<armor>
+			<id>2c5b1217-c36a-4386-8f98-6657518ba91d</id>
+			<name>Security Armor: Light</name>
+			<category>Specialty Armor</category>
+			<armor>16</armor>
+			<armorcapacity>13</armorcapacity>
+			<avail>14R</avail>
+			<cost>8000</cost>
+			<bonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>1</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+			</bonus>
+			<mods>
+				<name>Custom Fit</name>
+				<name>Gear Access</name>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<gears>
+				<usegear>Holster</usegear>
+			</gears>
+			<source>RG</source>
+			<page>67</page>
+		</armor>
+		<armor>
+			<id>20606e03-592a-4bb8-938b-3985054505fa</id>
+			<name>Security Armor: Medium</name>
+			<category>Specialty Armor</category>
+			<armor>20</armor>
+			<armorcapacity>16</armorcapacity>
+			<avail>16R</avail>
+			<cost>14000</cost>
+			<bonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>1</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+			</bonus>
+			<mods>
+				<name>Custom Fit</name>
+				<name>Gear Access</name>
+				<name>Restrictive</name>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<gears>
+				<usegear>Holster</usegear>
+			</gears>
+			<source>RG</source>
+			<page>67</page>
+		</armor>
+		<armor>
+			<id>d553f4be-85cb-48b9-b7bd-4eea8a67418d</id>
+			<name>Super Heavy Combat Armor</name>
+			<category>Specialty Armor</category>
+			<armor>22</armor>
+			<armorcapacity>18</armorcapacity>
+			<avail>18R</avail>
+			<cost>20000</cost>
+			<bonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>1</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+			</bonus>
+			<mods>
+				<name>Custom Fit</name>
+				<name>Gear Access</name>
+				<name>Restrictive</name>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<gears>
+				<usegear>Holster</usegear>
+			</gears>
+			<source>RG</source>
+			<page>67</page>
+		</armor>
+		<armor>
+			<id>7270c272-fef6-4b93-ae78-aa4906d9dbd5</id>
+			<name>Combat Helmet</name>
+			<category>Specialty Armor</category>
+			<armor>+3</armor>
+			<armorcapacity>5</armorcapacity>
+			<avail>8R</avail>
+			<cost>5000</cost>
+			<source>RG</source>
+			<page>67</page>
+		</armor>
+		<armor>
+			<id>c6b7ed25-c5ff-464c-a6e1-776d9cdb7ac7</id>
+			<name>SWAT Armor</name>
+			<category>Specialty Armor</category>
+			<armor>16</armor>
+			<armorcapacity>16</armorcapacity>
+			<avail>16R</avail>
+			<cost>8000</cost>
+			<bonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>2</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>-1</value>
+					<condition>LimitCondition_ExcludeIntimidationVisible</condition>
+				</limitmodifier>
+			</bonus>
+			<mods>
+				<name>Gear Access</name>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<wirelessbonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>3</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+			</wirelessbonus>
+			<source>RG</source>
+			<page>70</page>
+		</armor>
+		<armor>
+			<id>4cf22984-065a-4959-ab6c-2bf1b826f493</id>
+			<name>Riot Control Armor</name>
+			<category>Specialty Armor</category>
+			<armor>14</armor>
+			<armorcapacity>8</armorcapacity>
+			<avail>10R</avail>
+			<cost>5000</cost>
+			<bonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>1</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+			</bonus>
+			<mods>
+				<name>Padded</name>
+				<name>Restrictive</name>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<wirelessbonus>
+				<limitmodifier>
+					<limit>Social</limit>
+					<value>2</value>
+					<condition>LimitCondition_IntimidationVisible</condition>
+				</limitmodifier>
+			</wirelessbonus>
+			<source>RG</source>
+			<page>69</page>
+		</armor>
+		<armor>
+			<id>28c1d806-5db7-4d22-8ce2-66bc8778a29b</id>
+			<name>Arctic Armored Combat Suit</name>
+			<category>Specialty Armor</category>
+			<armor>16</armor>
+			<armorcapacity>14</armorcapacity>
+			<avail>16R</avail>
+			<cost>11000</cost>
+			<bonus>
+				<limitmodifier>
+					<limit>Physical</limit>
+					<value>1</value>
+					<condition>LimitCondition_SkillsActiveGymnasticsClimbing</condition>
+				</limitmodifier>
+			</bonus>
+			<mods>
+				<name>Custom Fit</name>
+				<name rating="5">Insulation</name>
+				<name rating="4">Thermal Damping</name>
+				<name>Gear Access</name>
+				<name>Vital Armor</name>
+				<name>Forearm Armor</name>
+				<name>Leg Armor</name>
+				<name>Shoulder Armor</name>
+			</mods>
+			<gears>
+				<usegear>Gas Mask</usegear>
+				<usegear>Flare Compensation</usegear>
+			</gears>
+			<wirelessbonus>
+				<limitmodifier>
+					<limit>Physical</limit>
+					<value>1</value>
+					<condition>LimitCondition_ClimbingTests</condition>
+				</limitmodifier>
+			</wirelessbonus>
+			<source>RG</source>
+			<page>77</page>
+		</armor>
 	</armors>
 </chummer>

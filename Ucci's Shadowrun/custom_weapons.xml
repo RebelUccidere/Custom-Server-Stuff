@@ -484,8 +484,44 @@
 				<accessory>
 					<name>Hyper Burst Function</name>
 				</accessory>
+				<accessory>
 				<name>Ceramic/Plasteel Components</name>
 				<rating>6</rating>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>91f7eba5-6978-4266-95f5-6c0833db3b60</id>
+			<name>Nv. 760-T-10</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-2</ap>
+			<mode>SA/FA</mode>
+			<rc>1</rc>
+			<ammo>30(c)</ammo>
+			<avail>6R</avail>
+			<cost>1150</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+				<accessory>
+					<name>Hyper Burst Function</name>
+				</accessory>
+				<accessory>
+					<name>Extreme Environment Modification</name>
+					<rating>1</rating>
+				</accessory>
 			</accessories>
 			<accessorymounts>
 				<mount>Stock</mount>

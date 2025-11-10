@@ -136,7 +136,7 @@
 		</gear>
 		<gear>
 			<id>77558462-3fff-4145-9e3d-505ed417a7b8</id>
-			<name>Ammo: Exarch Quench Charge/name>
+			<name>Ammo: Exarch Quench Charge</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>BASE</source>
@@ -148,6 +148,7 @@
 		</gear>
 	</gears>
 </chummer>
+
 
 
 

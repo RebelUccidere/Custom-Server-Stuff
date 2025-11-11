@@ -564,6 +564,34 @@
 				<mount>Top</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>91f7eba5-6978-4266-95f5-6c0833db3b60</id>
+			<name>Vk. 760-T-10C</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-2</ap>
+			<mode>SA/FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>7R</avail>
+			<cost>1050</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+			</accessories>
+			<ammocategory>Assault Rifles</ammocategory>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

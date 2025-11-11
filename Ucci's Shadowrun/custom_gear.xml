@@ -146,8 +146,57 @@
 			<costfor>10</costfor>
 			<ammoforweapontype>exarch</ammoforweapontype>
 		</gear>
+		<gear>
+			<id>8f8cba47-150b-49d8-8564-536090fd7d0f</id>
+			<name>Ammo: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>10F</avail>
+			<cost>150</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>gun</ammoforweapontype>
+			<weaponbonus>
+				<damage>-1</damage>
+				<ap>-1</ap>
+			</weaponbonus>
+		</gear>
+		<gear>
+			<id>7147213e-0ce2-4509-aaa5-6e33862632cf</id>
+			<name>Bolt: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>10F</avail>
+			<cost>35</cost>
+			<costfor>1</costfor>
+			<ammoforweapontype>crossbow</ammoforweapontype>
+			<weaponbonus>
+				<damage>-1</damage>
+				<ap>-1</ap>
+			</weaponbonus>
+		</gear>
+		<gear>
+			<id>5f9aabcb-34aa-436b-96df-584b265a42c6</id>
+			<name>Arrow: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>10F</avail>
+			<cost>35</cost>
+			<costfor>1</costfor>
+			<ammoforweapontype>bow</ammoforweapontype>
+			<weaponbonus>
+				<damage>-1</damage>
+				<ap>-1</ap>
+			</weaponbonus>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

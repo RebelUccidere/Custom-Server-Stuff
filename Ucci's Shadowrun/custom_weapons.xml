@@ -592,6 +592,103 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>e761cccd-84fb-41d9-9070-04bbdcb63a1d</id>
+			<name>X10A2</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-1</ap>
+			<mode>SS/SA</mode>
+			<rc>0</rc>
+			<ammo>6(m)</ammo>
+			<avail>6R</avail>
+			<cost>900</cost>
+			<source>BASE</source>
+			<page>11</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>11c49029-f340-4397-9635-7f5f5a255190</id>
+			<name>MagnaPul X10A3</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-1</ap>
+			<mode>SS/SA</mode>
+			<rc>0</rc>
+			<ammo>8(m)</ammo>
+			<avail>6R</avail>
+			<cost>1200</cost>
+			<source>BASE</source>
+			<page>11</page>
+			<accessories>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>b2a60105-553d-45e6-8f42-f55724939832</id>
+			<name>Exarch Plasma Carbine</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-9</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>2x8(m)</ammo>
+			<avail>27R</avail>
+			<cost>65000</cost>
+			<source>BASE</source>
+			<page>12</page>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+			</accessories>
+			<ammocategory>exarch plasma</ammocategory>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

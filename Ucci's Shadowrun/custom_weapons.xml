@@ -466,8 +466,8 @@
 					<name>Hyper Burst Function</name>
 				</accessory>
 				<accessory>
-				<name>Ceramic/Plasteel Components</name>
-				<rating>6</rating>
+					<name>Ceramic/Plasteel Components</name>
+					<rating>6</rating>
 				</accessory>
 			</accessories>
 			<accessorymounts>
@@ -741,7 +741,7 @@
 		</accessory>
 		<accessory>
 			<id>9ecb0c13-f8be-4bce-90c1-9f6c57c30241</id>
-			<name>Exarch Smartlink System</name>
+			<name>Hyper Burst Function</name>
 			<mount/>
 			<hide/>
 			<avail>10R</avail>

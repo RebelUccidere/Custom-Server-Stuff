@@ -670,6 +670,33 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>8e52f63d-c933-4767-b337-8dcf5927cc00</id>
+			<name>Exarch Harpoon Rifle</name>
+			<category>Crossbows</category>
+			<type>Ranged</type>
+			<conceal>5</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-3</ap>
+			<mode>SA</mode>
+			<rc>3</rc>
+			<ammo>9(m)</ammo>
+			<avail>15R</avail>
+			<cost>9500</cost>
+			<source>BASE</source>
+			<page>7</page>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+			</accessories>
+			<ammocategory>harpoongun</ammocategory>
+			<accessorymounts>
+				<mount>Stock</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

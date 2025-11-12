@@ -1,25 +1,6 @@
 <chummer>
 	<weapons>
 		<weapon>
-			<id>1d5b7ff2-03aa-43f5-b753-85db0d31d388</id>
-			<name>Exarch Prototype Vibro Sword</name>
-			<category>Blades</category>
-			<type>Melee</type>
-			<conceal>6</conceal>
-			<accuracy>5</accuracy>
-			<reach>1</reach>
-			<damage>(AGI*0.5)+3P</damage>
-			<ap>-</ap>
-			<mode>SS</mode>
-			<rc>0</rc>
-			<ammo>0</ammo>
-			<avail>99F</avail>
-			<cost>999999</cost>
-			<source>BASE</source>
-			<page>5</page>
-			<spec>Swords</spec>
-		</weapon>
-		<weapon>
 			<id>bae8a6bb-2176-44fb-a7dd-5cb16d8e316f</id>
 			<name>Exarch Covert Protector</name>
 			<category>Holdouts</category>

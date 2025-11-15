@@ -551,7 +551,7 @@
 			<name>Vk. 760-T-10C</name>
 			<category>Carbines</category>
 			<type>Ranged</type>
-			<conceal>6</conceal>
+			<conceal>4</conceal>
 			<accuracy>3</accuracy>
 			<reach>0</reach>
 			<damage>10P</damage>
@@ -696,6 +696,43 @@
 			<ammocategory>harpoongun</ammocategory>
 			<accessorymounts>
 				<mount>Stock</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>2eda3223-b680-4f10-82c9-feaffe949df7</id>
+			<name>VAR-F2</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>5</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>SA/BFFA</mode>
+			<rc>2</rc>
+			<ammo>25(c)</ammo>
+			<avail>8R</avail>
+			<cost>1500</cost>
+			<source>BASE</source>
+			<page>17</page>
+			<accessories>
+				<accessory>
+					<name>Gas-Vent System 2</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Flashlight, Standard</name>
+				</accessory>
+			</accessories>
+			<ammocategory>Carbines</ammocategory>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
 	</weapons>

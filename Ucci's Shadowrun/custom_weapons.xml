@@ -701,14 +701,14 @@
 		<weapon>
 			<id>2eda3223-b680-4f10-82c9-feaffe949df7</id>
 			<name>VAR-F2</name>
-			<category>Carbines</category>
+			<category>Assault Rifles</category>
 			<type>Ranged</type>
 			<conceal>5</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>9P</damage>
 			<ap>-2</ap>
-			<mode>SA/BFFA</mode>
+			<mode>SA/BF/FA</mode>
 			<rc>2</rc>
 			<ammo>25(c)</ammo>
 			<avail>8R</avail>
@@ -727,6 +727,76 @@
 				</accessory>
 			</accessories>
 			<ammocategory>Carbines</ammocategory>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>78bd47ca-3526-433e-9faa-eca0e3947eee</id>
+			<name>AR-C-10</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>SA/FA</mode>
+			<rc>1</rc>
+			<ammo>36(c)</ammo>
+			<avail>4R</avail>
+			<cost>1000</cost>
+			<source>BASE</source>
+			<page>18</page>
+			<accessories>
+			</accessories>
+			<ammocategory>Carbines</ammocategory>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>6b59660c-7a45-4062-86f0-f5b9a8615fec</id>
+			<name>AR-C-10A4</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>4</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>SA/FA</mode>
+			<rc>1</rc>
+			<ammo>36(c)</ammo>
+			<avail>8R</avail>
+			<cost>1500</cost>
+			<source>BASE</source>
+			<page>16</page>
+			<accessories>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+				<accessory>
+					<name>Shock Pad</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Flashlight, Infrared</name>
+				</accessory>
+			</accessories>
 			<accessorymounts>
 				<mount>Stock</mount>
 				<mount>Side</mount>

@@ -461,6 +461,7 @@
 			<cost>8000</cost>
 			<source>BASE</source>
 			<page>8</page>
+			<weapontype>caseless</weapontype>
 			<accessories>
 				<accessory>
 					<name>Hyper Burst Function</name>

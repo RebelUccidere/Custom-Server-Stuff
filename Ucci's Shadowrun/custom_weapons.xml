@@ -805,6 +805,52 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>062f24bc-69cd-4c0d-9c50-49fa3c46a673</id>
+			<name>EDH Nightshade Stubcarbine</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>2</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-5</ap>
+			<mode>SA/FA</mode>
+			<rc>3</rc>
+			<ammo>4x15(ml)</ammo>
+			<avail>30F</avail>
+			<cost>20000</cost>
+			<source>BASE</source>
+			<page>16</page>
+			<ammocategory>caseless</ammocategory>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 3 System</name>
+				</accessory>
+				<accessory>
+					<name>Trigger Removal</name>
+				</accessory>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Hyper Burst Function</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

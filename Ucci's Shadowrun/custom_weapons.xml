@@ -707,7 +707,7 @@
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>9P</damage>
-			<ap>-2</ap>
+			<ap>-3</ap>
 			<mode>SA/BF/FA</mode>
 			<rc>2</rc>
 			<ammo>25(c)</ammo>

@@ -20,6 +20,27 @@
 			<source>BASE</source>
 			<page>36</page>
 		</armor>
+		<armor>
+			<id>c5efa339-e969-4062-b3ce-4dfad23aa026</id>
+			<name>AM-PP Security Suit</name>
+			<category>Specialty Armor</category>
+			<armor>6</armor>
+			<armorcapacity>8</armorcapacity>
+			<avail>6</avail>
+			<cost>1500</cost>
+			<bonus></bonus>
+			<notes>While the table above lists the additional pieces as having a +x value, they are intended to represent an increase to the base armor rating of this, not a modification to be limited by a users strength.</notes>
+			<mods>
+				<name>Attachable Gear Access</name>
+				<name rating="2">Nonconductivity</name>
+			</mods>
+			<gears>
+				<usegear>Biomonitor</usegear>
+				<usegear>Holster</usegear>
+			</gears>
+			<source>BASE</source>
+			<page>41</page>
+		</armor>
 	</armors>
 	<mods>
 		<mod>

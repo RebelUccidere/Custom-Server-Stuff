@@ -1,6 +1,6 @@
 <chummer>
 	<armors>
-		<armor>
+		<armor> 
 			<id>7ee16e02-28b6-4585-90ff-3b0ba4f99ee2</id>
 			<name>MagnaPul Fast Response</name>
 			<category>Specialty Armor</category>
@@ -26,8 +26,8 @@
 			<category>Specialty Armor</category>
 			<armor>6</armor>
 			<armorcapacity>8</armorcapacity>
-			<avail>6</avail>
-			<cost>1500</cost>
+			<avail>10R</avail>
+			<cost>5500</cost>
 			<bonus></bonus>
 			<notes>While the table above lists the additional pieces as having a +x value, they are intended to represent an increase to the base armor rating of this, not a modification to be limited by a users strength.</notes>
 			<mods>

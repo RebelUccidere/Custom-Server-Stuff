@@ -99,5 +99,26 @@
 			<source>SR5</source>
 			<page>437</page>
 		</mod>
+		<mod>
+			<id>b97c9d28-4e2e-4029-b94a-803d47d7c5b7</id>
+			<name>AM-PP Vitals Enhancement I</name>
+			<category>General</category>
+			<armor>1</armor>
+			<maxrating>1</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<mods>
+				<name rating=2> Chemical Protection</name>
+			<required>
+			<parentdetails>
+			<name>AM-PP Security Suit</name>
+			</parentdetails>
+			</required>
+			<gearcapacity>3</gearcapacity>
+			<hide/>
+			<avail>10R</avail>
+			<cost>4500</cost>
+			<source>Base</source>
+			<page>41</page>
+		</mod>
 	</mods>
 </chummer>

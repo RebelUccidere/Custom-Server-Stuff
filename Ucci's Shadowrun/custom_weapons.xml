@@ -851,6 +851,63 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>b024d294-90bd-47b8-91a2-afd1732437e2</id>
+			<name>Bt. ZON-101</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>5</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>5(c)</ammo>
+			<avail>2R</avail>
+			<cost>400</cost>
+			<source>BASE</source>
+			<page>23</page>
+			<accessories>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>d8dd8c43-5f71-4622-bf80-a9714261605b</id>
+			<name>AM-PP 12G-TG</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>4</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>6(m)</ammo>
+			<avail>7R</avail>
+			<cost>1000</cost>
+			<source>BASE</source>
+			<page>23</page>
+			<accessories>
+				<accessory>
+					<name>Sawed Off/Shortbarrel</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

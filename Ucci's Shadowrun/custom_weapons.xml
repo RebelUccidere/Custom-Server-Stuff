@@ -908,6 +908,80 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>3cbeca7c-ce15-4983-8214-744e404d830c</id>
+			<name>Magna ARMS Limbs Tearer</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>13P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>-1</rc>
+			<ammo>10(c) or 20(d)</ammo>
+			<avail>18F</avail>
+			<cost>6000</cost>
+			<source>BASE</source>
+			<page>24</page>
+			<accessories>
+				<accessory>
+					<name>Underbarrel Weight</name>
+				</accessory>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Smartgun System, External</name>
+				</accessory>
+				<accessory>
+					<name>Sling</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>94e8ee3f-a4ca-4fcd-98f7-f9cbb27c60f6</id>
+			<name>EDH Ogre Hammer</name>
+			<category>Shotguns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>13P</damage>
+			<ap>-2</ap>
+			<mode>SA/BF</mode>
+			<rc>0</rc>
+			<ammo>2x8(ml)</ammo>
+			<avail>32F</avail>
+			<cost>5500</cost>
+			<source>BASE</source>
+			<page>24</page>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Easy Breakdown (Powered)</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

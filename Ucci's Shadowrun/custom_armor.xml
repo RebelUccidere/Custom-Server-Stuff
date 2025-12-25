@@ -105,10 +105,11 @@
 			<category>General</category>
 			<armor>+1</armor>
 			<armorcapacity>[0]</armorcapacity>
-			<gears>
-				<usegear rating="2">Chemical Protection</usegear>
-			</gears>
-			<gearcapacity>3</gearcapacity>
+			<encumbrance>False</encumbrance>
+			<mod>
+				<name rating="2">Chemical Protection</name>
+			</mods>
+			<gearcapacity>0</gearcapacity>
 			<avail>10R</avail>
 			<cost>4500</cost>
 			<source>BASE</source>

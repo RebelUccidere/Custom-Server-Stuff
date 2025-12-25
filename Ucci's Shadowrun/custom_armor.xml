@@ -50,11 +50,6 @@
 			<mods>
 				<name rating="2"> Chemical Protection</name>
 			</mods>
-			<required>
-			<parentdetails>
-			<name>AM-PP Security Suit</name>
-			</parentdetails>
-			</required>
 			<gearcapacity>3</gearcapacity>
 			<hide/>
 			<avail>10R</avail>

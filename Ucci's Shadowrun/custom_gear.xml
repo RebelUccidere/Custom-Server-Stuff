@@ -199,8 +199,8 @@
 			<name>Chemical Protection</name>
 			<category>Armor Enhancements</category>
 			<armor>0</armor>
-			<maxrating>6</maxrating>
-			<armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+			<rating>6</rating>
+			<armorcapacity>0</armorcapacity>
 			<avail>6</avail>
 			<cost>Rating * 250</cost>
 			<bonus unique="chemicalprotection">
@@ -213,6 +213,7 @@
 		</gear>
 	</gears>
 </chummer>
+
 
 
 

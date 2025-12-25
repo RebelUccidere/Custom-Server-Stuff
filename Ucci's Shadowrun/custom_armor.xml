@@ -105,9 +105,9 @@
 			<category>General</category>
 			<armor>+1</armor>
 			<armorcapacity>[0]</armorcapacity>
-			<mods>
-				<name rating="2"> Chemical Protection</name>
-			</mods>
+			<gears>
+				<usegear rating="2">Chemical Protection</usegear>
+			</gears>
 			<gearcapacity>3</gearcapacity>
 			<avail>10R</avail>
 			<cost>4500</cost>

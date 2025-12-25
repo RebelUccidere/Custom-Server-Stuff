@@ -211,18 +211,36 @@
 			<source>SR5</source>
 			<page>437</page>
 		</gear>
+		<gear>
+			<id>8748a91b-2a38-434a-8d2c-034752ed72b4</id>
+			<name>Insulation</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="insulation">
+				<coldarmor>Rating</coldarmor>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
+		<gear>
+			<id>839af43e-da49-44ef-868a-e48414c93509</id>
+			<name>Fire Resistance</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="fireresistance">
+				<firearmor>Rating</firearmor>
+			</bonus>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
 	</gears>
 </chummer>
-
-
-
-
-
-
-
-
-
-
-
-
-

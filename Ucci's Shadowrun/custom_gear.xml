@@ -262,7 +262,7 @@
 			<gear>
 				<id>d01e1789-c46b-43cd-a080-7a86d20b10aa</id>
 				<name>Gel Packs</name>
-				<category>Armor Enhancements</category>
+				<category>General</category>
 				<armor>+2</armor>
 				<rating>1</rating>
 				<armorcapacity>0</armorcapacity>
@@ -275,7 +275,7 @@
 			<gear>
 				<id>3210df6d-f622-4ec0-907d-aa3e524adc2a</id>
 				<name>Chemical Seal</name>
-				<category>Armor Enhancements</category>
+				<category>General</category>
 				<armor>0</armor>
 				<rating>1</rating>
 				<armorcapacity>[6]</armorcapacity>
@@ -290,6 +290,19 @@
 				<hide/>
 				<source>SR5</source>
 				<page>437</page>
+			</gear>
+			<gear>
+				<id>d2db4e6d-50f8-4d3b-b1dc-f90eba5c6ba1</id>
+				<name>Grey Mana Integration</name>
+				<category>Armor Enhancements</category>
+				<armor>0</armor>
+				<rating>6</rating>
+				<armorcapacity>[Rating]</armorcapacity>
+				<avail>FixedValues(6F,6F,6F,9F,9F,9F)</avail>
+				<cost>FixedValues(Rating*1000,Rating*1000,Rating*1000,Rating*2000,Rating*2000,Rating*2000)</cost>
+				<source>BTB</source>
+				<hide/>
+				<page>156</page>
 			</gear>
 		</gears>
 	</chummer>

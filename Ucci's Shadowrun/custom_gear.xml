@@ -195,24 +195,25 @@
 			</weaponbonus>
 		</gear>
 		<gear>
-<id>ad401570-0c80-4739-8f39-f129e57a5496</id>
-<name>Chemical Protection</name>
-<category>Armor Enhancements</category>
-<armor>0</armor>
-<maxrating>6</maxrating>
-<armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
-<avail>6</avail>
-<cost>Rating * 250</cost>
-<bonus unique="chemicalprotection">
-<toxincontactresist>Rating</toxincontactresist>
-<pathogencontactresist>Rating</pathogencontactresist>
-</bonus>
+			<id>ad401570-0c80-4739-8f39-f129e57a5496</id>
+			<name>Chemical Protection</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<maxrating>6</maxrating>
+			<armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="chemicalprotection">
+				<toxincontactresist>Rating</toxincontactresist>
+				<pathogencontactresist>Rating</pathogencontactresist>
+			</bonus>
 			<hide/>
-<source>SR5</source>
-<page>437</page>
-</gear>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

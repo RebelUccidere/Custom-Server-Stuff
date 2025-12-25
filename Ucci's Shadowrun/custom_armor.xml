@@ -41,6 +41,28 @@
 			<source>BASE</source>
 			<page>41</page>
 		</armor>
+		<armor>
+			<id>b97c9d28-4e2e-4029-b94a-803d47d7c5b7</id>
+			<name>AM-PP Vitals Enhancement I</name>
+			<category>General</category>
+			<armor>1</armor>
+			<armorcapacity>0</armorcapacity>
+			<mods>
+				<name rating="2"> Chemical Protection</name>
+			</mods>
+			<required>
+			<parentdetails>
+			<name>AM-PP Security Suit</name>
+			</parentdetails>
+			</required>
+			<gearcapacity>3</gearcapacity>
+			<hide/>
+			<avail>10R</avail>
+			<bonus>+1</bonus>
+			<cost>4500</cost>
+			<source>BASE</source>
+			<page>41</page>
+		</armor>
 	</armors>
 	<mods>
 		<mod>
@@ -98,28 +120,6 @@
 			<cost>0</cost>
 			<source>SR5</source>
 			<page>437</page>
-		</mod>
-		<mod>
-			<id>b97c9d28-4e2e-4029-b94a-803d47d7c5b7</id>
-			<name>AM-PP Vitals Enhancement I</name>
-			<category>General</category>
-			<armor>1</armor>
-			<maxrating>1</maxrating>
-			<armorcapacity>[0]</armorcapacity>
-			<mods>
-				<name rating="2"> Chemical Protection</name>
-			</mods>
-			<required>
-			<parentdetails>
-			<name>AM-PP Security Suit</name>
-			</parentdetails>
-			</required>
-			<gearcapacity>3</gearcapacity>
-			<hide/>
-			<avail>10R</avail>
-			<cost>4500</cost>
-			<source>BASE</source>
-			<page>41</page>
 		</mod>
 	</mods>
 </chummer>

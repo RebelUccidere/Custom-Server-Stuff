@@ -262,7 +262,7 @@
 			<gear>
 				<id>d01e1789-c46b-43cd-a080-7a86d20b10aa</id>
 				<name>Gel Packs</name>
-				<category>General</category>
+				<category>Armor Enhancements</category>
 				<armor>+2</armor>
 				<rating>1</rating>
 				<armorcapacity>0</armorcapacity>
@@ -272,10 +272,10 @@
 				<source>RG</source>
 				<page>85</page>
 			</gear>
-			<mod>
+			<gear>
 				<id>3210df6d-f622-4ec0-907d-aa3e524adc2a</id>
 				<name>Chemical Seal</name>
-				<category>General</category>
+				<category>Armor Enhancements</category>
 				<armor>0</armor>
 				<rating>1</rating>
 				<armorcapacity>[6]</armorcapacity>
@@ -290,7 +290,8 @@
 				<hide/>
 				<source>SR5</source>
 				<page>437</page>
-			</mod>
+			</gear>
 		</gears>
 	</chummer>
+
 

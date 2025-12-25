@@ -108,7 +108,7 @@
 			<encumbrance>False</encumbrance>
 			<mod>
 				<name rating="2">Chemical Protection</name>
-			</mods>
+			</mod>
 			<gearcapacity>0</gearcapacity>
 			<avail>10R</avail>
 			<cost>4500</cost>

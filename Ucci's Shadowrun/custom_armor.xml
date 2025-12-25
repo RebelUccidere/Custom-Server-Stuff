@@ -107,7 +107,7 @@
 			<maxrating>1</maxrating>
 			<armorcapacity>[0]</armorcapacity>
 			<mods>
-				<name rating=2> Chemical Protection</name>
+				<name rating="2"> Chemical Protection</name>
 			<required>
 			<parentdetails>
 			<name>AM-PP Security Suit</name>

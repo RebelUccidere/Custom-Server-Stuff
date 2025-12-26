@@ -985,7 +985,7 @@
 		<weapon>
 			<id>e5932221-f742-4fbc-a1e9-8bbec1a595d1</id>
 			<name>AM-PP Slidearm</name>
-			<category>Holdout</category>
+			<category>Holdouts</category>
 			<type>Ranged</type>
 			<conceal>-4</conceal>
 			<accuracy>4</accuracy>
@@ -1013,7 +1013,7 @@
 		<weapon>
 			<id>cc2bd77b-c08d-4bf7-98d1-b00bc4e2fca1</id>
 			<name>Lunar PR380</name>
-			<category>Holdout</category>
+			<category>Holdouts</category>
 			<type>Ranged</type>
 			<conceal>-4</conceal>
 			<accuracy>5</accuracy>

@@ -1,6 +1,6 @@
 <chummer>
-  <gears>
-    <gear>
+	<gears>
+		<gear>
 			<id>c429fc81-d11b-434b-b98b-5fbdda9db905</id>
 			<name>Ammo: Subsonic (HT 189)</name>
 			<category>Ammunition</category>
@@ -14,6 +14,28 @@
 				<damage>-1</damage>
 			</weaponbonus>
 			<ammoforweapontype>guns</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>418d5ba1-dd19-4179-add8-074be445a7b2</id>
+			<name>Trodes</name>
+			<category>Electronics Accessories</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>439</page>
+			<avail>0</avail>
+			<armorcapacity>[2]</armorcapacity>
+			<cost>70</cost>
+			<bonus>
+				<skillcategory>
+					<name>Social Active</name>
+					<bonus>-1</bonus>
+				</skillcategory>
+				<skillgroup>
+					<name>Cracking</name>
+					<bonus>-1</bonus>
+				</skillgroup>
+			</bonus>
+			<devicerating>3</devicerating>
 		</gear>
 	</gears>
 </chummer>

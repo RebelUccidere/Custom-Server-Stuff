@@ -13,13 +13,21 @@
 		<hide addifnotfound="True"/>
 	</bioware>
     <bioware>
-      <id>b5af679d-e70d-43f3-9aa4-f3638796e948</id>
-      <name>BioLink</name>
-    </bioware>
+		<id>b5af679d-e70d-43f3-9aa4-f3638796e948</id>
+		<name>BioLink (KC 67)</name>
+		<category>Basic</category>
+		<ess>0.5</ess>
+		<capacity>0</capacity>
+		<avail>10</avail>
+		<cost>15000</cost>
+		<source>SR5</source>
+		<page>5</page>
+	</bioware>
 	<bioware>
 		<name>Pain Editor</name>
 		<hide/>
     </bioware>
   </biowares>
 </chummer>
+
 

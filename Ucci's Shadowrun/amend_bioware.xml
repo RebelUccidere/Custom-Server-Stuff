@@ -16,7 +16,8 @@
       <id>b5af679d-e70d-43f3-9aa4-f3638796e948</id>
       <name>BioLink</name>
     </bioware>
+	<bioware>
+      <name>Pain Editor</name>
+    </bioware>
   </biowares>
 </chummer>
-
-

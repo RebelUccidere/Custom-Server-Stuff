@@ -982,6 +982,56 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>e5932221-f742-4fbc-a1e9-8bbec1a595d1</id>
+			<name>AM-PP Slidearm</name>
+			<category>Holdout</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>0</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>4(m)</ammo>
+			<avail>5R</avail>
+			<cost>450</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessories>
+				<accessory>
+					<name>Sawed Off/Shortbarrel</name>
+				</accessory>
+				<accessory>
+					<name>Concealable Holster</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>cc2bd77b-c08d-4bf7-98d1-b00bc4e2fca1</id>
+			<name>Lunar PR380</name>
+			<category>Holdout</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>0</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>4(m)</ammo>
+			<avail>5R</avail>
+			<cost>450</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessories>
+			</accessories>
+			<accessorymounts>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>
@@ -1061,6 +1111,21 @@
 			<source>BASE</source>
 			<page>11</page>
 			<notes>This mainly is used by experimental weapons for firing a small burst of rounds at immensely fast rates of fire. When using this function, your weapon may only use the BF firerate. When you do so, increase the accuracy of the weapon during the attack by 2.</notes>
+		</accessory>
+		<accessory>
+			<id>1db20604-7713-4278-b6e9-74ed567c660c</id>
+			<name>PR380 Suppressor</name>
+			<mount/>
+			<avail>14F</avail>
+			<cost>500</cost>
+			<required>
+				<weapondetails>
+					<name>Lunar PR380</name>
+				</weapondetails>
+			</required>
+			<source>BASE</source>
+			<page>1</page>
+			<notes>When paired with the suppressor made for it, it has an additional -2 to perception checks to hear the weapon.</notes>
 		</accessory>
 	</accessories>
 </chummer>

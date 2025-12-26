@@ -256,8 +256,8 @@
             <chamax>4</chamax>
             <chaaug>8</chaaug>
             <intmin>1</intmin>
-            <intmax>5</intmax>
-            <intaug>9</intaug>
+            <intmax>6</intmax>
+            <intaug>10</intaug>
             <logmin>1</logmin>
             <logmax>6</logmax>
             <logaug>10</logaug>

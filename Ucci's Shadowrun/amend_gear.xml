@@ -271,8 +271,19 @@
 			<name>Horizon BoomerEye</name>
 			<hide/>
 		</gear>
+		<gear>
+			<id>d1d0bbce-a2a2-4d92-b54c-b1152befb96f</id>
+			<name>Trode Patch</name>
+			<hide/>
+		</gear>
+		<gear>
+			<id>2d9b2e2d-5460-4e1a-b4dc-82c7092b6a7e</id>
+			<name>Trode Patch Cover</name>
+		<hide/>
+		</gear>
 	</gears>
 </chummer>
+
 
 
 

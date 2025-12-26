@@ -1007,8 +1007,6 @@
 					<name>Concealable Holster</name>
 				</accessory>
 			</accessories>
-			<accessorymounts>
-			</accessorymounts>
 		</weapon>
 		<weapon>
 			<id>cc2bd77b-c08d-4bf7-98d1-b00bc4e2fca1</id>
@@ -1027,10 +1025,6 @@
 			<cost>450</cost>
 			<source>BASE</source>
 			<page>1</page>
-			<accessories>
-			</accessories>
-			<accessorymounts>
-			</accessorymounts>
 		</weapon>
 	</weapons>
 	<accessories>

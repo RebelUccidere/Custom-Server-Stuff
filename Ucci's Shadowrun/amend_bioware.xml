@@ -17,7 +17,9 @@
       <name>BioLink</name>
     </bioware>
 	<bioware>
-      <name>Pain Editor</name>
+		<name>Pain Editor</name>
+		<hide/>
     </bioware>
   </biowares>
 </chummer>
+

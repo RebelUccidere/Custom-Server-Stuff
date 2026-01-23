@@ -244,7 +244,7 @@
 			<page>437</page>
 		</gear>
 		<gear>
-			<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a/id>
+			<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a</id>
 				<name>Nonconductivity</name>
 				<category>Armor Enhancements</category>
 				<armor>0</armor>
@@ -306,6 +306,7 @@
 			</gear>
 		</gears>
 	</chummer>
+
 
 
 

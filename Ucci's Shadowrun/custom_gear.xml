@@ -195,6 +195,16 @@
 			</weaponbonus>
 		</gear>
 		<gear>
+			<id></id>
+			<name></name>
+			<category></category>
+			<rating></rating>
+			<source>BASE</source>
+			<page></page>
+			<avail></avail>
+			<cost></cost>
+		</gear>
+		<gear>
 			<id>ad401570-0c80-4739-8f39-f129e57a5496</id>
 			<name>Chemical Protection</name>
 			<category>Armor Enhancements</category>
@@ -243,8 +253,8 @@
 			<source>SR5</source>
 			<page>437</page>
 		</gear>
-		<gear>
-			<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a</id>
+			<gear>
+				<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a</id>
 				<name>Nonconductivity</name>
 				<category>Armor Enhancements</category>
 				<armor>0</armor>
@@ -306,6 +316,7 @@
 			</gear>
 		</gears>
 	</chummer>
+
 
 
 

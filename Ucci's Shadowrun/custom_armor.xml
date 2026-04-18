@@ -108,11 +108,37 @@
 			<gears>
 				<usegear rating="2">Chemical Protection</usegear>
 			</gears>
-			<gearcapacity>0</gearcapacity>
+			<gearcapacity>2</gearcapacity>
 			<avail>10R</avail>
-			<cost>4500</cost>
+			<cost>800</cost>
 			<source>BASE</source>
 			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>7cdc9e0e-e499-42be-9572-8448aa43b237</id>
+			<name>AM-PP Vitals Enhancement II</name>
+			<category>General</category>
+			<armor>+1</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear rating="1">Chemical Protection</usegear>
+				<usegear rating="1">Nonconductivity</usegear>
+			</gears>
+			<gearcapacity>2</gearcapacity>
+			<avail>15R</avail>
+			<cost>1000</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
 		</mod>
 	</mods>
 </chummer>

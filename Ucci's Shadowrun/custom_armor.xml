@@ -140,5 +140,67 @@
 				</parentdetails>
 			</required>
 		</mod>
+		<mod>
+			<id>e5ac3b11-1387-4916-9d3f-175fc031c774</id>
+			<name>AM-PP Secruity Vest</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear>Gel Packs</usegear>
+				<usegear>Reloading Slide</usegear>
+			</gears>
+			<gearcapacity>2</gearcapacity>
+			<avail>11R</avail>
+			<cost>4000</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>e5ac3b11-1387-4916-9d3f-175fc031c774</id>
+			<name>AM-PP Extremity Guards</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear>Shock Frills</usegear>
+			</gears>
+			<gearcapacity>0</gearcapacity>
+			<avail>10R</avail>
+			<cost>750</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>e5ac3b11-1387-4916-9d3f-175fc031c774</id>
+			<name>AM-PP Secruity Plating</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear rating="3">Grey Mana Integration</usegear>
+				<usegear>Holster</usegear>
+			</gears>
+			<gearcapacity>4</gearcapacity>
+			<avail>11R</avail>
+			<cost>4000</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
 	</mods>
 </chummer>

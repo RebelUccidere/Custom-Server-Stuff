@@ -241,7 +241,7 @@
 		</gear>
 		<gear>
 			<name>Ammo: APDS</name>
-			<hide/>
+			<avail>14F</avail>
 		</gear>
 		<gear>
 			<name>KE-V</name>

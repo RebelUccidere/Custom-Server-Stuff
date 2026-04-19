@@ -563,8 +563,7 @@
 			<cost>1050</cost>
 			<source>BASE</source>
 			<page>8</page>
-			<accessories>
-			</accessories>
+			<accessories></accessories>
 			<ammocategory>Assault Rifles</ammocategory>
 			<accessorymounts>
 				<mount>Stock</mount>
@@ -752,8 +751,7 @@
 			<cost>1000</cost>
 			<source>BASE</source>
 			<page>18</page>
-			<accessories>
-			</accessories>
+			<accessories></accessories>
 			<ammocategory>Carbines</ammocategory>
 			<accessorymounts>
 				<mount>Stock</mount>
@@ -868,8 +866,7 @@
 			<cost>400</cost>
 			<source>BASE</source>
 			<page>23</page>
-			<accessories>
-			</accessories>
+			<accessories></accessories>
 			<accessorymounts>
 				<mount>Stock</mount>
 				<mount>Side</mount>
@@ -1007,8 +1004,7 @@
 					<name>Concealable Holster</name>
 				</accessory>
 			</accessories>
-			<accessorymounts>
-			</accessorymounts>
+			<accessorymounts></accessorymounts>
 		</weapon>
 		<weapon>
 			<id>cc2bd77b-c08d-4bf7-98d1-b00bc4e2fca1</id>
@@ -1027,8 +1023,7 @@
 			<cost>400</cost>
 			<source>BASE</source>
 			<page>1</page>
-			<accessorymounts>
-			</accessorymounts>
+			<accessorymounts></accessorymounts>
 		</weapon>
 		<weapon>
 			<id>becf6af2-1551-46c5-a004-46eda439fee5</id>
@@ -1048,8 +1043,7 @@
 			<source>BASE</source>
 			<page>1</page>
 			<accessorymounts></accessorymounts>
-			<accessories>
-			</accessories>
+			<accessories></accessories>
 			<ammocategory>exarch</ammocategory>
 			<range>Holdouts</range>
 			<spec>Holdouts</spec>
@@ -1081,6 +1075,75 @@
 				</accessory>
 			</accessories>
 			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>591ea153-295c-4f23-8382-bcf5ea68ced1</id>
+			<name>AM-PP SG</name>
+			<category>Tasers</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>7S(e)</damage>
+			<ap>-5</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>2(m)</ammo>
+			<avail>0</avail>
+			<cost>225</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>c2c3af26-b7b0-4f14-96d3-ed789334ce91</id>
+			<name>Light Carry Taser</name>
+			<category>Tasers</category>
+			<type>Ranged</type>
+			<conceal>-1</conceal>
+			<accuracy>2</accuracy>
+			<reach>0</reach>
+			<damage>5S(e)</damage>
+			<ap>-5</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>2(ml)</ammo>
+			<avail>0</avail>
+			<cost>500</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>0428afa2-64dd-42f9-b783-f4addf8de306</id>
+			<name>MagnaPul Defense Taser</name>
+			<category>Tasers</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>10S(e)</damage>
+			<ap>-5</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>6(ml)</ammo>
+			<avail>0</avail>
+			<cost>1200</cost>
+			<source>BASE</source>
+			<page>3</page>
+			<accessorymounts>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+			</accessorymounts>
 		</weapon>
 	</weapons>
 	<accessories>

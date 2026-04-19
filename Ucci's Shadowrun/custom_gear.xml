@@ -314,6 +314,19 @@
 				<hide/>
 				<page>156</page>
 			</gear>
+			<gear>
+				<id>2d87b041-9a7b-4a03-9439-73a27238cacc</id>
+				<name>Restrictive</name>
+				<category>General</category>
+				<armor>0</armor>
+				<hide/>
+				<maxrating>0</maxrating>
+				<armorcapacity>[0]</armorcapacity>
+				<avail>0</avail>
+				<cost>0</cost>
+				<source>RG</source>
+				<page>59</page>
+			</gear>
 		</gears>
 	</chummer>
 

@@ -58,19 +58,19 @@
 		</weapon>
 		<weapon>
 			<id>35122b2f-bf31-4764-b5a9-5ea08a714737</id>
-			<name>Exarch Plasma Pistol</name>
+			<name>Exarch MAPistol</name>
 			<category>Heavy Pistols</category>
 			<type>Ranged</type>
 			<conceal>0</conceal>
 			<accuracy>5</accuracy>
 			<reach>0</reach>
-			<damage>9P</damage>
-			<ap>-5</ap>
+			<damage>7P</damage>
+			<ap>-7</ap>
 			<mode>SS</mode>
 			<rc>-</rc>
-			<ammo>1(m)</ammo>
+			<ammo>8(c)</ammo>
 			<avail>24F</avail>
-			<cost>50,000</cost>
+			<cost>8,000</cost>
 			<source>BASE</source>
 			<page>3</page>
 			<accessorymounts></accessorymounts>
@@ -79,7 +79,7 @@
 					<name>Exarch Smartlink System*</name>
 				</accessory>
 			</accessories>
-			<ammocategory>exarch plasma</ammocategory>
+			<ammocategory>exarch map</ammocategory>
 			<spec>Revolvers</spec>
 		</weapon>
 		<weapon>

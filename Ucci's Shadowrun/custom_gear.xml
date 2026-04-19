@@ -124,7 +124,7 @@
 		</gear>
 		<gear>
 			<id>d4744ecf-bf44-480c-bf3c-f82464fe093f</id>
-			<name>Ammo: Exarch MAP Cartridge</name>
+			<name>Ammo: Exarch MA Cartridge</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>BASE</source>
@@ -132,19 +132,7 @@
 			<avail>20F</avail>
 			<cost>200</cost>
 			<costfor>10</costfor>
-			<ammoforweapontype>exarch map</ammoforweapontype>
-		</gear>
-		<gear>
-			<id>fef182fc-cbb4-4f51-a08b-0d5b7bc18a8f</id>
-			<name>Ammo: Exarch MAC Cartridge</name>
-			<category>Ammunition</category>
-			<rating>0</rating>
-			<source>BASE</source>
-			<page>1</page>
-			<avail>20F</avail>
-			<cost>200</cost>
-			<costfor>10</costfor>
-			<ammoforweapontype>exarch mac</ammoforweapontype>
+			<ammoforweapontype>exarch ma</ammoforweapontype>
 		</gear>
 		<gear>
 			<id>77558462-3fff-4145-9e3d-505ed417a7b8</id>

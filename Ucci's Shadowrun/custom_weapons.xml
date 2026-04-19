@@ -642,7 +642,7 @@
 		</weapon>
 		<weapon>
 			<id>b2a60105-553d-45e6-8f42-f55724939832</id>
-			<name>Exarch Plasma Carbine</name>
+			<name>Exarch MACarbine</name>
 			<category>Carbines</category>
 			<type>Ranged</type>
 			<conceal>6</conceal>
@@ -651,10 +651,10 @@
 			<damage>9P</damage>
 			<ap>-9</ap>
 			<mode>SS</mode>
-			<rc>0</rc>
+			<rc>1</rc>
 			<ammo>2x8(m)</ammo>
-			<avail>27R</avail>
-			<cost>65000</cost>
+			<avail>27F</avail>
+			<cost>5000</cost>
 			<source>BASE</source>
 			<page>12</page>
 			<accessories>
@@ -662,7 +662,7 @@
 					<name>Exarch Smartlink System*</name>
 				</accessory>
 			</accessories>
-			<ammocategory>exarch plasma</ammocategory>
+			<ammocategory>exarch mac</ammocategory>
 			<accessorymounts>
 				<mount>Stock</mount>
 				<mount>Side</mount>

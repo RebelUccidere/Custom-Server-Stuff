@@ -96,7 +96,7 @@
 			<rc>10</rc>
 			<ammo>20(d)</ammo>
 			<avail>20F</avail>
-			<cost>20,000</cost>
+			<cost>10,000</cost>
 			<source>BASE</source>
 			<page>4</page>
 			<accessorymounts></accessorymounts>

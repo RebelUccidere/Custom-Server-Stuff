@@ -1030,6 +1030,30 @@
 			<accessorymounts>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>becf6af2-1551-46c5-a004-46eda439fee5</id>
+			<name>.22c</name>
+			<category>Holdouts</category>
+			<type>Ranged</type>
+			<conceal>-4</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>5P</damage>
+			<ap>0</ap>
+			<mode>SA</mode>
+			<rc>3</rc>
+			<ammo>5(c)</ammo>
+			<avail>3R</avail>
+			<cost>200</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessorymounts></accessorymounts>
+			<accessories>
+			</accessories>
+			<ammocategory>exarch</ammocategory>
+			<range>Holdouts</range>
+			<spec>Holdouts</spec>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

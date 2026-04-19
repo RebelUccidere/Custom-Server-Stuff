@@ -1,6 +1,44 @@
 <chummer>
 	<armors>
 		<armor> 
+			<id></id>
+			<name></name>
+			<category></category>
+			<armor></armor>
+			<armorcapacity></armorcapacity>
+			<avail></avail>
+			<cost></cost>
+			<bonus></bonus>
+			<mods>
+				<name></name>
+			</mods>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<source>BASE</source>
+			<page></page>
+		</armor>
+		<mod>
+			<id></id>
+			<name></name>
+			<category></category>
+			<armor></armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity></gearcapacity>
+			<avail></avail>
+			<cost></cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<armor> 
 			<id>7ee16e02-28b6-4585-90ff-3b0ba4f99ee2</id>
 			<name>MagnaPul Fast Response</name>
 			<category>Specialty Armor</category>
@@ -190,12 +228,85 @@
 			<gears>
 				<usegear rating="3">Grey Mana Integration</usegear>
 				<usegear>Holster</usegear>
+				<ussegear>Restrictive</usegear>
 			</gears>
 			<gearcapacity>4</gearcapacity>
 			<avail>11R</avail>
 			<cost>4000</cost>
 			<source>BASE</source>
 			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>8fc22542-ba0d-4777-8a7d-df5131ac921c</id>
+			<name>AM-PP Security Pack</name>
+			<category>General</category>
+			<armor>+0</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity>5</gearcapacity>
+			<avail>12R</avail>
+			<cost>6000</cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+			<forbidden>
+				<oneof>
+				<mod>AM-PP Security Pack</mod>
+				<mod>AM-PP Specialized Pack</mod>
+				</oneof>
+			</forbidden>
+		</mod>
+		<mod>
+			<id>ef0e829f-f93e-4930-85b1-404ba8c18a66</id>
+			<name>AM-PP Specialized Pack</name>
+			<category>General</category>
+			<armor>+0</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity></gearcapacity>
+			<avail>16F</avail>
+			<cost>10000</cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+			<forbidden>
+				<oneof>
+				<mod>AM-PP Security Pack</mod>
+				<mod>AM-PP Specialized Pack</mod>
+				</oneof>
+			</forbidden>
+		</mod>
+		<mod>
+			<id>bf05b1af-7e93-43c1-aa36-49cb6e53ed82</id>
+			<name>AM-PP Security Cap w/ Visor</name>
+			<category>General</category>
+			<armor>+1</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity>0</gearcapacity>
+			<avail>12R</avail>
+			<cost>5500</cost>
+			<source>BASE</source>
+			<page></page>
 			<required>
 				<parentdetails>
 				<name>AM-PP Security Suit</name>

@@ -1144,6 +1144,32 @@
 				<mount>Side</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>50415e92-356a-4b8c-8510-64599baa9e79</id>
+			<name>EB Longsword</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>5</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF</mode>
+			<rc>1</rc>
+			<ammo>30(c)</ammo>
+			<avail>6R</avail>
+			<cost>800</cost>
+			<source>BASE</source>
+			<page>17</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

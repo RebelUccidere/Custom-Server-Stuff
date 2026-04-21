@@ -1564,33 +1564,33 @@
 			<notes>When paired with the suppressor made for it, it has an additional -2 to perception checks to hear the weapon.</notes>
 		</accessory>
 		<accessory>
-<id>1db20604-7713-4278-b6e9-74ed567c6601</id>
-<name>High-Velocity Barrel</name>
-<mount>Barrel</mount>
-<avail>+4R</avail>
-<cost>Weapon Cost</cost>
-<source>BASE</source>
-<page>37</page>
-<accuracy>1</accuracy>
-<conceal>+1</conceal>
-<damage>+1<damage>
-<ap>*1.5<ap>
-<rating>0</rating>
-	<forbidden>
-<weapondetails>
-<OR>
-<category>Shotguns</category>
-<category>Sporting Rifles</category>
-<category>Sniper Rifles</category>
-<category>Light Machine Guns</category>
-<category>Medium Machine Guns</category>
-<category>Heavy Machine Guns</category>
-<category>Assault Cannons</category>
-<category>Grenade Launchers</category>
-<category>Missile Launchers</category>
-</OR>
-</weapondetails>
-</forbidden>
-</accessory>
+			<id>1db20604-7713-4278-b6e9-74ed567c6601</id>
+			<name>High-Velocity Barrel</name>
+			<mount>Barrel</mount>
+			<avail>+4R</avail>
+			<cost>Weapon Cost</cost>
+			<source>BASE</source>
+			<page>37</page>
+			<accuracy>1</accuracy>
+			<conceal>+1</conceal>
+			<damage>+1</damage>
+			<ap>*1.5</ap>
+			<rating>0</rating>
+			<forbidden>
+				<weapondetails>
+					<OR>
+						<category>Shotguns</category>
+						<category>Sporting Rifles</category>
+						<category>Sniper Rifles</category>
+						<category>Light Machine Guns</category>
+						<category>Medium Machine Guns</category>
+						<category>Heavy Machine Guns</category>
+						<category>Assault Cannons</category>
+						<category>Grenade Launchers</category>
+						<category>Missile Launchers</category>
+					</OR>
+				</weapondetails>
+			</forbidden>
+		</accessory>
 	</accessories>
 </chummer>

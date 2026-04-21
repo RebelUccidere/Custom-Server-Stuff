@@ -1493,6 +1493,66 @@
 			<spec>Revolvers</spec>
 			<spec2>Semi-Automatics</spec2>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380161</id>
+			<name>AM-PP HP</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>1</rc>
+			<ammo>16(c)</ammo>
+			<avail>4R</avail>
+			<cost>950</cost>
+			<source>BASE</source>
+			<page>6</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Semi-Automatics</spec>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380162</id>
+			<name>AM-PP HPR</name>
+			<category>Heavy Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-2</ap>
+			<mode>SA</mode>
+			<rc>1</rc>
+			<ammo>6(cy)</ammo>
+			<avail>13R</avail>
+			<cost>4500</cost>
+			<source>BASE</source>
+			<page>6</page>
+			<accessories>
+				<accessory>
+					<name>Quick-Draw Holster</name>
+				</accessory>
+				<accessory>
+					<name>High-Velocity Barrel</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<spec>Revolvers</spec>
+			<spec2>Semi-Automatics</spec2>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

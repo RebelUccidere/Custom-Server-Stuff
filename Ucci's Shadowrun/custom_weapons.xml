@@ -1226,6 +1226,67 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380151</id>
+			<name>AM-PP 12mmC</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>4</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF</mode>
+			<rc>1</rc>
+			<ammo>42(c)</ammo>
+			<avail>6R</avail>
+			<cost>900</cost>
+			<source>BASE</source>
+			<page>15</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380152</id>
+			<name>AM-PP .357 BP SMG</name>
+			<category>Submachine Guns</category>
+			<type>Ranged</type>
+			<conceal>3</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF</mode>
+			<rc>1</rc>
+			<ammo>36(c)</ammo>
+			<avail>16R</avail>
+			<cost>2100</cost>
+			<source>BASE</source>
+			<page>11</page>
+			<accessories>
+				<accessory>
+					<name>Gas-Vent 3 System</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

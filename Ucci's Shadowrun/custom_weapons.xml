@@ -1574,7 +1574,7 @@
 			<accuracy>-1</accuracy>
 			<conceal>+1</conceal>
 			<damage>+1</damage>
-			<ap>ap*1.5</ap>
+			<ap>+(Weapon * 0.5)</ap>
 			<rating>0</rating>
 			<forbidden>
 				<weapondetails>

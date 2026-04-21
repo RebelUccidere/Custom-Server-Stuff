@@ -327,6 +327,80 @@
 				<source>RG</source>
 				<page>59</page>
 			</gear>
+			<gear>
+				<id>b6f5d713-280c-41af-a7f4-83e9d2030985</id>
+				<name>AM-PP Security Pack Sensor</name>
+				<category>Sensor Functions</category>
+				<armor>0</armor>
+				<gears>
+					<usegear>
+						<name>Atmosphere Sensor</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+						<usegear>
+						<name>Motion Sensor</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+					<usegear>
+						<name>Olfactory Sensor</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+					<usegear>
+						<name>Motion Sensor</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+					<usegear>
+						<name>Microphone, Omni-Directional</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+						<usegear>
+							<name>Sound Link</name>
+							<category>Audio Enhancements</category>
+							<rating>0</rating>
+						</usegear>
+						<usegear>
+							<name>Audio Enhancement</name>
+							<category>Audio Enhancements</category>
+							<rating>2</rating>
+						</usegear>
+						<usegear>
+							<name>Select Sound Filter</name>
+							<category>Audio Enhancements</category>
+							<rating>2</rating>
+						</usegear>
+						<usegear>
+							<name>Spatial Recognition</name>
+							<category>Audio Enhancements</category>
+							<rating>0</rating>
+						</usegear>
+					</usegear>
+					<usegear>
+						<name>Radio Signal Scanner</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+					<usegear>
+						<name>Radio Signal Scanner</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+					<usegear>
+						<name>Ultrasound Sensor</name>
+						<category>Sensor Functions</category>
+						<rating>3</rating>
+					</usegear>
+				<hide/>
+				<maxrating>0</maxrating>
+				<armorcapacity>[0]</armorcapacity>
+				<avail>0</avail>
+				<cost>0</cost>
+				<source>Base</source>
+				<page>0</page>
+			</gear>
 		</gears>
 	</chummer>
 

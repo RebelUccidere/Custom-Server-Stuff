@@ -352,26 +352,6 @@
 						<name>Microphone, Omni-Directional</name>
 						<category>Audio Devices</category>
 						<rating>3</rating>
-						<usegear>
-							<name>Sound Link</name>
-							<category>Audio Enhancements</category>
-							<rating>0</rating>
-						</usegear>
-						<usegear>
-							<name>Audio Enhancement</name>
-							<category>Audio Enhancements</category>
-							<rating>2</rating>
-						</usegear>
-						<usegear>
-							<name>Select Sound Filter</name>
-							<category>Audio Enhancements</category>
-							<rating>2</rating>
-						</usegear>
-						<usegear>
-							<name>Spatial Recognition</name>
-							<category>Audio Enhancements</category>
-							<rating>0</rating>
-						</usegear>
 					</usegear>
 					<usegear>
 						<name>Radio Signal Scanner</name>
@@ -379,7 +359,27 @@
 						<rating>3</rating>
 					</usegear>
 					<usegear>
-						<name>Ultrasound Sensor</name>
+						<name>Sound Link</name>
+						<category>Audio Enhancements</category>
+						<rating>0</rating>
+					</usegear>
+					<usegear>
+						<name>Audio Enhancement</name>
+						<category>Audio Enhancements</category>
+						<rating>2</rating>
+					</usegear>
+					<usegear>
+						<name>Select Sound Filter</name>
+						<category>Audio Enhancements</category>
+						<rating>2</rating>
+					</usegear>
+					<usegear>
+						<name>Spatial Recognition</name>
+						<category>Audio Enhancements</category>
+						<rating>0</rating>
+					</usegear>
+					<usegear>
+						<name>Ultrasound</name>
 						<category>Sensor Functions</category>
 						<rating>3</rating>
 					</usegear>

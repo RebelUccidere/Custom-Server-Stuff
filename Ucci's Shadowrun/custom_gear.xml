@@ -283,6 +283,19 @@
 				<page>85</page>
 			</gear>
 			<gear>
+				<id>b19d7feb-4dc0-45c5-85ca-f72580602214</id>
+				<name>Shock Frills</name>
+				<category>General</category>
+				<armor>0</armor>
+				<rating>1</rating>
+				<armorcapacity>0</armorcapacity>
+				<hide/>
+				<avail>6R</avail>
+				<cost>250</cost>
+				<source>SR5</source>
+				<page>438</page>
+			</gear>
+			<gear>
 				<id>3210df6d-f622-4ec0-907d-aa3e524adc2a</id>
 				<name>Chemical Seal</name>
 				<category>General</category>

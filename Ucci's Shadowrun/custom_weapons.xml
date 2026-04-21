@@ -1571,10 +1571,10 @@
 			<cost>Weapon Cost</cost>
 			<source>BASE</source>
 			<page>37</page>
-			<accuracy>1</accuracy>
+			<accuracy>-1</accuracy>
 			<conceal>+1</conceal>
 			<damage>+1</damage>
-			<ap>*1.5</ap>
+			<ap>ap*1.5</ap>
 			<rating>0</rating>
 			<forbidden>
 				<weapondetails>

@@ -1553,6 +1553,100 @@
 			<spec>Revolvers</spec>
 			<spec2>Semi-Automatics</spec2>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380163</id>
+			<name>Vk. Type-4</name>
+			<category>Sporting Rifles</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>0</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>6(m)</ammo>
+			<avail>5R</avail>
+			<cost>950</cost>
+			<source>BASE</source>
+			<page>20</page>
+			<accessories>
+				<accessory>
+					<name>Vintage</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Sporting Rifles</spec>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380164</id>
+			<name>AM-PP HRR</name>
+			<category>Sporting Rifles</category>
+			<type>Ranged</type>
+			<conceal>+8</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-2</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>6(cy)</ammo>
+			<avail>6R</avail>
+			<cost>1200</cost>
+			<source>BASE</source>
+			<page>20</page>
+			<accessories>
+				<accessory>
+					<name>High-Velocity Barrel</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Sporting Rifles</spec>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380165</id>
+			<name>Exarch MARifle</name>
+			<category>Sporting Rifles</category>
+			<type>Ranged</type>
+			<conceal>+5</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-9</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(bl)</ammo>
+			<avail>15F</avail>
+			<cost>20000</cost>
+			<source>BASE</source>
+			<page>20</page>
+			<accessories>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Sporting Rifles</spec>
+			<ammocategory>exarch ma</ammocategory>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

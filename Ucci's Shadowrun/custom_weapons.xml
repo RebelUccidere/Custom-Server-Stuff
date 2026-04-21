@@ -1262,7 +1262,7 @@
 			<reach>0</reach>
 			<damage>9P</damage>
 			<ap>-1</ap>
-			<mode>SA/BF</mode>
+			<mode>SA/BF/FA</mode>
 			<rc>1</rc>
 			<ammo>36(c)</ammo>
 			<avail>16R</avail>
@@ -1286,6 +1286,155 @@
 				<mount>Barrel</mount>
 				<mount>Top</mount>
 			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380153</id>
+			<name>AM-PP MP</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>5P</damage>
+			<ap>0</ap>
+			<mode>BF/FA</mode>
+			<rc>1</rc>
+			<ammo>60(c)</ammo>
+			<avail>2R</avail>
+			<cost>800</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+				<accessory>
+					<name>Gas-Vent 3 System</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380154</id>
+			<name>Pocket Rattler</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>0</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>2F</avail>
+			<cost>200</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380155</id>
+			<name>MagnaPul R-10</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>0</ap>
+			<mode>SA/FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>6R</avail>
+			<cost>600</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380156</id>
+			<name>EB Stilletto</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>-1</rc>
+			<ammo>10x2(ml)</ammo>
+			<avail>8R</avail>
+			<cost>1000</cost>
+			<source>BASE</source>
+			<page>8</page>
+			<accessories>
+				<accessory>
+					<name>Smartgun System, External</name>
+				</accessory>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<ammocategory>caseless</ammocategory>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380157</id>
+			<name>MagnaSec SDW-9k</name>
+			<category>Machine Pistols</category>
+			<type>Ranged</type>
+			<conceal>0</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>7P</damage>
+			<ap>-1</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>1</rc>
+			<ammo>30(c)</ammo>
+			<avail>12R</avail>
+			<cost>750</cost>
+			<source>BASE</source>
+			<page>9</page>
+			<accessories>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Spare Clip</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<ammocategory>Submachine Guns</ammocategory>
 		</weapon>
 	</weapons>
 	<accessories>

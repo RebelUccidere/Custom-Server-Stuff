@@ -228,7 +228,7 @@
 			<gears>
 				<usegear rating="3">Grey Mana Integration</usegear>
 				<usegear>Holster</usegear>
-				<ussegear>Restrictive</usegear>
+				<usegear>Restrictive</usegear>
 			</gears>
 			<gearcapacity>4</gearcapacity>
 			<avail>11R</avail>

@@ -349,13 +349,8 @@
 						<rating>3</rating>
 					</usegear>
 					<usegear>
-						<name>Motion Sensor</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
-					</usegear>
-					<usegear>
 						<name>Microphone, Omni-Directional</name>
-						<category>Sensor Functions</category>
+						<category>Audio Devices</category>
 						<rating>3</rating>
 						<usegear>
 							<name>Sound Link</name>
@@ -377,11 +372,6 @@
 							<category>Audio Enhancements</category>
 							<rating>0</rating>
 						</usegear>
-					</usegear>
-					<usegear>
-						<name>Radio Signal Scanner</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
 					</usegear>
 					<usegear>
 						<name>Radio Signal Scanner</name>

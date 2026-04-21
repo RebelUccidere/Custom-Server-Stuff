@@ -1170,6 +1170,62 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380158</id>
+			<name>AM-PP 22LR-AR</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-3</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>6</rc>
+			<ammo>100(c)</ammo>
+			<avail>7R</avail>
+			<cost>925</cost>
+			<source>BASE</source>
+			<page>17</page>
+			<accessories>
+				<accessory>
+					<name>Extreme Environmental Modification</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380150</id>
+			<name>EB Broadsword</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>-2</ap>
+			<mode>BF/FA</mode>
+			<rc>2</rc>
+			<ammo>35(c) or 70(d)</ammo>
+			<avail>15R</avail>
+			<cost>1950</cost>
+			<source>BASE</source>
+			<page>18</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

@@ -1436,6 +1436,38 @@
 			</accessorymounts>
 			<ammocategory>Submachine Guns</ammocategory>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380159</id>
+			<name>AM-PP LPR</name>
+			<category>Light Pistols</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>6P</damage>
+			<ap>-1</ap>
+			<mode>SA</mode>
+			<rc>1</rc>
+			<ammo>8(cy)</ammo>
+			<avail>10R</avail>
+			<cost>2400</cost>
+			<source>BASE</source>
+			<page>1</page>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+			</accessorymounts>
+			<accessories>
+				<accessory>
+					<name>Quick-Draw Holster</name>
+				</accessory>
+				<accessory>
+					<name>High-Velocity Barrel</name>
+				</accessory>
+			</accessories>
+			<spec>Revolvers</spec>
+			<spec2>Semi-Automatics</spec2>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>
@@ -1531,5 +1563,34 @@
 			<page>1</page>
 			<notes>When paired with the suppressor made for it, it has an additional -2 to perception checks to hear the weapon.</notes>
 		</accessory>
+		<accessory>
+<id>1db20604-7713-4278-b6e9-74ed567c6601</id>
+<name>High-Velocity Barrel</name>
+<mount>Barrel</mount>
+<avail>+4R</avail>
+<cost>Weapon Cost</cost>
+<source>BASE</source>
+<page>37</page>
+<accuracy>1</accuracy>
+<conceal>+1</conceal>
+<damage>+1<damage>
+<ap>*1.5<ap>
+<rating>0</rating>
+	<forbidden>
+<weapondetails>
+<OR>
+<category>Shotguns</category>
+<category>Sporting Rifles</category>
+<category>Sniper Rifles</category>
+<category>Light Machine Guns</category>
+<category>Medium Machine Guns</category>
+<category>Heavy Machine Guns</category>
+<category>Assault Cannons</category>
+<category>Grenade Launchers</category>
+<category>Missile Launchers</category>
+</OR>
+</weapondetails>
+</forbidden>
+</accessory>
 	</accessories>
 </chummer>

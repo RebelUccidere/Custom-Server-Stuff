@@ -1647,6 +1647,54 @@
 			<spec>Sporting Rifles</spec>
 			<ammocategory>exarch ma</ammocategory>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380166</id>
+			<name>AM-PP MoLMG (Config. 1)</name>
+			<category>Carbines</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-1</ap>
+			<mode>BF/FA</mode>
+			<rc>3</rc>
+			<ammo>60(c)</ammo>
+			<avail>9F</avail>
+			<cost>2600</cost>
+			<source>BASE</source>
+			<page>25</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Flashlight</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

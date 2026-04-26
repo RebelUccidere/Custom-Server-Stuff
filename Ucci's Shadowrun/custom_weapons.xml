@@ -1650,7 +1650,7 @@
 		<weapon>
 			<id>ea458f86-4a17-4f47-b208-d8bb73380166</id>
 			<name>AM-PP MoLMG (Config. 1)</name>
-			<category>Carbines</category>
+			<category>Light Machine Guns</category>
 			<type>Ranged</type>
 			<conceal>10</conceal>
 			<accuracy>6</accuracy>
@@ -1678,13 +1678,397 @@
 					<name>Shockpad</name>
 				</accessory>
 				<accessory>
-					<name>Flashlight</name>
+					<name>Flashlight, Standard</name>
 				</accessory>
 				<accessory>
 					<name>Foregrip</name>
 				</accessory>
 				<accessory>
 					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380167</id>
+			<name>AM-PP MoMMG (Config. 1)</name>
+			<category>Medium Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-3</ap>
+			<mode>BF/FA</mode>
+			<rc>1</rc>
+			<ammo>60(c)</ammo>
+			<avail>14F</avail>
+			<cost>3175</cost>
+			<source>BASE</source>
+			<page>26</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Flashlight, Standard</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380168</id>
+			<name>AM-PP MoHMG (Config. 1)</name>
+			<category>Heavy Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>15P</damage>
+			<ap>-4</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>60(c)</ammo>
+			<avail>16F</avail>
+			<cost>4675</cost>
+			<source>BASE</source>
+			<page>27</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Flashlight, Standard</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380169</id>
+			<name>AM-PP MoLMG (Config. 2)</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-1</ap>
+			<mode>BF/FA</mode>
+			<rc>3</rc>
+			<ammo>80(d)</ammo>
+			<avail>9F</avail>
+			<cost>2850</cost>
+			<source>BASE</source>
+			<page>25</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Guncam</name>
+				</accessory>
+				<accessory>
+					<name>Bipod</name>
+				</accessory>
+				<accessory>
+					<name>Holographic Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380170</id>
+			<name>AM-PP MoMMG (Config. 2)</name>
+			<category>Medium Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-3</ap>
+			<mode>BF/FA</mode>
+			<rc>1</rc>
+			<ammo>80(d)</ammo>
+			<avail>14F</avail>
+			<cost>4675</cost>
+			<source>BASE</source>
+			<page>26</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Guncam</name>
+				</accessory>
+				<accessory>
+					<name>Bipod</name>
+				</accessory>
+				<accessory>
+					<name>Holographic Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380171</id>
+			<name>AM-PP MoHMG (Config. 2)</name>
+			<category>Heavy Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>15P</damage>
+			<ap>-4</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>80(d)</ammo>
+			<avail>16F</avail>
+			<cost>6175</cost>
+			<source>BASE</source>
+			<page>27</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Guncam</name>
+				</accessory>
+				<accessory>
+					<name>Bipod</name>
+				</accessory>
+				<accessory>
+					<name>Holographic Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380172</id>
+			<name>AM-PP MoLMG (Config. 3)</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>9P</damage>
+			<ap>-1</ap>
+			<mode>BF/FA</mode>
+			<rc>3</rc>
+			<ammo>100(belt)</ammo>
+			<avail>9F</avail>
+			<cost>3050</cost>
+			<source>BASE</source>
+			<page>25</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+				<accessory>
+					<name>Tripod</name>
+				</accessory>
+				<accessory>
+					<name>Guncam</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380173</id>
+			<name>AM-PP MoMMG (Config. 3)</name>
+			<category>Medium Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-3</ap>
+			<mode>BF/FA</mode>
+			<rc>1</rc>
+			<ammo>100(belt)</ammo>
+			<avail>14F</avail>
+			<cost>5150</cost>
+			<source>BASE</source>
+			<page>26</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+				<accessory>
+					<name>Tripod</name>
+				</accessory>
+				<accessory>
+					<name>Guncam</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380174</id>
+			<name>AM-PP MoHMG (Config. 3)</name>
+			<category>Heavy Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>15P</damage>
+			<ap>-4</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>100(belt)</ammo>
+			<avail>16F</avail>
+			<cost>6650</cost>
+			<source>BASE</source>
+			<page>27</page>
+			<accessories>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Slide Mount</name>
+				</accessory>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+				<accessory>
+					<name>Tripod</name>
+				</accessory>
+				<accessory>
+					<name>Guncam</name>
 				</accessory>
 			</accessories>
 			<accessorymounts>

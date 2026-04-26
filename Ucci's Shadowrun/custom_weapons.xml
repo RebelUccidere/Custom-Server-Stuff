@@ -2079,6 +2079,69 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380175</id>
+			<name>MagnaPul MG-500</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-3</ap>
+			<mode>SA/FA</mode>
+			<rc>2</rc>
+			<ammo>100(belt)</ammo>
+			<avail>10F</avail>
+			<cost>2800</cost>
+			<source>BASE</source>
+			<page>25</page>
+			<accessories>
+				<accessory>
+					<name>Shockpad</name>
+				</accessory>
+				<accessory>
+					<name>Bipod</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380176</id>
+			<name>Horde Logistics Dragons Breath</name>
+			<category>Light Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>11P</damage>
+			<ap>0</ap>
+			<mode>FA</mode>
+			<rc>2</rc>
+			<ammo>100(belt)</ammo>
+			<avail>12F</avail>
+			<cost>3000</cost>
+			<source>BASE</source>
+			<page>25</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<notes>This weapon deals fire damage.</notes>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

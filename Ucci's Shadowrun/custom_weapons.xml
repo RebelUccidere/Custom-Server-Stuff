@@ -2425,9 +2425,6 @@
 					<name>Thermographic Vision</name>
 					<category>Sensor Functions</category>
 				</usegear>
-				<usegear>
-					<name>Improved Range Finder</name>
-				</usegear>
 			</gears>
 			<rating>0</rating>
 		</accessory>

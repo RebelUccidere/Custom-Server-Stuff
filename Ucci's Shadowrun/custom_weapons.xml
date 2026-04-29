@@ -2142,6 +2142,91 @@
 			</accessorymounts>
 			<notes>This weapon deals fire damage.</notes>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380177</id>
+			<name>Hellspitter "Imp" Crossbow</name>
+			<category>Crossbows</category>
+			<type>Ranged</type>
+			<conceal>-2</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>5P</damage>
+			<ap>-1</ap>
+			<mode>BF</mode>
+			<rc>0</rc>
+			<ammo>6(cy)</ammo>
+			<avail>8R</avail>
+			<cost>1000</cost>
+			<source>BASE</source>
+			<page>12</page>
+			<accessories>
+				<accessory>
+					<name>Concealable Quick-Draw Holster</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Top</mount>
+			</accessorymounts>
+			<range>Light Pistols</range>
+			<spec>Crossbow</spec>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380178</id>
+			<name>AM-PP MHR</name>
+			<category>Sniper Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>13P</damage>
+			<ap>-3</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>10(c)</ammo>
+			<avail>10R</avail>
+			<cost>8750</cost>
+			<source>BASE</source>
+			<page>22</page>
+			<accessories>
+				<accessory>
+					<name>Imaging Scope</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380179</id>
+			<name>SR-M-20</name>
+			<category>Sporting Rifles</category>
+			<type>Ranged</type>
+			<conceal>8</conceal>
+			<accuracy>5</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-2</ap>
+			<mode>SA</mode>
+			<rc>0</rc>
+			<ammo>10(c)</ammo>
+			<avail>6R</avail>
+			<cost>4000</cost>
+			<source>BASE</source>
+			<page>20</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<spec>Sporting Rifles</spec>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

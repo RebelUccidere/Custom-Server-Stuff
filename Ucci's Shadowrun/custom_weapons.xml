@@ -516,12 +516,12 @@
 			<category>Assault Rifles</category>
 			<type>Ranged</type>
 			<conceal>8</conceal>
-			<accuracy>6</accuracy>
+			<accuracy>5</accuracy>
 			<reach>0</reach>
 			<damage>10P</damage>
-			<ap>-4</ap>
+			<ap>-3</ap>
 			<mode>BF/FA</mode>
-			<rc>1</rc>
+			<rc>0</rc>
 			<ammo>21(d)</ammo>
 			<avail>8R</avail>
 			<cost>2250</cost>

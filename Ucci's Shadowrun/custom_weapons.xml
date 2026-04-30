@@ -2410,20 +2410,20 @@
 					<category>Sensor Functions</category>
 				</usegear>
 				<usegear>
-					<name>Image Magnification</name>
-					<category>Sensor Functions</category>
+					<name>Vision Magnification</name>
+					<category>Vision Enhancements</category>
 				</usegear>
 				<usegear>
 					<name>Flare Compensation</name>
-					<category>Sensor Functions</category>
+					<category>Vision Enhancements</category>
 				</usegear>
 				<usegear>
 					<name>Smartlink</name>
-					<category>Sensor Functions</category>
+					<category>Vision Enhancements</category>
 				</usegear>
 				<usegear>
 					<name>Thermographic Vision</name>
-					<category>Sensor Functions</category>
+					<category>Vision Enhancements</category>
 				</usegear>
 			</gears>
 			<rating>0</rating>

@@ -1176,7 +1176,7 @@
 			<category>Assault Rifles</category>
 			<type>Ranged</type>
 			<conceal>6</conceal>
-			<accuracy>3</accuracy>
+			<accuracy>4</accuracy>
 			<reach>0</reach>
 			<damage>6P</damage>
 			<ap>-3</ap>

@@ -2190,6 +2190,12 @@
 			<accessories>
 				<accessory>
 					<name>Imaging Scope</name>
+					<gears>
+						<usegear>
+							<name>Thermographic Vision</name>
+							<category>Vision Enhancements</category>
+						</usegear>
+					<gears>
 				</accessory>
 			</accessories>
 			<accessorymounts>
@@ -2212,8 +2218,8 @@
 			<ap>-2</ap>
 			<mode>SA</mode>
 			<rc>0</rc>
-			<ammo>10(c)</ammo>
-			<avail>6R</avail>
+			<ammo>20(c)</ammo>
+			<avail>10R</avail>
 			<cost>4000</cost>
 			<source>BASE</source>
 			<page>20</page>
@@ -2232,27 +2238,107 @@
 			<name>Hellforge "Baelistae" Sniper Rifle</name>
 			<category>Sniper Rifles</category>
 			<type>Ranged</type>
-			<conceal>8</conceal>
+			<conceal>10</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
 			<damage>13P</damage>
-			<ap>-3</ap>
-			<mode>SA</mode>
-			<rc>0</rc>
-			<ammo>10(c)</ammo>
-			<avail>10R</avail>
-			<cost>8750</cost>
+			<ap>-4</ap>
+			<mode>SA/BF</mode>
+			<rc>-2</rc>
+			<ammo>12(cy)</ammo>
+			<avail>15F</avail>
+			<cost>37500</cost>
 			<source>BASE</source>
 			<page>22</page>
 			<accessories>
 				<accessory>
-					<name>Imaging Scope</name>
+					<name>HellSinger Smart-Scope</name>
+				</accessory>
+				<accessory>
+					<name>High-Velocity Barrel</name>
+				</accessory>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Bipod</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>Personalized Grip</name>
+				</accessory>
+				<accessory>
+					<name>Improved Range Finder</name>
 				</accessory>
 			</accessories>
 			<accessorymounts>
 				<mount>Stock</mount>
 				<mount>Side</mount>
 				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380181</id>
+			<name>EB Longbow</name>
+			<category>Sniper Rifles</category>
+			<type>Ranged</type>
+			<conceal>9</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>15P</damage>
+			<ap>-4</ap>
+			<mode>SS</mode>
+			<rc>-1</rc>
+			<ammo>8(cy)</ammo>
+			<avail>18F</avail>
+			<cost>15000</cost>
+			<source>BASE</source>
+			<page>22</page>
+			<accessories>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+				<accessory>
+					<name>Silencer/Suppressor</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+			<weapontype>caseless</weapontype>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380182</id>
+			<name>USI Hammer MK 1</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>6</accuracy>
+			<reach>0</reach>
+			<damage>16P</damage>
+			<ap>-4</ap>
+			<mode>SS</mode>
+			<rc>-4</rc>
+			<ammo>4(m)</ammo>
+			<avail>13R</avail>
+			<cost>15000</cost>
+			<source>BASE</source>
+			<page>30</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
 				<mount>Top</mount>
 				<mount>Under</mount>
 			</accessorymounts>
@@ -2401,7 +2487,7 @@
 			<name>HellSinger Smart-Scope</name>
 			<mount>Top</mount>
 			<avail>12R</avail>
-			<cost>7500</cost>
+			<cost>5500</cost>
 			<source>BASE</source>
 			<page>36</page>
 			<gears>

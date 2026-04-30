@@ -253,149 +253,149 @@
 			<source>SR5</source>
 			<page>437</page>
 		</gear>
-			<gear>
-				<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a</id>
-				<name>Nonconductivity</name>
-				<category>Armor Enhancements</category>
-				<armor>0</armor>
-				<rating>6</rating>
-				<armorcapacity>0</armorcapacity>
-				<avail>6</avail>
-				<cost>Rating * 250</cost>
-				<bonus unique="nonconductivity">
-					<electricityarmor>Rating</electricityarmor>
-				</bonus>
-				<hide/>
-				<source>SR5</source>
-				<page>438</page>
-			</gear>
-			<gear>
-				<id>d01e1789-c46b-43cd-a080-7a86d20b10aa</id>
-				<name>Gel Packs</name>
-				<category>General</category>
-				<armor>+2</armor>
-				<rating>1</rating>
-				<armorcapacity>0</armorcapacity>
-				<hide/>
-				<avail>6</avail>
-				<cost>1500</cost>
-				<source>RG</source>
-				<page>85</page>
-			</gear>
-			<gear>
-				<id>b19d7feb-4dc0-45c5-85ca-f72580602214</id>
-				<name>Shock Frills</name>
-				<category>General</category>
-				<armor>0</armor>
-				<rating>1</rating>
-				<armorcapacity>0</armorcapacity>
-				<hide/>
-				<avail>6R</avail>
-				<cost>250</cost>
-				<source>SR5</source>
-				<page>438</page>
-			</gear>
-			<gear>
-				<id>3210df6d-f622-4ec0-907d-aa3e524adc2a</id>
-				<name>Chemical Seal</name>
-				<category>General</category>
-				<armor>0</armor>
-				<rating>1</rating>
-				<armorcapacity>[6]</armorcapacity>
-				<avail>12R</avail>
-				<cost>3000</cost>
-				<bonus>
-					<toxincontactimmune/>
-					<toxininhalationimmune/>
-					<pathogencontactimmune/>
-					<pathogeninhalationimmune/>
-				</bonus>
-				<hide/>
-				<source>SR5</source>
-				<page>437</page>
-			</gear>
-			<gear>
-				<id>f035c82b-3bf7-44cb-88aa-d8f736eeee68</id>
-				<name>Grey Mana Integration</name>
-				<category>Armor Enhancements</category>
-				<armor>0</armor>
-				<rating>6</rating>
-				<armorcapacity>[Rating]</armorcapacity>
-				<avail>FixedValues(6F,6F,6F,9F,9F,9F)</avail>
-				<cost>FixedValues(Rating*1000,Rating*1000,Rating*1000,Rating*2000,Rating*2000,Rating*2000)</cost>
-				<source>BTB</source>
-				<hide/>
-				<page>156</page>
-			</gear>
-			<gear>
-				<id>2d87b041-9a7b-4a03-9439-73a27238cacc</id>
-				<name>Restrictive</name>
-				<category>General</category>
-				<armor>0</armor>
-				<hide/>
-				<maxrating>0</maxrating>
-				<armorcapacity>[0]</armorcapacity>
-				<avail>0</avail>
-				<cost>0</cost>
-				<source>RG</source>
-				<page>59</page>
-			</gear>
-			<gear>
-				<id>b6f5d713-280c-41af-a7f4-83e9d2030985</id>
-				<name>AM-PP Security Pack Sensor</name>
-				<category>Sensor Functions</category>
-				<armor>0</armor>
-				<gears>
-					<usegear>
-						<name>Atmosphere Sensor</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
-					</usegear>
-						<usegear>
-						<name>Motion Sensor</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
-					</usegear>
-					<usegear>
-						<name>Olfactory Sensor</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
-					</usegear>
-					<usegear>
-						<name>Microphone, Omni-Directional</name>
-						<category>Audio Devices</category>
-						<rating>3</rating>
-					</usegear>
-					<usegear>
-						<name>Radio Signal Scanner</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
-					</usegear>
-					<usegear>
-						<name>Sound Link</name>
-						<category>Audio Enhancements</category>
-						<rating>0</rating>
-					</usegear>
-					<usegear>
-						<name>Audio Enhancement</name>
-						<category>Audio Enhancements</category>
-						<rating>2</rating>
-					</usegear>
-					<usegear>
-						<name>Select Sound Filter</name>
-						<category>Audio Enhancements</category>
-						<rating>2</rating>
-					</usegear>
-					<usegear>
-						<name>Spatial Recognizer</name>
-						<category>Audio Enhancements</category>
-						<rating>0</rating>
-					</usegear>
-					<usegear>
-						<name>Ultrasound</name>
-						<category>Sensor Functions</category>
-						<rating>3</rating>
-					</usegear>
+		<gear>
+			<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a</id>
+			<name>Nonconductivity</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>0</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="nonconductivity">
+				<electricityarmor>Rating</electricityarmor>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>438</page>
+		</gear>
+		<gear>
+			<id>d01e1789-c46b-43cd-a080-7a86d20b10aa</id>
+			<name>Gel Packs</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<rating>1</rating>
+			<armorcapacity>0</armorcapacity>
+			<hide/>
+			<avail>6</avail>
+			<cost>1500</cost>
+			<source>RG</source>
+			<page>85</page>
+		</gear>
+		<gear>
+			<id>b19d7feb-4dc0-45c5-85ca-f72580602214</id>
+			<name>Shock Frills</name>
+			<category>General</category>
+			<armor>0</armor>
+			<rating>1</rating>
+			<armorcapacity>0</armorcapacity>
+			<hide/>
+			<avail>6R</avail>
+			<cost>250</cost>
+			<source>SR5</source>
+			<page>438</page>
+		</gear>
+		<gear>
+			<id>3210df6d-f622-4ec0-907d-aa3e524adc2a</id>
+			<name>Chemical Seal</name>
+			<category>General</category>
+			<armor>0</armor>
+			<rating>1</rating>
+			<armorcapacity>[6]</armorcapacity>
+			<avail>12R</avail>
+			<cost>3000</cost>
+			<bonus>
+				<toxincontactimmune/>
+				<toxininhalationimmune/>
+				<pathogencontactimmune/>
+				<pathogeninhalationimmune/>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
+		<gear>
+			<id>f035c82b-3bf7-44cb-88aa-d8f736eeee68</id>
+			<name>Grey Mana Integration</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>[Rating]</armorcapacity>
+			<avail>FixedValues(6F,6F,6F,9F,9F,9F)</avail>
+			<cost>FixedValues(Rating*1000,Rating*1000,Rating*1000,Rating*2000,Rating*2000,Rating*2000)</cost>
+			<source>BTB</source>
+			<hide/>
+			<page>156</page>
+		</gear>
+		<gear>
+			<id>2d87b041-9a7b-4a03-9439-73a27238cacc</id>
+			<name>Restrictive</name>
+			<category>General</category>
+			<armor>0</armor>
+			<hide/>
+			<maxrating>0</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>RG</source>
+			<page>59</page>
+		</gear>
+		<gear>
+			<id>b6f5d713-280c-41af-a7f4-83e9d2030985</id>
+			<name>AM-PP Security Pack Sensor</name>
+			<category>Sensor Functions</category>
+			<armor>0</armor>
+			<gears>
+				<usegear>
+					<name>Atmosphere Sensor</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Motion Sensor</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Olfactory Sensor</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Microphone, Omni-Directional</name>
+					<category>Audio Devices</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Radio Signal Scanner</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Sound Link</name>
+					<category>Audio Enhancements</category>
+					<rating>0</rating>
+				</usegear>
+				<usegear>
+					<name>Audio Enhancement</name>
+					<category>Audio Enhancements</category>
+					<rating>2</rating>
+				</usegear>
+				<usegear>
+					<name>Select Sound Filter</name>
+					<category>Audio Enhancements</category>
+					<rating>2</rating>
+				</usegear>
+				<usegear>
+					<name>Spatial Recognizer</name>
+					<category>Audio Enhancements</category>
+					<rating>0</rating>
+				</usegear>
+				<usegear>
+					<name>Ultrasound</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
 				<hide/>
 				<maxrating>0</maxrating>
 				<armorcapacity>[0]</armorcapacity>
@@ -403,12 +403,51 @@
 				<cost>0</cost>
 				<source>Base</source>
 				<page>0</page>
-				</gears>
-			</gear>
-		</gears>
-	</chummer>
-
-
-
+			</gears>
+		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badd00</id>
+			<name>Ammo: Shredder Shot Rounds</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>33</page>
+			<avail>18F</avail>
+			<cost>200</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<ap>4</ap>
+				<damage>4</damage>
+				<damagetype>P(f)</damagetype>
+			</weaponbonus>
+			<isflechetteammo>True</isflechetteammo>
+			<flechetteweaponbonus>
+				<damagetype>P(f)</damagetype>
+			</flechetteweaponbonus>
+			<ammoforweapontype>Shotguns</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badd01</id>
+			<name>Ammo: Thermite Penetrator Buckshot</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>33</page>
+			<avail>20F</avail>
+			<cost>1000</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<ap>-5</ap>
+				<damage>0</damage>
+				<damagetype>P(f)</damagetype>
+			</weaponbonus>
+			<isflechetteammo>True</isflechetteammo>
+			<flechetteweaponbonus>
+				<damagetype>P(f)</damagetype>
+			</flechetteweaponbonus>
+			<ammoforweapontype>Shotguns</ammoforweapontype>
+		</gear>
+	</gears>
+</chummer>
 
 

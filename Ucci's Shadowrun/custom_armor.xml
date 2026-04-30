@@ -79,6 +79,18 @@
 			<source>BASE</source>
 			<page>41</page>
 		</armor>
+		<armor> 
+			<id>c5efa339-e969-4062-b3ce-4dfad23aa027</id>
+			<name>Boxing Shields</name>
+			<category>Specialty Armor</category>
+			<armor>+1</armor>
+			<armorcapacity>1</armorcapacity>
+			<avail>4R</avail>
+			<cost>140</cost>
+			<addweapon>Boxing Shields</addweapon>
+			<source>BASE</source>
+			<page>32</page>
+		</armor>
 	</armors>
 	<mods>
 		<mod>

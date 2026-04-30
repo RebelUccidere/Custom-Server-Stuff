@@ -2423,6 +2423,38 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380186</id>
+			<name>Magna ARMS "Negotiator" 1000</name>
+			<category>Medium Machine Guns</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-4</ap>
+			<mode>FA</mode>
+			<rc>2</rc>
+			<ammo>500(belt) or 1000 (backpack)</ammo>
+			<avail>20F</avail>
+			<cost>20000</cost>
+			<source>BASE</source>
+			<page>25</page>
+			<accessories>
+				<accessory>
+					<name>Gas-Vent 3 System</name>
+				</accessory>
+				<accessory>
+					<name>Laser Sight</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

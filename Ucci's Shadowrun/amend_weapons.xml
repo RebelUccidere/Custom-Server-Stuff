@@ -1779,6 +1779,132 @@
 			<name>Vibro Sword</name>
 			<hide/>
 		</weapon>
+		<weapon>
+<id>469a2853-64ea-4701-8c63-dfa905f9c6fb</id>
+<name>Rocket: HEAT</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>24P (-4/m)</damage>
+<ap>-4//-10</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>18F</avail>
+<cost>2800</cost>
+<source>SR5</source>
+<page>436</page>
+</weapon>
+<weapon>
+<id>5f60fc01-7411-4e55-9227-968391430d1f</id>
+<name>Rocket: FRAG</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>23P(f) (-1/m)</damage>
+<ap>+5</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>12F</avail>
+<cost>2000</cost>
+<source>SR5</source>
+<page>436</page>
+</weapon>
+<weapon>
+<id>0477cd16-a295-4ffa-b7ac-1f2c9471c5ed</id>
+<name>Rocket: HE</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>21P (-2/m)</damage>
+<ap>-2</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>18F</avail>
+<cost>2100</cost>
+<source>SR5</source>
+<page>436</page>
+</weapon>
+		<weapon>
+<id>9d8d3d16-2964-4513-bed5-a25788872ae7</id>
+<name>Rocket: HEI</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>10P (-1/m)</damage>
+<ap>-6</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>12F</avail>
+<cost>1900</cost>
+<source>TSG</source>
+<page>29</page>
+</weapon>
+		<weapon>
+<id>5f04a3bf-666e-4efd-a037-9cd053e6b1eb</id>
+<name>Missile: HEAT</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>24P (-4/m)</damage>
+<ap>-4//-10</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>22F</avail>
+<cost>2800</cost>
+<source>SR5</source>
+<page>436</page>
+</weapon>
+<weapon>
+<id>046241b3-d009-4bed-b68b-89a3fcdbf99b</id>
+<name>Missile: FRAG</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>23P(f) (-1/m)</damage>
+<ap>+5</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>16F</avail>
+<cost>2000</cost>
+<source>SR5</source>
+<page>436</page>
+</weapon>
+<weapon>
+<id>034a4b54-02d3-4891-84fa-931f0124e260</id>
+<name>Missile: HE</name>
+<category>Gear</category>
+<type>Ranged</type>
+<conceal>10</conceal>
+<accuracy>0</accuracy>
+<reach>0</reach>
+<damage>21P (-2/m)</damage>
+<ap>-2</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>22F</avail>
+<cost>2100</cost>
+<source>SR5</source>
+<page>436</page>
+</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

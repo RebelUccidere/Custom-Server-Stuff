@@ -283,7 +283,7 @@
 		</gear>
 		<gear>
 			<id>60d28c15-42dd-4837-bc5f-8d8a15393655</id>
-			<name>Rocket: Anti-Vehicle</name>
+			<name>Rocket: HEAT</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>SR5</source>
@@ -295,7 +295,7 @@
 		</gear>
 		<gear>
 			<id>4c5be084-c975-42d2-962c-dc2add203b6b</id>
-			<name>Rocket: Fragmentation</name>
+			<name>Rocket: FRAG</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>SR5</source>
@@ -307,7 +307,7 @@
 		</gear>
 		<gear>
 			<id>d5136e8b-bf34-401d-967d-c52f8cc175c1</id>
-			<name>Rocket: High Explosive</name>
+			<name>Rocket: HE</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>SR5</source>
@@ -319,7 +319,7 @@
 		</gear>
 		<gear>
 			<id>413366b8-0ef5-4998-bfce-9ba29db761a9</id>
-			<name>Rocket: Incendiary</name>
+			<name>Rocket: HEI</name>
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>TSG</source>
@@ -327,6 +327,42 @@
 			<avail>12F</avail>
 			<addweapon>Rocket: Incendiary</addweapon>
 			<cost>950</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>a42b7377-5a2e-456d-b729-8783873465f0</id>
+			<name>Missile: HEAT</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>22F</avail>
+			<addweapon>Missile: Anti-Vehicle</addweapon>
+			<cost>2800</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>bb40694a-59de-4fb8-9cee-697f37377a55</id>
+			<name>Missile: FRAG</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>16F</avail>
+			<addweapon>Missile: Fragmentation</addweapon>
+			<cost>2000</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>838a308e-a638-433e-b5bc-54222fb645c9</id>
+			<name>Missile: HE</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>22F</avail>
+			<addweapon>Missile: High Explosive</addweapon>
+			<cost>2100</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
 	</gears>

@@ -281,14 +281,55 @@
 			<name>Trode Patch Cover</name>
 			<hide/>
 		</gear>
+		<gear>
+			<id>60d28c15-42dd-4837-bc5f-8d8a15393655</id>
+			<name>Rocket: Anti-Vehicle</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>18F</avail>
+			<addweapon>Rocket: Anti-Vehicle</addweapon>
+			<cost>1400</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>4c5be084-c975-42d2-962c-dc2add203b6b</id>
+			<name>Rocket: Fragmentation</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>12F</avail>
+			<addweapon>Rocket: Fragmentation</addweapon>
+			<cost>1000</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>d5136e8b-bf34-401d-967d-c52f8cc175c1</id>
+			<name>Rocket: High Explosive</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>18F</avail>
+			<addweapon>Rocket: High Explosive</addweapon>
+			<cost>1050</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>413366b8-0ef5-4998-bfce-9ba29db761a9</id>
+			<name>Rocket: Incendiary</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>TSG</source>
+			<page>29</page>
+			<avail>12F</avail>
+			<addweapon>Rocket: Incendiary</addweapon>
+			<cost>950</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
 	</gears>
 </chummer>
-
-
-
-
-
-
-
 
 

@@ -2337,6 +2337,92 @@
 				<mount>Under</mount>
 			</accessorymounts>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380183</id>
+			<name>USI Hammer MK 2</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>16P</damage>
+			<ap>-6</ap>
+			<mode>SA</mode>
+			<rc>-3</rc>
+			<ammo>6(m)</ammo>
+			<avail>20F</avail>
+			<cost>45000</cost>
+			<source>BASE</source>
+			<page>30</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380184</id>
+			<name>Crude Buster</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>16P</damage>
+			<ap>-4</ap>
+			<mode>SS</mode>
+			<rc>-4</rc>
+			<ammo>1(m)</ammo>
+			<avail>14F</avail>
+			<cost>4500</cost>
+			<source>BASE</source>
+			<page>30</page>
+			<accessories></accessories>
+			<notes>Decrease the threshold to glitch when using this weapon by 1. Additionally if it does critical glitch, the weapon explodes, dealing the same damage as an HE grenade times two.</notes>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380185</id>
+			<name>EDH Titan Slayer</name>
+			<category>Assault Cannons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>7</accuracy>
+			<reach>0</reach>
+			<damage>17P</damage>
+			<ap>-8</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(bl)</ammo>
+			<avail>30F</avail>
+			<cost>30000</cost>
+			<source>BASE</source>
+			<page>30</page>
+			<accessories>
+				<accessory>
+					<name>Electronic Firing</name>
+				</accessory>
+				<accessory>
+					<name>Exarch Smartlink System*</name>
+				</accessory>
+				<accessory>
+					<name>Easy Breakdown (Powered)</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

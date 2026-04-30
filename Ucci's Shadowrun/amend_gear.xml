@@ -289,7 +289,7 @@
 			<source>SR5</source>
 			<page>436</page>
 			<avail>18F</avail>
-			<addweapon>Rocket: Anti-Vehicle</addweapon>
+			<addweapon>Rocket: HEAT</addweapon>
 			<cost>1400</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
@@ -301,7 +301,7 @@
 			<source>SR5</source>
 			<page>436</page>
 			<avail>12F</avail>
-			<addweapon>Rocket: Fragmentation</addweapon>
+			<addweapon>Rocket: FRAG</addweapon>
 			<cost>1000</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
@@ -313,7 +313,7 @@
 			<source>SR5</source>
 			<page>436</page>
 			<avail>18F</avail>
-			<addweapon>Rocket: High Explosive</addweapon>
+			<addweapon>Rocket: HE</addweapon>
 			<cost>1050</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
@@ -325,7 +325,7 @@
 			<source>TSG</source>
 			<page>29</page>
 			<avail>12F</avail>
-			<addweapon>Rocket: Incendiary</addweapon>
+			<addweapon>Rocket: HEI</addweapon>
 			<cost>950</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
@@ -337,7 +337,7 @@
 			<source>SR5</source>
 			<page>436</page>
 			<avail>22F</avail>
-			<addweapon>Missile: Anti-Vehicle</addweapon>
+			<addweapon>Missile: HEAT</addweapon>
 			<cost>2800</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
@@ -349,7 +349,7 @@
 			<source>SR5</source>
 			<page>436</page>
 			<avail>16F</avail>
-			<addweapon>Missile: Fragmentation</addweapon>
+			<addweapon>Missile: FRAG</addweapon>
 			<cost>2000</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>
@@ -361,7 +361,7 @@
 			<source>SR5</source>
 			<page>436</page>
 			<avail>22F</avail>
-			<addweapon>Missile: High Explosive</addweapon>
+			<addweapon>Missile: HE</addweapon>
 			<cost>2100</cost>
 			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
 		</gear>

@@ -811,13 +811,13 @@
 			<conceal>2</conceal>
 			<accuracy>6</accuracy>
 			<reach>0</reach>
-			<damage>9P</damage>
-			<ap>-5</ap>
+			<damage>8P</damage>
+			<ap>-4</ap>
 			<mode>SA/FA</mode>
 			<rc>3</rc>
 			<ammo>4x15(ml)</ammo>
 			<avail>30F</avail>
-			<cost>20000</cost>
+			<cost>10000</cost>
 			<source>BASE</source>
 			<page>16</page>
 			<ammocategory>caseless</ammocategory>

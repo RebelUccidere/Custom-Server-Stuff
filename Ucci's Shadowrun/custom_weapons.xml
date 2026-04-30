@@ -2190,12 +2190,6 @@
 			<accessories>
 				<accessory>
 					<name>Imaging Scope</name>
-					<gears>
-						<usegear>
-							<name>Thermographic Vision</name>
-							<category>Vision Enhancements</category>
-						</usegear>
-					<gears>
 				</accessory>
 			</accessories>
 			<accessorymounts>

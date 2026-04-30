@@ -2462,7 +2462,7 @@
 			<type>Melee</type>
 			<conceal>-2</conceal>
 			<accuracy>4</accuracy>
-			</hide>
+			<hide/>
 			<reach>0</reach>
 			<damage>({STR}+2)P</damage>
 			<ap>-1</ap>

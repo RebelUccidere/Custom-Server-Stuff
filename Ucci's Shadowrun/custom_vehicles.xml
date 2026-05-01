@@ -1,0 +1,90 @@
+<chummer>
+  <vehicles>
+    <vehicle>
+      <id>4a9c50f3-43ab-45a9-a6d5-7e409b71b700</id>
+      <name>Redline Horizon</name>
+      <page>56</page>
+      <source>BASE</source>
+      <accel>2</accel>
+      <armor>4</armor>
+      <avail>0</avail>
+      <body>7</body>
+      <category>Bikes</category>
+      <cost>12000</cost>
+      <handling>4/4</handling>
+      <pilot>0</pilot>
+      <sensor>0</sensor>
+      <speed>6</speed>
+      <gears>
+      </gears>
+      <seats>1</seats>
+    </vehicle>
+    <vehicle>
+      <id>4a9c50f3-43ab-45a9-a6d5-7e409b71b701</id>
+      <name>Vulcon Storm ATV</name>
+      <page>56</page>
+      <source>BASE</source>
+      <accel>1</accel>
+      <armor>5</armor>
+      <avail>5</avail>
+      <body>6</body>
+      <category>Bikes</category>
+      <cost>9500</cost>
+      <handling>5/5</handling>
+      <pilot>0</pilot>
+      <sensor>2</sensor>
+      <speed>3</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>2</rating>
+          <maxrating>6</maxrating>
+        </gear>
+      </gears>
+      <seats>2</seats>
+    </vehicle>
+    <vehicle>
+      <id>4a9c50f3-43ab-45a9-a6d5-7e409b71b702</id>
+      <name>Exarch Rapid Traversal Bike</name>
+      <page>56</page>
+      <source>BASE</source>
+      <accel>3</accel>
+      <armor>2</armor>
+      <avail>7</avail>
+      <body>4</body>
+      <category>Bikes</category>
+      <cost>10000</cost>
+      <handling>3/5</handling>
+      <pilot>0</pilot>
+      <sensor>0</sensor>
+      <speed>5</speed>
+      <gears>
+      </gears>
+      <seats>1</seats>
+    </vehicle>
+    <vehicle>
+      <id>4a9c50f3-43ab-45a9-a6d5-7e409b71b703</id>
+      <name>Vulcon Heavy Dustkicker</name>
+      <page>56</page>
+      <source>BASE</source>
+      <accel>2</accel>
+      <armor>8</armor>
+      <avail>8</avail>
+      <body>9</body>
+      <category>Bikes</category>
+      <cost>27000</cost>
+      <handling>3/4</handling>
+      <pilot>0</pilot>
+      <sensor>3</sensor>
+      <speed>3</speed>
+      <gears>
+        <gear>
+          <name>Sensor Array</name>
+          <rating>3</rating>
+          <maxrating>6</maxrating>
+        </gear>
+      </gears>
+      <seats>2</seats>
+    </vehicle>
+  </vehicles>
+</chummer>

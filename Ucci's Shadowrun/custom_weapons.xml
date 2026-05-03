@@ -2554,8 +2554,8 @@
 			<conceal>10</conceal>
 			<accuracy>2</accuracy>
 			<reach>0</reach>
-			<damage>*</damage>
-			<ap>*</ap>
+			<damage>0P</damage>
+			<ap>0</ap>
 			<mode>BF/FA</mode>
 			<rc>0</rc>
 			<ammo>30(c)</ammo>

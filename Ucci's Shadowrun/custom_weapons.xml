@@ -2736,6 +2736,51 @@
 			<page>32</page>
 			<useskill>Blades</useskill>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380199</id>
+			<name>Hellbrand "Silverstorm" Assault Rifle</name>
+			<category>Assault Rifles</category>
+			<type>Ranged</type>
+			<conceal>9</conceal>
+			<accuracy>1</accuracy>
+			<reach>0</reach>
+			<damage>10P</damage>
+			<ap>-2</ap>
+			<mode>BF/FA</mode>
+			<rc>6</rc>
+			<ammo>60(c)</ammo>
+			<avail>15F</avail>
+			<cost>15500</cost>
+			<source>BASE</source>
+			<page>17</page>
+			<accessories>
+				<accessory>
+					<name>High-Vilocity Barrel</name>
+				</accessory>
+				<accessory>
+					<name>Gas-Vent 3 System</name>
+				</accessory>
+				<accessory>
+					<name>Folding Stock</name>
+				</accessory>
+				<accessory>
+					<name>Foregrip</name>
+				</accessory>
+				<accessory>
+					<name>HellSinger Smart-Scope</name>
+				</accessory>
+				<accessory>
+					<name>Improved Rangefinder</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Barrel</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

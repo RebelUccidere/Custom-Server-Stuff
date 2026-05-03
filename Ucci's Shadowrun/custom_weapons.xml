@@ -2546,6 +2546,29 @@
 			</accessorymounts>
 			<weapontype>grey fire</weapontype>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380191</id>
+			<name>Redline Turbopump Fluid Cannon</name>
+			<category>Exotic Ranged Weapons</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>2</accuracy>
+			<reach>0</reach>
+			<damage>*</damage>
+			<ap>*</ap>
+			<mode>BF/FA</mode>
+			<rc>0</rc>
+			<ammo>30(c)</ammo>
+			<avail>10</avail>
+			<cost>10000</cost>
+			<source>BASE</source>
+			<page>33</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Under</mount>
+			</accessorymounts>
+			<weapontype>firefighting cannons</weapontype>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

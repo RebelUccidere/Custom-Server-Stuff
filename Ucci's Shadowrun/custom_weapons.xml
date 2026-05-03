@@ -2569,6 +2569,31 @@
 			</accessorymounts>
 			<weapontype>firefighting cannons</weapontype>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380192</id>
+			<name>Nv. HVE-4</name>
+			<category>Missile Launchers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>2</accuracy>
+			<reach>0</reach>
+			<damage>Rocket</damage>
+			<ap>Rocket</ap>
+			<mode>SS</mode>
+			<rc>0</rc>
+			<ammo>1(ml)</ammo>
+			<avail>12F</avail>
+			<cost>3500</cost>
+			<source>BASE</source>
+			<page>30</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

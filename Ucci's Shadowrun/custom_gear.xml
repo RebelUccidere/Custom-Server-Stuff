@@ -453,8 +453,8 @@
 			<category>Ammunition</category>
 			<rating>0</rating>
 			<source>BASE</source>
-			<page>33</page>
-			<avail>13F</avail>
+			<page>28</page>
+			<avail>13R</avail>
 			<cost>350</cost>
 			<costfor>10</costfor>
 			<ammoforweapontype>grey fire</ammoforweapontype>

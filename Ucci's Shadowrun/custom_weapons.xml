@@ -2475,6 +2475,77 @@
 			<page>32</page>
 			<useskill>Unarmed Combat</useskill>
 		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380188</id>
+			<name>Magna ARMS Incinerator</name>
+			<category>Flamethrowers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>3</accuracy>
+			<reach>0</reach>
+			<damage>12P</damage>
+			<ap>-5</ap>
+			<mode>SA/BF/FA</mode>
+			<rc>2</rc>
+			<ammo>50(c)</ammo>
+			<avail>14F</avail>
+			<cost>4500</cost>
+			<source>BASE</source>
+			<page>28</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380189</id>
+			<name>Agrathian Fire</name>
+			<category>Flamethrowers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>5P</damage>
+			<ap>-5</ap>
+			<mode>SA/BF</mode>
+			<rc>2</rc>
+			<ammo>10(c)</ammo>
+			<avail>15R</avail>
+			<cost>4500</cost>
+			<source>BASE</source>
+			<page>28</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Under</mount>
+			</accessorymounts>
+			<weapontype>grey fire</weapontype>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380190</id>
+			<name>Agrathian Fire (Authentic)</name>
+			<category>Flamethrowers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>4</accuracy>
+			<reach>0</reach>
+			<damage>5P</damage>
+			<ap>-5</ap>
+			<mode>SA/BF</mode>
+			<rc>2</rc>
+			<ammo>10(c)</ammo>
+			<avail>21R</avail>
+			<cost>100000</cost>
+			<source>BASE</source>
+			<page>28</page>
+			<accessories>
+				<accessory>
+					<name>Vintage</name>
+				</accessory>
+			</accessories>
+			<accessorymounts>
+			</accessorymounts>
+			<weapontype>grey fire</weapontype>
+		</weapon>
 	</weapons>
 	<accessories>
 		<accessory>

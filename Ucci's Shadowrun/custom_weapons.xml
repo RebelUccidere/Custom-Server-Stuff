@@ -2585,7 +2585,7 @@
 			<avail>12F</avail>
 			<cost>3500</cost>
 			<source>BASE</source>
-			<page>30</page>
+			<page>31</page>
 			<accessories></accessories>
 			<accessorymounts>
 				<mount>Stock</mount>
@@ -2610,7 +2610,7 @@
 			<avail>15F</avail>
 			<cost>10000</cost>
 			<source>BASE</source>
-			<page>30</page>
+			<page>31</page>
 			<accessories>
 				<accessory>
 					<name>Imaging Scope</name>
@@ -2638,6 +2638,56 @@
 			<ammo>4(m)</ammo>
 			<avail>22F</avail>
 			<cost>15500</cost>
+			<source>BASE</source>
+			<page>31</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380195</id>
+			<name>GL-IA-1</name>
+			<category>Grenade Launchers</category>
+			<type>Ranged</type>
+			<conceal>6</conceal>
+			<accuracy>2</accuracy>
+			<reach>0</reach>
+			<damage>Grenade</damage>
+			<ap>Grenade</ap>
+			<mode>SS</mode>
+			<rc>-2</rc>
+			<ammo>1(bl)</ammo>
+			<avail>8F</avail>
+			<cost>1500</cost>
+			<source>BASE</source>
+			<page>30</page>
+			<accessories></accessories>
+			<accessorymounts>
+				<mount>Stock</mount>
+				<mount>Side</mount>
+				<mount>Top</mount>
+				<mount>Under</mount>
+			</accessorymounts>
+		</weapon>
+		<weapon>
+			<id>ea458f86-4a17-4f47-b208-d8bb73380196</id>
+			<name>RIOT Tech G40</name>
+			<category>Grenade Launchers</category>
+			<type>Ranged</type>
+			<conceal>10</conceal>
+			<accuracy>2</accuracy>
+			<reach>0</reach>
+			<damage>Grenade</damage>
+			<ap>Grenade</ap>
+			<mode>SA</mode>
+			<rc>-1</rc>
+			<ammo>6(cy)</ammo>
+			<avail>18F</avail>
+			<cost>4500</cost>
 			<source>BASE</source>
 			<page>30</page>
 			<accessories></accessories>

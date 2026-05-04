@@ -46,4 +46,17 @@
       <source>BASE</source>
       <page>67</page>
   </quality>
+  <quality>
+    <id>38132072-ff59-405e-af0a-8f3af6569105</id>
+      <name>High Profile Mercenary</name>
+      <karma>10</karma>
+      <category>Positive</category>
+      <bonus>
+      </bonus>
+      <required>
+        <quality>Officially Licensed</quality>
+      </required>
+      <source>BASE</source>
+      <page>67</page>
+  </quality>
 </chummer>

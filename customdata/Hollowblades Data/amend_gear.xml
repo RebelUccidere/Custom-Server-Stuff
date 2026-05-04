@@ -1,0 +1,371 @@
+<chummer>
+	<gears>
+		<gear  xpathfilter="source = 'DT' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'SR5' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'SS' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'TVG' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'DTR' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'LCD' and category ='Commlinks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'DT' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'LCD' and category ='Cyberdecks'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Rigger Command Consoles'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'RF' and category ='Currency'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'LCD' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'BB' and category ='Drugs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'BB' and category ='Biotech'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'BB' and category ='Toxins'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'SS' and category ='Toxins'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'HT' and category ='Toxins'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KK' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'HT' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'SL' and category ='Ammunition'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CA' and category ='Contracts/Upkeep'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CA' and category ='Tailored Perfume/Cologne'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='PI-Tac'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'RG' and category ='PI-Tac'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'KC' and category ='PI-Tac Programs'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear  xpathfilter="source = 'CF' and category ='Nanogear'">
+			<hide addifnotfound="True" />
+		</gear>
+		<gear>
+			<name>Meta Link</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Sony Emperor</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Hermes Ikon</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Transys Avalon</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Spinrad Industries Trompe L'Oeil</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Fairlight Caliban</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Renraku Sensei</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Shiawase Jishi</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Erika Elite</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Crystal Leviathan Shatterstar</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Erika MCD-1</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Fairlight Excalibur</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Hermes Chariot</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Microdeck Summit</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Microtrónica Azteca 200</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Novatech Navigator</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Renraku Tsurugi</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Shiawase Cyber-5</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Sony CIY-720</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>CompuForce TaskMaster</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Essy Motors DroneMaster</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Lone Star Remote Commander</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Maersk Spider</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Maser Industrial Electronics</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>MCT Drone Web</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Proteus Poseidon</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Radio Shack Remote Controller</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Triox UberMensch</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Vulcan Liegelord</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Taurus Omni-6 Heavy</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>HMHVV II Inhibitor</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Stick-n-Shock</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: EX-Explosive Rounds</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Gauss</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ammo: Gauss</name>
+			<hide/>
+		</gear>
+		<gear>
+			<id>8C9AE7B4-EF1F-4983-9008-795D3592B417</id>
+			<name>Ammo: AP Rounds</name>
+			<avail>12R</avail>
+			<notes>This give AP-1 to all targets and AP-3 to vehicles.</notes>
+		</gear>
+		<gear>
+			<name>Ammo: APDS</name>
+			<avail>14F</avail>
+		</gear>
+		<gear>
+			<name>KE-V</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>KEV Ammunition</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Ares PED Mark III</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Urban Explorer Daedalus Replacement Parachute</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Grenade: Halloweener Molotov Cocktail</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Grenade: Halloweener Molotov Cocktail, Aerodynamic</name>
+			<hide/>
+		</gear>
+		<gear>
+			<name>Horizon BoomerEye</name>
+			<hide/>
+		</gear>
+		<gear>
+			<id>d1d0bbce-a2a2-4d92-b54c-b1152befb96f</id>
+			<name>Trode Patch</name>
+			<hide/>
+		</gear>
+		<gear>
+			<id>2d9b2e2d-5460-4e1a-b4dc-82c7092b6a7e</id>
+			<name>Trode Patch Cover</name>
+			<hide/>
+		</gear>
+		<gear>
+			<id>60d28c15-42dd-4837-bc5f-8d8a15393655</id>
+			<name>Rocket: HEAT</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>18F</avail>
+			<addweapon>Rocket: HEAT</addweapon>
+			<cost>1400</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>4c5be084-c975-42d2-962c-dc2add203b6b</id>
+			<name>Rocket: FRAG</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>12F</avail>
+			<addweapon>Rocket: FRAG</addweapon>
+			<cost>1000</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>d5136e8b-bf34-401d-967d-c52f8cc175c1</id>
+			<name>Rocket: HE</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>18F</avail>
+			<addweapon>Rocket: HE</addweapon>
+			<cost>1050</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>413366b8-0ef5-4998-bfce-9ba29db761a9</id>
+			<name>Rocket: HEI</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>TSG</source>
+			<page>29</page>
+			<avail>12F</avail>
+			<addweapon>Rocket: HEI</addweapon>
+			<cost>950</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>a42b7377-5a2e-456d-b729-8783873465f0</id>
+			<name>Missile: HEAT</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>22F</avail>
+			<addweapon>Missile: HEAT</addweapon>
+			<cost>2800</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>bb40694a-59de-4fb8-9cee-697f37377a55</id>
+			<name>Missile: FRAG</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>16F</avail>
+			<addweapon>Missile: FRAG</addweapon>
+			<cost>2000</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>838a308e-a638-433e-b5bc-54222fb645c9</id>
+			<name>Missile: HE</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>436</page>
+			<avail>22F</avail>
+			<addweapon>Missile: HE</addweapon>
+			<cost>2100</cost>
+			<ammoforweapontype noextra="True">mlauncher</ammoforweapontype>
+		</gear>
+	</gears>
+</chummer>
+
+

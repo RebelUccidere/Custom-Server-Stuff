@@ -1,0 +1,465 @@
+<chummer>
+	<gears>
+		<gear>
+			<id>c8cd6218-e826-41ee-bd26-fdaccce4020b</id>
+			<name>Junk Deck (DT, Page 64)</name>
+			<category>Cyberdecks</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>2</avail>
+			<capacity>0</capacity>
+			<cost>21000</cost>
+			<devicerating>1</devicerating>
+			<attributearray>2,2,1,1</attributearray>
+			<programs>1</programs>
+			<canformpersona>Self</canformpersona>
+			<gears>
+				<usegear>
+					<name>Sim Module, Hot</name>
+					<category>Commlink Accessories</category>
+				</usegear>
+				<usegear>
+					<name>Universal Connector Cord</name>
+					<category>Tools</category>
+					<rating>1</rating>
+				</usegear>
+				<usegear>
+					<name>Commlink Functionality</name>
+					<category>Electronics Accessories</category>
+				</usegear>
+				<notes>This is functionally identical to the Radio Shack Cyberdeck listed in Deta Trails, Page 64. This deck is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+			</gears>
+		</gear>
+		<gear>
+			<id>91b492a5-3112-4c30-82b1-00921302f974</id>
+			<name>PI-Tac Level I (RG, 105)</name>
+			<category>PI-Tac</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>12R</avail>
+			<cost>115000</cost>
+			<devicerating>4</devicerating>
+			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+		</gear>
+		<gear>
+			<id>5e3ac83d-c9ed-45b0-a6f9-c92365d6f712</id>
+			<name>PI-Tac Level II (RG, 105)</name>
+			<category>PI-Tac</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>18R</avail>
+			<cost>325000</cost>
+			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+			<devicerating>5</devicerating>
+		</gear>
+		<gear>
+			<id>c30cb477-0615-4cad-8d79-d281aad98dea</id>
+			<name>PI-Tac Level III (RG, 105)</name>
+			<category>PI-Tac</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>18F</avail>
+			<cost>855000</cost>
+			<notes>This is functionally identical to the Pi-Tac listed in Run and Gun, Page 105. This Pi-Tac is mainly for maintaining catagories, hide if this is redundant to your setting.</notes>
+			<devicerating>6</devicerating>
+		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badde9</id>
+			<name>Ammo: Regular Ammo (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>434</page>
+			<avail>6F</avail>
+			<cost>20</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>91d199b2-571d-426d-b609-c75a6bca9eb2</id>
+			<name>Ammo: Tracer (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>434</page>
+			<avail>10F</avail>
+			<cost>60</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>75a7ffdd-bc2b-4aeb-8bed-f64bc2b05e82</id>
+			<name>Ammo: AP Rounds (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>RG</source>
+			<page>55</page>
+			<avail>16F</avail>
+			<cost>175</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<ap>-1</ap>
+			</weaponbonus>
+			<ammoforweapontype>caseless</ammoforweapontype>
+			<notes>This give AP-1 to all targets and AP-3 to vehicles.</notes>
+		</gear>
+		<gear>
+			<id>372649e9-9810-43fa-b709-450d2d7c203a</id>
+			<name>Ammo: Subsonic (Caseless)</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>SR5</source>
+			<page>5</page>
+			<avail>12F</avail>
+			<cost>40</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<damage>-1</damage>
+			</weaponbonus>
+			<ammoforweapontype>caseless</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>d4744ecf-bf44-480c-bf3c-f82464fe093f</id>
+			<name>Ammo: Exarch MA Cartridge</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>20F</avail>
+			<cost>200</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>exarch ma</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>77558462-3fff-4145-9e3d-505ed417a7b8</id>
+			<name>Ammo: Exarch Quench Charge</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>16F</avail>
+			<cost>100</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>exarch</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>8f8cba47-150b-49d8-8564-536090fd7d0f</id>
+			<name>Ammo: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>10F</avail>
+			<cost>150</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>gun</ammoforweapontype>
+			<weaponbonus>
+				<damage>-1</damage>
+				<ap>-1</ap>
+			</weaponbonus>
+		</gear>
+		<gear>
+			<id>7147213e-0ce2-4509-aaa5-6e33862632cf</id>
+			<name>Bolt: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>10F</avail>
+			<cost>35</cost>
+			<costfor>1</costfor>
+			<ammoforweapontype>crossbow</ammoforweapontype>
+			<weaponbonus>
+				<damage>-1</damage>
+				<ap>-1</ap>
+			</weaponbonus>
+		</gear>
+		<gear>
+			<id>5f9aabcb-34aa-436b-96df-584b265a42c6</id>
+			<name>Arrow: Grey Mana</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>1</page>
+			<avail>10F</avail>
+			<cost>35</cost>
+			<costfor>1</costfor>
+			<ammoforweapontype>bow</ammoforweapontype>
+			<weaponbonus>
+				<damage>-1</damage>
+				<ap>-1</ap>
+			</weaponbonus>
+		</gear>
+		<gear>
+			<id></id>
+			<name></name>
+			<category></category>
+			<rating></rating>
+			<source>BASE</source>
+			<page></page>
+			<avail></avail>
+			<cost></cost>
+		</gear>
+		<gear>
+			<id>ad401570-0c80-4739-8f39-f129e57a5496</id>
+			<name>Chemical Protection</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>0</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="chemicalprotection">
+				<toxincontactresist>Rating</toxincontactresist>
+				<pathogencontactresist>Rating</pathogencontactresist>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
+		<gear>
+			<id>8748a91b-2a38-434a-8d2c-034752ed72b4</id>
+			<name>Insulation</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>0</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="insulation">
+				<coldarmor>Rating</coldarmor>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
+		<gear>
+			<id>839af43e-da49-44ef-868a-e48414c93509</id>
+			<name>Fire Resistance</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>0</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="fireresistance">
+				<firearmor>Rating</firearmor>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
+		<gear>
+			<id>7f77f307-8daa-4fb4-a758-f0c1fc16db1a</id>
+			<name>Nonconductivity</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>0</armorcapacity>
+			<avail>6</avail>
+			<cost>Rating * 250</cost>
+			<bonus unique="nonconductivity">
+				<electricityarmor>Rating</electricityarmor>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>438</page>
+		</gear>
+		<gear>
+			<id>d01e1789-c46b-43cd-a080-7a86d20b10aa</id>
+			<name>Gel Packs</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<rating>1</rating>
+			<armorcapacity>0</armorcapacity>
+			<hide/>
+			<avail>6</avail>
+			<cost>1500</cost>
+			<source>RG</source>
+			<page>85</page>
+		</gear>
+		<gear>
+			<id>b19d7feb-4dc0-45c5-85ca-f72580602214</id>
+			<name>Shock Frills</name>
+			<category>General</category>
+			<armor>0</armor>
+			<rating>1</rating>
+			<armorcapacity>0</armorcapacity>
+			<hide/>
+			<avail>6R</avail>
+			<cost>250</cost>
+			<source>SR5</source>
+			<page>438</page>
+		</gear>
+		<gear>
+			<id>3210df6d-f622-4ec0-907d-aa3e524adc2a</id>
+			<name>Chemical Seal</name>
+			<category>General</category>
+			<armor>0</armor>
+			<rating>1</rating>
+			<armorcapacity>[6]</armorcapacity>
+			<avail>12R</avail>
+			<cost>3000</cost>
+			<bonus>
+				<toxincontactimmune/>
+				<toxininhalationimmune/>
+				<pathogencontactimmune/>
+				<pathogeninhalationimmune/>
+			</bonus>
+			<hide/>
+			<source>SR5</source>
+			<page>437</page>
+		</gear>
+		<gear>
+			<id>f035c82b-3bf7-44cb-88aa-d8f736eeee68</id>
+			<name>Grey Mana Integration</name>
+			<category>Armor Enhancements</category>
+			<armor>0</armor>
+			<rating>6</rating>
+			<armorcapacity>[Rating]</armorcapacity>
+			<avail>FixedValues(6F,6F,6F,9F,9F,9F)</avail>
+			<cost>FixedValues(Rating*1000,Rating*1000,Rating*1000,Rating*2000,Rating*2000,Rating*2000)</cost>
+			<source>BTB</source>
+			<hide/>
+			<page>156</page>
+		</gear>
+		<gear>
+			<id>2d87b041-9a7b-4a03-9439-73a27238cacc</id>
+			<name>Restrictive</name>
+			<category>General</category>
+			<armor>0</armor>
+			<hide/>
+			<maxrating>0</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>RG</source>
+			<page>59</page>
+		</gear>
+		<gear>
+			<id>b6f5d713-280c-41af-a7f4-83e9d2030985</id>
+			<name>AM-PP Security Pack Sensor</name>
+			<category>Sensor Functions</category>
+			<armor>0</armor>
+			<gears>
+				<usegear>
+					<name>Atmosphere Sensor</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Motion Sensor</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Olfactory Sensor</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Microphone, Omni-Directional</name>
+					<category>Audio Devices</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Radio Signal Scanner</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<usegear>
+					<name>Sound Link</name>
+					<category>Audio Enhancements</category>
+					<rating>0</rating>
+				</usegear>
+				<usegear>
+					<name>Audio Enhancement</name>
+					<category>Audio Enhancements</category>
+					<rating>2</rating>
+				</usegear>
+				<usegear>
+					<name>Select Sound Filter</name>
+					<category>Audio Enhancements</category>
+					<rating>2</rating>
+				</usegear>
+				<usegear>
+					<name>Spatial Recognizer</name>
+					<category>Audio Enhancements</category>
+					<rating>0</rating>
+				</usegear>
+				<usegear>
+					<name>Ultrasound</name>
+					<category>Sensor Functions</category>
+					<rating>3</rating>
+				</usegear>
+				<hide/>
+				<maxrating>0</maxrating>
+				<armorcapacity>[0]</armorcapacity>
+				<avail>0</avail>
+				<cost>0</cost>
+				<source>Base</source>
+				<page>0</page>
+			</gears>
+		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badd00</id>
+			<name>Ammo: Shredder Shot Rounds</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>33</page>
+			<avail>18F</avail>
+			<cost>200</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<ap>4</ap>
+				<damage>4</damage>
+				<damagetype>P(f)</damagetype>
+			</weaponbonus>
+			<isflechetteammo>True</isflechetteammo>
+			<flechetteweaponbonus>
+				<damagetype>P(f)</damagetype>
+			</flechetteweaponbonus>
+			<ammoforweapontype>Shotguns</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badd01</id>
+			<name>Ammo: Thermite Penetrator Buckshot</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>33</page>
+			<avail>20F</avail>
+			<cost>1000</cost>
+			<costfor>10</costfor>
+			<weaponbonus>
+				<ap>-5</ap>
+				<damage>0</damage>
+				<damagetype>P(f)</damagetype>
+			</weaponbonus>
+			<isflechetteammo>True</isflechetteammo>
+			<flechetteweaponbonus>
+				<damagetype>P(f)</damagetype>
+			</flechetteweaponbonus>
+			<ammoforweapontype>Shotguns</ammoforweapontype>
+		</gear>
+		<gear>
+			<id>f7336014-473a-43c2-a5d9-a4f320badd02</id>
+			<name>Ammo: Grey Fire Tank</name>
+			<category>Ammunition</category>
+			<rating>0</rating>
+			<source>BASE</source>
+			<page>28</page>
+			<avail>13R</avail>
+			<cost>350</cost>
+			<costfor>10</costfor>
+			<ammoforweapontype>grey fire</ammoforweapontype>
+		</gear>
+	</gears>
+</chummer>
+
+

@@ -1,0 +1,10 @@
+<chummer>
+  <metatypes>
+    <metatype xpathfilter="source = 'DT'">
+      <hide addifnotfound="True"/>
+    </metatype>
+    <metatype xpathfilter="source = 'RF'">
+      <hide addifnotfound="True"/>
+    </metatype>
+  </metatypes>
+</chummer>

@@ -1,0 +1,329 @@
+<chummer>
+	<armors>
+		<armor> 
+			<id></id>
+			<name></name>
+			<category></category>
+			<armor></armor>
+			<armorcapacity></armorcapacity>
+			<avail></avail>
+			<cost></cost>
+			<bonus></bonus>
+			<mods>
+				<name></name>
+			</mods>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<source>BASE</source>
+			<page></page>
+		</armor>
+		<mod>
+			<id></id>
+			<name></name>
+			<category></category>
+			<armor></armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity></gearcapacity>
+			<avail></avail>
+			<cost></cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<armor> 
+			<id>7ee16e02-28b6-4585-90ff-3b0ba4f99ee2</id>
+			<name>MagnaPul Fast Response</name>
+			<category>Specialty Armor</category>
+			<armor>12</armor>
+			<armorcapacity>6</armorcapacity>
+			<avail>6</avail>
+			<cost>1500</cost>
+			<bonus></bonus>
+			<mods>
+				<name>Attachable Gear Access</name>
+			</mods>
+			<gears>
+				<usegear>Camera, Micro</usegear>
+				<usegear>Biomonitor</usegear>
+				<usegear>Micro-Transceiver</usegear>
+			</gears>
+			<source>BASE</source>
+			<page>36</page>
+		</armor>
+		<armor>
+			<id>c5efa339-e969-4062-b3ce-4dfad23aa026</id>
+			<name>AM-PP Security Suit</name>
+			<category>Specialty Armor</category>
+			<armor>6</armor>
+			<armorcapacity>8</armorcapacity>
+			<avail>10R</avail>
+			<cost>5500</cost>
+			<bonus></bonus>
+			<notes>While the table above lists the additional pieces as having a +x value, they are intended to represent an increase to the base armor rating of this, not a modification to be limited by a users strength.</notes>
+			<mods>
+				<name>Attachable Gear Access</name>
+				<name rating="2">Nonconductivity</name>
+			</mods>
+			<gears>
+				<usegear>Biomonitor</usegear>
+				<usegear>Holster</usegear>
+			</gears>
+			<source>BASE</source>
+			<page>41</page>
+		</armor>
+		<armor> 
+			<id>c5efa339-e969-4062-b3ce-4dfad23aa027</id>
+			<name>Boxing Shields</name>
+			<category>Specialty Armor</category>
+			<armor>+1</armor>
+			<armorcapacity>1</armorcapacity>
+			<avail>4R</avail>
+			<cost>140</cost>
+			<addweapon>Boxing Shields</addweapon>
+			<source>BASE</source>
+			<page>32</page>
+		</armor>
+	</armors>
+	<mods>
+		<mod>
+			<id>80313cc0-4b57-4e29-b4ac-8ff287e7b86c</id>
+			<name>Shoulder Armor</name>
+			<category>General</category>
+			<armor>0</armor>
+			<maxrating>1</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<gearcapacity>3</gearcapacity>
+			<hide/>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>SR5</source>
+			<page>437</page>
+		</mod>
+		<mod>
+			<id>2a733010-0fec-4f25-8fc9-a9bb0ee556ad</id>
+			<name>Vital Armor</name>
+			<category>General</category>
+			<armor>0</armor>
+			<maxrating>1</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<gearcapacity>1</gearcapacity>
+			<hide/>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>SR5</source>
+			<page>437</page>
+		</mod>
+		<mod>
+			<id>dd2aa4f1-44e4-4bc8-8fc8-9c9b05a32b9e</id>
+			<name>Forearm Armor</name>
+			<category>General</category>
+			<armor>0</armor>
+			<maxrating>1</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<gearcapacity>3</gearcapacity>
+			<hide/>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>SR5</source>
+			<page>437</page>
+		</mod>
+		<mod>
+			<id>a4f43742-ed40-44bb-a0db-e20b4e493267</id>
+			<name>Leg Armor</name>
+			<category>General</category>
+			<armor>0</armor>
+			<maxrating>1</maxrating>
+			<armorcapacity>[0]</armorcapacity>
+			<gearcapacity>1</gearcapacity>
+			<hide/>
+			<avail>0</avail>
+			<cost>0</cost>
+			<source>SR5</source>
+			<page>437</page>
+		</mod>
+		<mod>
+			<id>b97c9d28-4e2e-4029-b94a-803d47d7c5b7</id>
+			<name>AM-PP Vitals Enhancement I</name>
+			<category>General</category>
+			<armor>+1</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear rating="2">Chemical Protection</usegear>
+			</gears>
+			<gearcapacity>2</gearcapacity>
+			<avail>10R</avail>
+			<cost>800</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>7cdc9e0e-e499-42be-9572-8448aa43b237</id>
+			<name>AM-PP Vitals Enhancement II</name>
+			<category>General</category>
+			<armor>+1</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear rating="1">Chemical Protection</usegear>
+				<usegear rating="1">Nonconductivity</usegear>
+			</gears>
+			<gearcapacity>2</gearcapacity>
+			<avail>15R</avail>
+			<cost>1000</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>6b309f73-e626-45f7-a2e1-9d6bfdedd2ac</id>
+			<name>AM-PP Secruity Vest</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear>Gel Packs</usegear>
+				<usegear>Reloading Slide</usegear>
+			</gears>
+			<gearcapacity>2</gearcapacity>
+			<avail>11R</avail>
+			<cost>4000</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>e5ac3b11-1387-4916-9d3f-175fc031c774</id>
+			<name>AM-PP Extremity Guards</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear>Shock Frills</usegear>
+			</gears>
+			<gearcapacity>0</gearcapacity>
+			<avail>10R</avail>
+			<cost>750</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>a6e5fe07-2782-4e44-bcb9-f6004d917bc0</id>
+			<name>AM-PP Secruity Plating</name>
+			<category>General</category>
+			<armor>+2</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear rating="3">Grey Mana Integration</usegear>
+				<usegear>Holster</usegear>
+				<usegear>Restrictive</usegear>
+			</gears>
+			<gearcapacity>4</gearcapacity>
+			<avail>11R</avail>
+			<cost>4000</cost>
+			<source>BASE</source>
+			<page>41</page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+		<mod>
+			<id>8fc22542-ba0d-4777-8a7d-df5131ac921c</id>
+			<name>AM-PP Security Pack</name>
+			<category>General</category>
+			<armor>+0</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear>AM-PP Security Pack Sensor</usegear>
+			</gears>
+			<gearcapacity>5</gearcapacity>
+			<avail>12R</avail>
+			<cost>6000</cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+			<forbidden>
+				<oneof>
+				<mod>AM-PP Security Pack</mod>
+				<mod>AM-PP Specialized Pack</mod>
+				</oneof>
+			</forbidden>
+		</mod>
+		<mod>
+			<id>ef0e829f-f93e-4930-85b1-404ba8c18a66</id>
+			<name>AM-PP Specialized Pack</name>
+			<category>General</category>
+			<armor>+0</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity></gearcapacity>
+			<avail>16F</avail>
+			<cost>10000</cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+			<forbidden>
+				<oneof>
+				<mod>AM-PP Security Pack</mod>
+				<mod>AM-PP Specialized Pack</mod>
+				</oneof>
+			</forbidden>
+		</mod>
+		<mod>
+			<id>bf05b1af-7e93-43c1-aa36-49cb6e53ed82</id>
+			<name>AM-PP Security Cap w/ Visor</name>
+			<category>General</category>
+			<armor>+1</armor>
+			<armorcapacity>[0]</armorcapacity>
+			<gears>
+				<usegear></usegear>
+			</gears>
+			<gearcapacity>0</gearcapacity>
+			<avail>12R</avail>
+			<cost>5500</cost>
+			<source>BASE</source>
+			<page></page>
+			<required>
+				<parentdetails>
+				<name>AM-PP Security Suit</name>
+				</parentdetails>
+			</required>
+		</mod>
+	</mods>
+</chummer>

@@ -1,0 +1,19 @@
+<chummer>
+	<traditions>
+		<tradition  xpathfilter="source = 'FA'">
+			<hide addifnotfound="True" />
+		</tradition>
+		<tradition  xpathfilter="source = 'SG'">
+			<hide addifnotfound="True" />
+		</tradition>
+		<tradition  xpathfilter="source = 'SSP'">
+			<hide addifnotfound="True" />
+		</tradition>
+		<tradition  xpathfilter="source = 'HT'">
+			<hide addifnotfound="True" />
+		</tradition>
+		<tradition  xpathfilter="source = 'SFME'">
+			<hide addifnotfound="True" />
+		</tradition>
+	</traditions>
+</chummer>

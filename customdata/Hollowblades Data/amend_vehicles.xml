@@ -1,0 +1,191 @@
+<chummer>
+	<categories>
+		<category blackmarket="Vehicles" amendoperation="addnode">Walkers</category>
+	</categories>
+	<vehicles>
+		<vehicle xpathfilter="source = 'R5' or source='SS' or source='KK' or source='HT' or source='SFME' or source='TCT' or source='TSG' or source='CA' or source='BB' or source='TVG' or source='CP' or source='NF' or source='SL'">
+			<hide amendoperation="addnode"/>
+		</vehicle>
+		<vehicle>
+			<id>c0d3e7fd-d5fd-48c4-b49d-0c7dea26895d</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>1e8e5e79-9d32-48fa-802c-6bf91676ae63</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>86374792-b881-4d9b-915a-d0e6652bbf4d</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>2df83d3e-78bb-4b42-b19f-78df8588e981</id>
+			<name>Yamaha Growler (Off-Road Bike)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>bffc0ba9-ab14-4226-bb4e-c2db70528a06</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>7e5d30f4-ef09-4a95-8bb5-a9128557e1b0</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>6af4e72c-a783-4b61-8f3b-22436b635b57</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>e3b51fdb-e62b-4343-b905-999056286fcb</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>d7695e8c-1eab-4fe3-8b37-406cc73ca1d6</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>898906ec-f2b9-43a4-98ad-6f79230b9a0c</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>79046746-a3fb-4eb2-a78a-82ebdeecdacc</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>72a204fc-e4f7-4e00-9d14-7f338fb86817</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>3aed6a1c-af27-48eb-84e3-8f21875e0c65</id>
+			<name>Mitsubishi Nightsky (Limousine)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>71600577-7cce-4f6b-9854-531460d9400a</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>c8f7e6c0-85e6-4feb-9ef0-0aeca5fba76b</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>a8c39fd9-d219-4772-9f8e-49b1d0975733</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>6c6893fd-a69f-4346-885b-c6ae85679d35</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>73b7729b-89c1-44fb-950c-f8391376a6b8</id>
+			<name>F-B Bumblebee</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>9186a0a7-635f-4242-a0e8-238f48b17ca2</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>1291ab59-2483-42ca-b7a9-503b2c354cee</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>1f3308cb-837a-45c5-b581-9fef48cd4d8c</id>
+			<name>Shiawase Kanmushi (Microdrone)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>3be36e78-0786-45e6-bc72-6269b75c3f29</id>
+			<name>Sikorsky-Bell Microskimmer (Microdrone)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>16d4e660-7014-434e-a437-08bc869c6200</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>9604795c-03f2-46db-a86b-3fd16ea35c51</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>590fde44-d58d-4b96-871f-406426dbabf7</id>
+			<name>Artemis Industries Nightwing (Glider)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>a383fc02-599b-4bd6-b699-bbac28162ef2</id>
+			<name>Cessna C750 (Twin-Prop Airplane)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>af79563a-e66d-4cd4-9b1b-2d412ce54107</id>
+			<name>Renault-Fiat Fokker Tundra-9 (Amphibious Jet)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>907833f4-30d3-4291-ba21-f165ec105b92</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>9ce49c91-c231-4784-b88b-feee327fec90</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>c0e5d03c-abbd-433a-b186-0bb2b4945b4c</id>
+			<name>Northrup Wasp (Autogyro)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>6cef9ce0-b7b0-4d3c-933a-ef1da1580388</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>f6360d94-95f1-474c-82b3-0c0d3f9575c2</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>0ed17686-7ac3-48de-88d2-bc8738a00afa</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>3ce7af9c-104c-4b74-be1b-f0b512ebea4b</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>30de4139-368b-4569-94c1-f65c1cd2dc26</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>56747364-dbd5-40e3-b4c1-5a361ec0c710</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>de4166ba-f6b3-4675-acef-39327c84f57f</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>37eff614-ba8d-422c-af74-5cabcdebe3ce</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>7926b1f7-9d92-4e28-9913-4d0c4d8b3c86</id>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<name>Horizon Flying Eye (Minidrone)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<name>Horizon Flying Eye w/Flash-Pak and Grenade (Minidrone)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<name>Proteus Lamprey (Sea Sled)</name>
+			<hide/>
+		</vehicle>
+		<vehicle>
+			<id>d187e9f7-b308-426f-ac35-957ba601c70c</id>
+			<name>Fly-Spy (Minidrone)</name>
+		</vehicle>
+	</vehicles>
+</chummer>

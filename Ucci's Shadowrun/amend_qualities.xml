@@ -39,6 +39,12 @@
 		<quality xpathfilter="source = 'HT'">
       		<hide addifnotfound="True"/>
     	</quality>
+		<quality xpathfilter="source = 'SL'">
+      		<hide addifnotfound="True"/>
+    	</quality>
+		<quality xpathfilter="source = 'AP'">
+      		<hide addifnotfound="True"/>
+    	</quality>
 		<quality>
 			<name>Carrier (HMHVV Strain II)</name>
 			<hide/>

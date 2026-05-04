@@ -1,0 +1,48 @@
+<chummer>
+  <quality>
+    <id>38132072-ff59-405e-af0a-8f3af6569101</id>
+      <name>Banned For Life</name>
+      <karma>-8</karma>
+      <category>Negative</category>
+      <bonus>
+        <selecttext/>
+      </bonus>
+      <source>BASE</source>
+      <page>67</page>
+  </quality>
+  <quality>
+    <id>38132072-ff59-405e-af0a-8f3af6569102</id>
+      <name>Exiled</name>
+      <karma>-4</karma>
+      <category>Negative</category>
+      <bonus>
+        <selecttext/>
+      </bonus>
+      <source>BASE</source>
+      <page>67</page>
+  </quality>
+  <quality>
+    <id>38132072-ff59-405e-af0a-8f3af6569103</id>
+      <name>Offcially Licensed</name>
+      <karma>-5</karma>
+      <category>Negative</category>
+      <bonus>
+      </bonus>
+      <source>BASE</source>
+      <page>67</page>
+  </quality>
+  <quality>
+    <id>38132072-ff59-405e-af0a-8f3af6569104</id>
+      <name>Exarch Affiliation</name>
+      <karma>-2</karma>
+      <category>Negative</category>
+      <bonus>
+        <skillcategorykarmacost>
+          <name>Academic</name>
+          <val>-1</val>
+          <min>2</min>
+        </skillcategorykarmacost>
+      <source>BASE</source>
+      <page>67</page>
+  </quality>
+</chummer>

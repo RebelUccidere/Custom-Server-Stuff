@@ -42,6 +42,9 @@
 		<quality xpathfilter="source = 'AP'">
       		<hide addifnotfound="True"/>
     	</quality>
+		<quality  xpathfilter="source = 'RF' and metagenic ='True'">
+			<hide addifnotfound="True" />
+		</quality>
 		<quality>
 			<name>Carrier (HMHVV Strain II)</name>
 			<hide/>

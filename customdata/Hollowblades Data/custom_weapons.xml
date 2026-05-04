@@ -2602,8 +2602,8 @@
 			<conceal>10</conceal>
 			<accuracy>5</accuracy>
 			<reach>0</reach>
-			<damage>Missile</damage>
-			<ap>Missile</ap>
+			<damage>as Missile</damage>
+			<ap>as Missile</ap>
 			<mode>SS</mode>
 			<rc>0</rc>
 			<ammo>1(m)</ammo>

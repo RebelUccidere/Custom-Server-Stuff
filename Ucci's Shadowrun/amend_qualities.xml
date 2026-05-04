@@ -18,6 +18,18 @@
     	<quality xpathfilter="source = 'RG'">
       		<hide addifnotfound="True"/>
     	</quality>
+		<quality xpathfilter="source = 'R5'">
+      		<hide addifnotfound="True"/>
+    	</quality>
+		<quality xpathfilter="source = 'KC'">
+      		<hide addifnotfound="True"/>
+    	</quality>
+		<quality xpathfilter="source = 'TCT'">
+      		<hide addifnotfound="True"/>
+    	</quality>
+		<quality xpathfilter="source = 'SG'">
+      		<hide addifnotfound="True"/>
+    	</quality>
 		<quality>
 			<name>Carrier (HMHVV Strain II)</name>
 			<hide/>

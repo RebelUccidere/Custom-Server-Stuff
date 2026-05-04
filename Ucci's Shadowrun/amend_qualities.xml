@@ -1,27 +1,21 @@
 <chummer>
 	<qualities>
-		<quality>
-    		<quality xpathfilter="source = 'RF'">
+    	<quality xpathfilter="source = 'RF'">
       		<hide addifnotfound="True"/>
     	</quality>
-		<quality>
-    		<quality xpathfilter="source = 'SASS'">
+    	<quality xpathfilter="source = 'SASS'">
       		<hide addifnotfound="True"/>
     	</quality>
-		<quality>
-    		<quality xpathfilter="source = 'BB'">
+    	<quality xpathfilter="source = 'BB'">
       		<hide addifnotfound="True"/>
     	</quality>
-		<quality>
-    		<quality xpathfilter="source = 'DT'">
+    	<quality xpathfilter="source = 'DT'">
       		<hide addifnotfound="True"/>
     	</quality>
-		<quality>
-    		<quality xpathfilter="source = 'CF'">
+    	<quality xpathfilter="source = 'CF'">
       		<hide addifnotfound="True"/>
     	</quality>
-		<quality>
-    		<quality xpathfilter="source = 'RG'">
+    	<quality xpathfilter="source = 'RG'">
       		<hide addifnotfound="True"/>
     	</quality>
 		<quality>

@@ -30,6 +30,15 @@
 		<quality xpathfilter="source = 'SG'">
       		<hide addifnotfound="True"/>
     	</quality>
+		<quality xpathfilter="source = 'CA'">
+      		<hide addifnotfound="True"/>
+    	</quality>
+		<quality xpathfilter="source = 'TSG'">
+      		<hide addifnotfound="True"/>
+    	</quality>
+		<quality xpathfilter="source = 'HT'">
+      		<hide addifnotfound="True"/>
+    	</quality>
 		<quality>
 			<name>Carrier (HMHVV Strain II)</name>
 			<hide/>
@@ -152,6 +161,30 @@
 		</quality>
 		<quality>
 			<name>Changeling (Class II SURGE)</name>
+			<hide/>
+		</quality>
+		<quality>
+			<name>Instinctive Hack</name>
+			<hide/>
+		</quality>
+		<quality>
+			<name>Dead SIN</name>
+			<hide/>
+		</quality>
+		<quality>
+			<name>SINner (Criminal)</name>
+			<hide/>
+		</quality>
+		<quality>
+			<name>SINner (National)</name>
+			<hide/>
+		</quality>
+		<quality>
+			<name>SINner (Corporate)</name>
+			<hide/>
+		</quality>
+		<quality>
+			<name>SINner (Corporate Limited)</name>
 			<hide/>
 		</quality>
 	</qualities>

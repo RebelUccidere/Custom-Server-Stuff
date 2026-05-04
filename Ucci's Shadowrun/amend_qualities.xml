@@ -1,8 +1,5 @@
 <chummer>
 	<qualities>
-    	<quality xpathfilter="source = 'RF'">
-      		<hide addifnotfound="True"/>
-    	</quality>
     	<quality xpathfilter="source = 'SASS'">
       		<hide addifnotfound="True"/>
     	</quality>

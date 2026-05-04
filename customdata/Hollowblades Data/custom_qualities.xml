@@ -54,7 +54,9 @@
       <bonus>
       </bonus>
       <required>
-        <quality>Officially Licensed</quality>
+        <oneof>
+          <quality>Officially Licensed</quality>
+        </oneof>
       </required>
       <source>BASE</source>
       <page>67</page>

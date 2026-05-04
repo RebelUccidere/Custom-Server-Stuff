@@ -42,6 +42,7 @@
           <val>-1</val>
           <min>2</min>
         </skillcategorykarmacost>
+      </bonus>
       <source>BASE</source>
       <page>67</page>
   </quality>
